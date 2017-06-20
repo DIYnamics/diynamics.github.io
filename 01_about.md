@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Demo](./Containerless.png)
+![Model](./Schematic.png)
 
 The DIY Rotating Tank outreach project is designed to introduce classrooms of all ages to geophysical fluid dynamics (GFD) concepts. GFD can be broken down into
 

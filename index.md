@@ -7,11 +7,11 @@ layout: page
 
 ## **Welcome to our website!**
 
-![Intro](./Intro.jpg)
+![Intro](./Slideshow.gif)
 
 This website provides an overview of the DIY Rotating Tank outreach project by scientists at the University of California, Los Angeles. Our research is focused on geophysical fluid dynamics (GFD) and we seek to spread the study of this field to classrooms of all ages. We have provided the materials and information necessary for anyone interested to perform their own GFD demonstrations. 
 
-Please explore this website for information regarding our mission, rotating tank design, educator resources, past outreach events, team and funding. We will be updating this site as the outreach project progresses.
+Please explore this website for information regarding our mission, rotating tank design, educator resources, past outreach events, team and funding. Further resources are featured on our [YouTube channel](http://tinyurl.com/diyrotatingtank-youtube). We will be updating this site as the outreach project progresses.
 
 # **Posts**  
 May 22, 2017  

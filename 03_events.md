@@ -5,7 +5,7 @@ title: Events
 
 ![Events](./Intro.jpg)
 
-Members of the DIY Rotating Tank outreach project visit local schools to teach students about geophysical fluid dynamics (GFD) and the use of scientific models to study key concepts. We bring large rotating tanks to provide class demonstrations detailing the creation of vortices and weather patterns. Meanwhile, our DIY Rotating Tanks are instrumental in providing every student the opportunity to perform GFD experiments themselves. Please take a look at the following posts to learn more about past events.
+Members of the DIY Rotating Tank outreach project visit local schools to teach students about geophysical fluid dynamics (GFD) and the use of scientific models to study key concepts. We bring large rotating tanks for class demonstrations detailing the creation of vortices and weather patterns. Meanwhile, our DIY Rotating Tanks are instrumental in providing every student the opportunity to perform GFD experiments themselves. Please take a look at the following posts to learn more about past events.
 
 # **Posts**
 
