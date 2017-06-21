@@ -3,12 +3,11 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: 
 ---
 
-## **Welcome to our website!**
-
 ![Intro](./Slideshow.gif)
+
+## **Welcome to our website!**
 
 This website provides an overview of the DIY Rotating Tank outreach project by scientists at the University of California, Los Angeles. Our research is focused on geophysical fluid dynamics (GFD) and we seek to spread the study of this field to classrooms of all ages. We have provided the materials and information necessary for anyone interested to perform their own GFD demonstrations. 
 
