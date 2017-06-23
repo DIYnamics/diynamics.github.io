@@ -6,13 +6,13 @@ layout: page
 title: ''
 ---
 
-## **Welcome to our website!**
+## **DIYnamics: affordable, accessible Earth science demonstration and teaching materials**
 
 ![Intro](./Slideshow.gif)
 
-This website provides an overview of the DIY Rotating Tank outreach project by scientists at the University of California, Los Angeles. Our research is focused on geophysical fluid dynamics (GFD) and we seek to spread the study of this field to classrooms of all ages. We have provided the materials and information necessary for anyone interested to perform their own GFD demonstrations. 
+The DIYnamics organization develops inexpensive apparatus for teaching fundamental concepts in Earth sciences -- with an emphasis on geophysical fluid dynamics (GFD) -- in classrooms from the elementary school to university levels.  We provide assembly instructions, lesson plans, and even instructional videos to enable students and teachers to learn fundamental Earth science concepts by performing their very own GFD demonstrations.  The project is led by a group of scientists, students, and professors at the University of California, Los Angeles.
 
-Please explore this website for information regarding our mission, rotating tank design, educator resources, past outreach events, team and funding. Further resources are featured on our [YouTube channel](http://tinyurl.com/diyrotatingtank-youtube). We will be updating this site as the outreach project progresses.
+Please explore this website for information regarding our mission, rotating tank design, educator resources, past outreach events, and more.  Please also check out our [YouTube channel](http://tinyurl.com/diyrotatingtank-youtube).
 
 # **Posts**  
 May 22, 2017  
