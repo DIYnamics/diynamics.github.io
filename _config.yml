@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DIY Rotating Tank
-email: diyrotatingtank@gmail.com
+title: DIYnamics
+email: diynamicsteam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    This website details the DIY Rotating Tank outreach project by scientists at the University of California, Los Angeles
+    This website details the DIYnamics outreach project by scientists at the University of California, Los Angeles
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: spencerahill
-github_username:  diy-rotating-tank
+github_username:  DIYnamics
 
 # Build settings
 markdown: kramdown
