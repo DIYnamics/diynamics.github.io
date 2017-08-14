@@ -6,17 +6,20 @@ layout: page
 title: ''
 ---
 
-## **Welcome to our website!**
+## DIYnamics: scalable geoscience education via rotating fluid demonstrations
 
-![Intro](./Slideshow.gif)
+![Intro]({{ site.url }}/assets/img/homepage_slideshow.gif)
 
-This website provides an overview of the DIY Rotating Tank outreach project by scientists at the University of California, Los Angeles. Our research is focused on geophysical fluid dynamics (GFD) and we seek to spread the study of this field to classrooms of all ages. We have provided the materials and information necessary for anyone interested to perform their own GFD demonstrations. 
+This website provides an overview of the DIY Rotating Tank outreach project by scientists at the University of California, Los Angeles. Our research is focused on geophysical fluid dynamics (GFD) and we seek to spread the study of this field to classrooms of all ages. We have provided the materials and information necessary for anyone interested to perform their own GFD demonstrations.
 
 Please explore this website for information regarding our mission, rotating tank design, educator resources, past outreach events, team and funding. Further resources are featured on our [YouTube channel](http://tinyurl.com/diyrotatingtank-youtube). We will be updating this site as the outreach project progresses.
 
-# **Posts**  
-May 22, 2017  
+# **Posts**
+June 13, 2017
+# [Sierra Nevada Aquatic Research Laboratory event](./2017/06/13/snarl.html)
+
+May 22, 2017
 # [Ralph Bunche Middle School Event](./2017/05/22/ralph-bunche.html)
 
-May 19, 2017  
+May 19, 2017
 # [La Tijera K-8 School Event](./2017/05/19/la-tijera.html)
