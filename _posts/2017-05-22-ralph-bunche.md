@@ -8,7 +8,7 @@ On May 22nd, 2017, we visited Ralph Bunche Middle School in Compton, California.
 
 ![Lecture](./Lecture_1.png)
 
-_Sean providing a lecture on GFD and the use of models in studying science. Lecture slides can be found [here](https://drive.google.com/open?id=1ClYEmFAEATzG2iHZ8uqD2pzgEYSqbrYZD0xDRfuADzk)._
+_Sean providing a lecture on GFD and the use of models in studying science. Lecture slides can be found [here](https://docs.google.com/presentation/d/1ClYEmFAEATzG2iHZ8uqD2pzgEYSqbrYZD0xDRfuADzk/edit?usp=sharing)._
 
 | ------------- |:-------------:|
 | ![LEGO Table](./Lego_Table.png)| ![Rotating Column](./Column.png) |
