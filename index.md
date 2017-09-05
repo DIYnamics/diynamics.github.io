@@ -12,7 +12,7 @@ title: ''
 
 DIYnamics develops inexpensive apparatus for teaching fundamental concepts in Earth sciences -- with an emphasis on geophysical fluid dynamics (GFD) -- in classrooms from the elementary school to university levels.  We provide assembly instructions, lesson plans, and even instructional videos to enable students and teachers to learn fundamental Earth science concepts by performing their very own GFD demonstrations.  The project is led by a group of scientists, students, and professors at UCLA.
 
-Please explore this website for information regarding our mission, rotating tank design, educator resources, past outreach events, and more.  Please also check out our [YouTube channel](http://tinyurl.com/diyrotatingtank-youtube).
+Please explore this website for information regarding our mission, rotating tank design, educator resources, past outreach events, and more.  Please also check out our [YouTube channel](http://tinyurl.com/diynamicsvideos).
 
 # **Posts**
 June 13, 2017
