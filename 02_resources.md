@@ -4,20 +4,20 @@ title: Resources
 cover_image: /Bloom.jpg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kEsDX-B5FGs?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkVr4Vv3XRM" frameborder="0" allowfullscreen></iframe>
 
 Building and experimenting with your own DIY Rotating Tank is fun and easy! Take a look at the following documents to get started.
 
-[Parts](https://drive.google.com/open?id=0B28wggH2gQfTWXRVcl9naHVyMzg)  
+[Parts](https://drive.google.com/open?id=0B9afbjHRPK9wM1pleXVWa1FkSjQ)  
 This document lists the components necessary to build our design. The DIY Rotating Tank is constructed from easily obtainable parts and costs $39.15 in total ($67.13 with optional components). Note that prices reflect April 30th, 2017 figures.
 
-[Instructions](https://drive.google.com/open?id=0B28wggH2gQfTMFFiVmw3UEFGMk0)  
+[Instructions](https://drive.google.com/open?id=0B9afbjHRPK9wVXJFNHNYSUNERVU)  
 This document contains a step by step guide regarding how to build your own DIY Rotating Tank and set up its LEGO Power Functions components. The instructions also include an overview on how to operate the design and general troubleshooting tips. A video version of the instructions can be found below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2k8ARA2OPM?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvF6UAO8vPA" frameborder="0" allowfullscreen></iframe>
 
-[Teaching Guide](https://drive.google.com/open?id=0B28wggH2gQfTMzlKQU1OYmgwRUk)  
-This document provides an overview of several geophysical fluid dynamics (GFD) experiments than can be performed using the DIY Rotating Tank. The teaching guide includes background information detailing GFD concepts. Demonstrational videos can be found on our [YouTube channel](http://tinyurl.com/diyrotatingtank-youtube).
+[Teaching Guide](https://drive.google.com/open?id=0B9afbjHRPK9wMnU3Sy1ZNWtSQkk)  
+This document provides an overview of several geophysical fluid dynamics (GFD) experiments than can be performed using the DIY Rotating Tank. The teaching guide includes background information detailing GFD concepts. Demonstrational videos can be found on our [YouTube channel](http://tinyurl.com/diynamicsvideos).
 
 # **External Resources**  
 [SPINLab](http://spinlab.ess.ucla.edu/)  
