@@ -18,7 +18,7 @@ _Katie and other members of the DIY Rotating Tank team demonstrate how rotating 
 | ------------- |:-------------:|
 | ![White Whale 1](./1_White_Whale.png)| ![White Whale 2](./2_White_Whale.png) |
 
-_Juan provides a demonstration of the mechanical creation of vortices&emdash;the swirling patterns in the dye. When students dipped their hands into the large rotating tank, the physical disturbance resulted in turbluence. Other sources of turbluence like the movement of heat can also generate vortices._
+_Juan provides a demonstration of the mechanical creation of vortices&emdash;the swirling patterns in the dye. When students dip their hands into the large rotating tank, the physical disturbance results in turbluence. Other sources of turbluence like the movement of heat can also generate vortices._
 
 ![Square Table](./Square.png)
 
