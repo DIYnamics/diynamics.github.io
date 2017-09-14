@@ -5,16 +5,25 @@ title: Events
 
 ![Events](./Intro.png)
 
-Members of the DIYnamics outreach project visit local schools to teach students about geophysical fluid dynamics (GFD) and the use of scientific models to study key concepts. We bring large rotating tanks for class demonstrations detailing the creation of vortices and weather patterns. Meanwhile, our DIY Rotating Tanks are instrumental in providing every student the opportunity to perform GFD experiments themselves. Please take a look at the following posts to learn more about past events.
+DIYnamics team members teach students at local school about
+geophysical fluid dynamics (GFD) and the use of scientific models.  We
+bring rotating tanks for demonstrations of topics such as the creation
+of vortices and weather patterns.  The DIYnamics rotating tanks, being
+so cheap, portable, easy to assemble, and easy to operate, enable
+every student to literally get their hands wet by helping to perform
+the demonstrations themselves.
+
+Check out the links below for summaries and imaes from our past
+events.  Still want to find out more, including how to run your own
+event?  Reach out to us at
+[diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com)
 
 # **Posts**
 June 13, 2017
 # [Sierra Nevada Aquatic Research Laboratory event](./2017/06/13/snarl.html)
 
-May 22, 2017  
+May 22, 2017
 # [Ralph Bunche Middle School Event](./2017/05/22/ralph-bunche.html)
 
-May 19, 2017  
+May 19, 2017
 # [La Tijera K-8 School Event](./2017/05/19/la-tijera.html)
-
-If you are located in the Los Angeles area and would like to inquire about hosting an event, please contact us via email at diynamicsteam@gmail.com
