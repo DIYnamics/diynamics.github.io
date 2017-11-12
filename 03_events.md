@@ -19,6 +19,9 @@ event?  Reach out to us at
 [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com)
 
 # **Posts**
+November 5, 2017
+# [UCLA Explore Your Universe 2017](./2017/11/05/eyu.html)
+
 June 13, 2017
 # [Sierra Nevada Aquatic Research Laboratory event](./2017/06/13/snarl.html)
 
