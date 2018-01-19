@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-cover_image: /Bloom.jpg
+cover_image: ./assets/img/phytoplankton_bloom.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zkVr4Vv3XRM" frameborder="0" allowfullscreen></iframe>
@@ -11,13 +11,15 @@ fun and easy! Take a look at the following documents to get started.
 
 ## **Assembling the DIYnamics rotating table**
 
-# [Parts list PDF](https://drive.google.com/open?id=0B9afbjHRPK9wM1pleXVWa1FkSjQ)
+/assets/img/eyu2017_sean.jpg
+
+# [Parts list PDF]({{ site.url }}/assets/pdf/diynamics_table_parts_list.pdf)
 
 This document lists all components necessary to build the table and
 links to buy the parts online, mostly from Amazon.  In total they cost
 only $39.15 ($67.13 with optional components; prices as of May 2017).
 
-# [Instructions PDF](https://drive.google.com/open?id=0B9afbjHRPK9wVXJFNHNYSUNERVU)
+# [Instructions PDF]({{ site.url }}/assets/pdf/diynamics_table_assembly_instructions.pdf)
 
 This document contains an illustrated, step-by-step guide on how the
 DIY Rotating Tank and set up its LEGO Power Functions components. The
@@ -29,7 +31,7 @@ be found below.
 
 ## **Learning and teaching with the DIYnamics rotating table**
 
-# [Teaching guide PDF](https://drive.google.com/open?id=0B9afbjHRPK9wMnU3Sy1ZNWtSQkk)
+# [Teaching guide PDF]({{ site.url }}/assets/pdf/diynamics_teaching_guide.pdf)
 
 This document provides an overview of several geophysical fluid
 dynamics (GFD) experiments than can be performed using the DIY

@@ -3,7 +3,7 @@ layout: page
 title: Events
 ---
 
-![Events](./Intro.png)
+![Events](./assets/img/la_tijera_alex.png)
 
 DIYnamics team members teach students at local schools and special
 events about geophysical fluid dynamics (GFD) and the use of

@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
-![Model](./Schematic.png)
+![Model](./assets/img/schematic_earth_vs_tank.png)
 
 The DIYnamics outreach project is designed to introduce classrooms of all ages to geophysical fluid dynamics (GFD) concepts. GFD can be broken down into
 
-- “**Geo**”: Earth  
-- “**Physical**”: physics  
-- “**Fluid**”: liquids and gases  
+- “**Geo**”: Earth
+- “**Physical**”: physics
+- “**Fluid**”: liquids and gases
 - “**Dynamics**”: how things move around
 
 so that overall GFD = the physics of fluid motions on Earth and other planets.
