@@ -5,19 +5,56 @@ title: About
 
 ![Model](./assets/img/schematic_earth_vs_tank.png)
 
-The DIYnamics outreach project is designed to introduce classrooms of all ages to geophysical fluid dynamics (GFD) concepts. GFD can be broken down into
+## Our mission: expand and improve teaching of *geophysical fluid dynamics* (GFD) at all age levels
+
+What is "geophysical fluid dynamics"?  Let's break it into pieces:
 
 - “**Geo**”: Earth
 - “**Physical**”: physics
 - “**Fluid**”: liquids and gases
 - “**Dynamics**”: how things move around
 
-so that overall GFD = the physics of fluid motions on Earth and other planets.
+So GFD = the physics of fluid motions on Earth and other planets.  The
+fluids we're most interested are the air in the atmosphere, the water
+in the ocean, and the liquids within a planet's interior.
 
-A significant component of research on GFD involves the use of rotating tanks to model the behavior of larger systems. To this end, we seek to provide a cheap and effective means for anyone interested to procure their own rotating tanks. We have developed a design using commerically available LEGO parts and a lazy susan that has the ability to model GFD as well as more expensive systems. The "Resources" page of this website includes documentation describing how you can procure and operate your own DIY Rotating Tank.
+## Our tool: affordable, accessible rotating tank-based teaching
+It turns out that the rotation of the Earth is extremely important for
+these fluid motions.  Fortunately, as the schematic at the top of this
+page illustrates, we can model Earth's atmosphere (and ocean, and
+interior) using a spinning tank of water.  So DIYnamics develops cheap
+and effective tank platforms and provides information both on how to
+build them and on how to use them as effective teaching tools.
 
-Another aspect of the DIYnamics outreach project is to visit classrooms and provide interactive GFD demonstrations. We have visited several schools in the Los Angeles area and taught students about the use of models in scientific research. In the context of GFD, we showed how our assortment of rotating tanks (from our large "White Whale" to our smaller DIY Rotating Tanks) can be used to observe various aspects of GFD. We included the students in all of these demonstrations and motivated them to think critically about how their observations related to the real world. The DIY Rotating Tank was a key tool in providing everyone the opportunity to learn about GFD. The "Posts" section of this website includes more detail on our outreach events.
+Want to learn more about the tables and lesson plans?  Visit our
+[Resources](./02_resources.html) page.
 
-Ultimately, we hope that our efforts can expand the study of GFD to classrooms across the country. The "Resources" page of this website includes a teaching guide that can be used to familiarize both educators and students with GFD concepts. With the DIY Rotating Tank, individuals can perform these demonstrations and many more by themselves.
+## Our outreach events: taking the DIYnamics rotating table into real classrooms
+We have visited several schools in the Los Angeles area and taught
+students about the use of models in scientific research.  We used an
+assortment of rotating tanks (from our large "White Whale" to the main
+DIYnamics rotating table).
 
-We hope you have fun learning about GFD and this outreach project!
+Want to learn more about these events and see pictures from them?
+Visit our [Events](./03_events.md) page.
+
+## DIYnamics history
+DIYnamics was initiated by a team of professors, postdocs, graduate
+students, and undergraduate students at UCLA, all in either the
+Departments of Earth, Planetary, and Space Sciences, or Atmospheric
+and Oceanic Sciences.  One of us (Jon Aurnou) had been using
+traditional rotating tank platforms and vinyl record players to
+perform demonstrations for several years and had been looking for a
+cheaper, more portable alternative.  In the 2016 spring term, a group
+of three undergraduates led by Jon developed an initial prototype of
+the DIYnamics table made primarily of wood and powered by a small
+motor connected to an Arduino.
+
+In early 2017, one of us (Norris Khoo) realized that the same
+functionality could be acquired with essentially what became the final
+design: a lazy susan driven by a LEGO Power Functions motor.  The name
+"DIYnamics" was chosen at some point in the first half of 2017.
+
+Want to learn more about who we are and the help we've gotten?  Visit
+our [Team](04_people.md) and [Acknowledgments](05_acknowledgments.md)
+pages.
