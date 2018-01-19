@@ -11,8 +11,6 @@ fun and easy! Take a look at the following documents to get started.
 
 ## **Assembling the DIYnamics rotating table**
 
-/assets/img/eyu2017_sean.jpg
-
 # [Parts list PDF]({{ site.url }}/assets/pdf/diynamics_table_parts_list.pdf)
 
 This document lists all components necessary to build the table and
