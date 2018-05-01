@@ -14,14 +14,14 @@ The DIYnamics team is composed of faculty, researchers, and students from the Un
 | ![Jonathan]({{ site.url }}/assets/people/Aurnou.jpg "Jonathan")| **Jonathan Aurnou** (Professor, UCLA Dept. of Earth, Planetary, and Space Sciences)<br>Jonathan considers few things as satisfying as developing inexpensive, portable rotating tables for teaching core geoscience topics.  Thus, he is so pleased to be a part of the DIYnamics project. [Link to webpage](http://epss.ucla.edu/people/faculty/543/)|
 | ![Norris]({{ site.url }}/assets/people/Norris.jpeg "Norris")| **Norris Khoo** (Undergraduate, UCLA Dept. of Earth, Planetary, and Space Sciences)<br>Norris designed the DIY Rotating Tank and wrote its PDF instructions. He created the outreach project website and instructional videos with the help of Spencer Hill. |
 | ![Placeholder]({{ site.url }}/assets/people/Person.jpg)| **Raul Reyes** (Undergraduate, UCLA Dept. of Earth, Planetary, and Space Sciences)<br>Raul created the [baroclinic eddies](https://www.youtube.com/watch?v=2nACitkIqNs) video under Juan's guidance. |
-| ![Placeholder]({{ site.url }}/assets/people/Person.jpg)| **Jonathan Mitchell** |
-| ![Placeholder]({{ site.url }}/assets/people/Person.jpg)| **Helen Parish** |
 
 # **Outreach Event Volunteers**
 
 | ------------- |:-------------:|
 | ![Ashley]({{ site.url }}/assets/people/Ashley.png "Ashley")| **Ashley Shoenfeld** (Graduate student, UCLA Dept. of Earth, Planetary, and Space Sciences)<br>Ashley is currently studying the ice moons of Jupiter and Saturn, and is a volunteer for the DIYnamics project. She believes outreach is one of the most important aspects of being a scientist, and genuinely loves teaching. She is passionate about science and hope she can impart that passion onto others.|
+| ![Placeholder]({{ site.url }}/assets/people/Person.jpg)| **Ashna Aggarwal** |
 | ![Placeholder]({{ site.url }}/assets/people/Person.jpg)| **Alex Arnold** |
 | ![Placeholder]({{ site.url }}/assets/people/Person.jpg)| **Chloe Whicker** |
 | ![Placeholder]({{ site.url }}/assets/people/Person.jpg)| **Katie Tuite** |
 | ![Placeholder]({{ site.url }}/assets/people/Person.jpg)| **Ellen Hoppe** |
+| ![Placeholder]({{ site.url }}/assets/people/Person.jpg)| **Helen Parish** |
