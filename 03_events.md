@@ -19,6 +19,15 @@ event?  Reach out to us at
 [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com)
 
 # **Posts**
+April 27, 2018
+# [El Marino Language School Science Fair 2018](./2018/04/27/el-marino.html)
+
+April 26, 2018
+# [Our first usage in undergraduate + graduate curriculum](./2018/04/26/ucla-grad-curric.html)
+
+March 25, 2018
+# [DIYnamics featured on UCLA Physical Sciences website](./2018/03/25/ucla-website.html)
+
 November 5, 2017
 # [UCLA Exploring Your Universe 2017](./2017/11/05/eyu.html)
 
