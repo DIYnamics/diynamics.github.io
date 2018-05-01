@@ -6,7 +6,8 @@ date:   2018-03-25
 
 ![ucla-physci-pic1]({{ site.url }}/assets/img/ucla-phy-sci-site-snippet.png){: .center-image }
 
-_Snippet from the UCLA Physical Sciences website with the link to the story they commissioned about DIYnamics.  How cool is that?!_
+_Snippet from the UCLA Physical Sciences website with the link to the
+story they commissioned about DIYnamics.  How cool is that?!_
 
 (This isn't exactly an event, but it's exciting enough that we felt it
 deserved a post anyways!)
