@@ -37,6 +37,8 @@ DEFAULT_PAGINATION = False
 ARTICLE_PATHS = ['posts']
 STATIC_PATHS = ['images', 'pdfs']
 
+PAGE_ORDER_BY = 'page-order'
+
 THEME = 'themes/pelican-alchemy/alchemy'
 
 PLUGIN_PATHS = ['plugins']
@@ -47,3 +49,5 @@ PLUGINS = [
            ]
 
 DISPLAY_CATEGORIES_ON_MENU = False
+
+SITEIMAGE = '/images/homepage_slideshow.gif'
