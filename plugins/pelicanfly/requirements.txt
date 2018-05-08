@@ -1,0 +1,3 @@
+pelican
+fontawesome-markdown==0.2.1
+nose # oh snap! this should be in test requirements

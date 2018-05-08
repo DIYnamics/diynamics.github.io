@@ -1,0 +1,3 @@
+python-nvd3==0.13.10
+pandas==0.16.2
+pyyaml==3.11
