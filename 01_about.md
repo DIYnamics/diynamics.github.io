@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Model](./assets/img/schematic_earth_vs_tank.png)
+![Model](./assets/pdf/schematic_earth_vs_tank.pdf)
 
 ## Our mission: expand and improve teaching of *geophysical fluid dynamics* (GFD) at all age levels
 
