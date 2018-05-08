@@ -1,8 +1,8 @@
----
-layout: page
-title: Resources
-cover_image: ./assets/img/phytoplankton_bloom.jpg
----
+Title: Resources
+Slug: resources
+page-order: 2
+
+![Phytoplankton bloom]({filename}../images/phytoplankton_bloom.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zkVr4Vv3XRM" frameborder="0" allowfullscreen></iframe>
 

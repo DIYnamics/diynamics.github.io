@@ -1,8 +1,12 @@
-Title: Links to other cool resources
-cover_image: images/phytoplankton_bloom.jpg
----
+Title: Links
+Slug: links
+page-order: 4
 
-# [UCLA SPINLab](http://spinlab.ess.ucla.edu/)
+![Phytoplankton bloom]({filename}../images/phytoplankton_bloom.jpg)
+
+# Links to other cool resources
+
+## [UCLA SPINLab](http://spinlab.ess.ucla.edu/)
 
 The Simulated Planetary INteriors Laboratory at UCLA studies the fluid
 dynamics of Earth and other planets, including magnetohydrodynamics.
@@ -14,7 +18,7 @@ regularly participate in numerous public outreach events (presentation
 slides can be found
 [here](http://spinlab.ess.ucla.edu/wp-content/uploads/2014/01/Aurnou-TurntableRecipes-EYU2011.pdf)).
 
-# [MIT "Weather in a Tank" project](http://weathertank.mit.edu/)
+## [MIT "Weather in a Tank" project](http://weathertank.mit.edu/)
 
 "Weather in a Tank" details how to conduct rotating fluid experiments
 to teach into atmospheric and oceanic processes.  A video introduction
@@ -22,7 +26,7 @@ to the project can be found [here](https://youtu.be/uWdKVpQ94Ns).
 Mostly intended for instructors at the upper-division undergraduate or
 early graduate levels.
 
-# [Marshall and Plumb textbook](http://marshallplumb.mit.edu/)
+## [Marshall and Plumb textbook](http://marshallplumb.mit.edu/)
 
 *Atmosphere, Ocean and Climate Dynamics* by Marshall and Plumb teaches
 the fundamentals of atmospheric and oceanic circulation, with rotating

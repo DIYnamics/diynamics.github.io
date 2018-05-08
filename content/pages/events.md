@@ -1,9 +1,8 @@
----
-layout: page
-title: Events
----
+Title: Events
+Slug: events
+page-order: 3
 
-![Events](./assets/img/la_tijera_alex.png)
+![Events]({filename}../images/la-tijera/alex-students.png)
 
 DIYnamics team members teach students at local schools and special
 events about geophysical fluid dynamics (GFD) and the use of
@@ -20,7 +19,7 @@ event?  Reach out to us at
 
 # **Posts**
 April 27, 2018
-# [El Marino Language School Science Fair 2018](./2018/04/27/el-marino.html)
+# [El Marino Language School Science Fair 2018]({filename}../posts/2018-04-27-el-marino.md)
 
 April 26, 2018
 # [Our first usage in undergraduate + graduate curriculum](./2018/04/26/ucla-grad-curric.html)
