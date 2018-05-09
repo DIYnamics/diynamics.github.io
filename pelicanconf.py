@@ -26,6 +26,11 @@ ICONS = [
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = True
 USE_FOLDER_AS_CATEGORY = True
+
+# Slight hack to get pages ordered how we want them in the Header.  The LINKS
+# setting is unique to the "alchemy" theme that we're using, and I've also
+# modified the theme so that the items in it open in the same tab, not a new
+# tab.
 LINKS = [
     ['about', '/pages/about.html'],
     ['resources', '/pages/resources.html'],
@@ -43,8 +48,6 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = False
-
-PAGE_ORDER_BY = 'page-order'
 
 THEME = 'themes/pelican-alchemy/alchemy'
 
