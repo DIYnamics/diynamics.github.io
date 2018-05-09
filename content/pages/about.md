@@ -26,8 +26,9 @@ interior) using a spinning tank of water.  So DIYnamics develops cheap
 and effective tank platforms and provides information both on how to
 build them and on how to use them as effective teaching tools.
 
-Want to learn more about the tables and lesson plans?  Visit our
-[Resources](./02_resources.html) page.
+Want to learn more about these materials?  Visit our pages on the
+DIYnamics rotating table [here](table.html) and on teaching with them
+[here](teaching.html).
 
 ## Our outreach events: taking the DIYnamics rotating table into real classrooms
 We have visited several schools in the Los Angeles area and taught
@@ -35,8 +36,9 @@ students about the use of models in scientific research.  We used an
 assortment of rotating tanks (from our large "White Whale" to the main
 DIYnamics rotating table).
 
-Want to learn more about these events and see pictures from them?
-Visit our [Events](./03_events.md) page.
+Visit our [Events](events.html) page to learn more about these events,
+and check out our [blog](blog.html) for summaries and pictures of past
+events.
 
 ## DIYnamics history
 DIYnamics was initiated by a team of professors, postdocs, graduate
@@ -56,5 +58,5 @@ design: a lazy susan driven by a LEGO Power Functions motor.  The name
 "DIYnamics" was chosen at some point in the first half of 2017.
 
 Want to learn more about who we are and the help we've gotten?  Visit
-our [Team](04_people.md) and [Acknowledgments](05_acknowledgments.md)
+our [Team](people.html) and [Acknowledgments](acknowledgments.html)
 pages.

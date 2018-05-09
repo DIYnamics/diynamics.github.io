@@ -11,7 +11,7 @@ DIYnamics rotating tanks, being so cheap, portable, easy to assemble,
 and easy to operate, enable every student to literally get their hands
 wet by helping to perform the demonstrations themselves.
 
-Check out [our blog](/blog.html) for summaries and images
+Check out [our blog](blog.html) for summaries and images
 from our past events.  Still want to find out more, including how to
 run your own event?  Reach out to us at
 [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com)

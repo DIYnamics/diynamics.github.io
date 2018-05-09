@@ -12,7 +12,7 @@ DESCRIPTION = ('DIYnamics: affordable, accessible Earth science demonstration '
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
 
-INDEX_SAVE_AS = 'blog.html'
+INDEX_SAVE_AS = '/pages/blog.html'
 
 PATH = 'content'
 ARTICLE_PATHS = ['posts']
@@ -36,7 +36,7 @@ LINKS = [
     ['table', '/pages/table.html'],
     ['teaching', '/pages/teaching.html'],
     ['events', '/pages/events.html'],
-    ['blog', '/blog.html'],
+    ['blog', '/pages/blog.html'],
     ['links', '/pages/links.html'],
     ['team', '/pages/people.html'],
     ['acknowledgments', '/pages/acknowledgments.html'],
