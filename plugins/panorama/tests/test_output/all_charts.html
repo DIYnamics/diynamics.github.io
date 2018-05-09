@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <link href="https://raw.githubusercontent.com/novus/nvd3/master/build/nv.d3.css" rel="stylesheet"/>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://raw.githubusercontent.com/novus/nvd3/master/build/nv.d3.min.js"></script>
+</head>
+<body>
+<h1>nb_article_by_category</h1>
+
+<div id="nb_article_by_category">
+    <svg style="width:700px;height:300px;"></svg>
+</div>
+
+
+<script>
+
+
+
+    data_nb_article_by_category=[{"values": [{"value": 2, "label": "Article"}, {"value": 5, "label": "Critique"}, {"value": 3, "label": "Info"}, {"value": 1, "label": "yeah"}], "key": "title"}];
+
+    nv.addGraph(function() {
+        var chart = nv.models.pieChart();
+        chart.margin({top: 30, right: 60, bottom: 20, left: 60});
+        var datum = data_nb_article_by_category[0].values;
+
+    chart.tooltipContent(function(key, y, e, graph) {
+          var x = String(key);
+              var y =  String(y)  + ' posts';
+
+              tooltip_str = '<center><b>'+x+'</b></center>' + y;
+              return tooltip_str;
+              });
+        chart.showLabels(true);
+
+            chart.donut(false);
+
+    chart.showLegend(true);
+
+
+
+
+        chart
+            .x(function(d) { return d.label })
+            .y(function(d) { return d.value });
+
+        chart.width(700);
+
+        chart.height(300);
+
+
+            d3.select('#nb_article_by_category svg')
+            .datum(datum)
+            .transition().duration(500)
+            .attr('width', 700)
+            .attr('height', 300)
+            .call(chart);
+
+
+        });
+
+
+
+
+</script>
+
+<h1>nb_article_by_year</h1>
+
+<div id="nb_article_by_year">
+    <svg style="width:700px;height:300px;"></svg>
+</div>
+
+
+<script>
+
+
+
+                data_nb_article_by_year=[{"yAxis": "1", "values": [{"y": 1, "x": 2007}, {"y": 2, "x": 2008}, {"y": 1, "x": 2010}, {"y": 7, "x": 2014}], "key": "title"}];
+
+
+            nv.addGraph(function() {
+        var chart = nv.models.discreteBarChart();
+
+        chart.margin({top: 30, right: 60, bottom: 20, left: 60});
+
+        var datum = data_nb_article_by_year;
+
+
+
+                    chart.yAxis
+                .tickFormat(d3.format(',.0f'));
+
+    
+    
+
+        
+
+
+
+            d3.select('#nb_article_by_year svg')
+            .datum(datum)
+            .transition().duration(500)
+            .attr('width', 700)
+            .attr('height', 300)
+            .call(chart);
+
+    
+        });
+
+
+
+
+</script>
+
+<h1>nb_article_by_category_year</h1>
+
+<div id="nb_article_by_category_year">
+    <svg style="width:700px;height:300px;"></svg>
+</div>
+
+
+<script>
+
+
+
+        data_nb_article_by_category_year=[{"yAxis": "1", "values": [{"y": 0.0, "x": 2007}, {"y": 0.0, "x": 2008}, {"y": 0.0, "x": 2010}, {"y": 2.0, "x": 2014}], "key": "Article"}, {"yAxis": "1", "values": [{"y": 0.0, "x": 2007}, {"y": 1.0, "x": 2008}, {"y": 0.0, "x": 2010}, {"y": 4.0, "x": 2014}], "key": "Critique"}, {"yAxis": "1", "values": [{"y": 1.0, "x": 2007}, {"y": 1.0, "x": 2008}, {"y": 0.0, "x": 2010}, {"y": 1.0, "x": 2014}], "key": "Info"}, {"yAxis": "1", "values": [{"y": 0.0, "x": 2007}, {"y": 0.0, "x": 2008}, {"y": 1.0, "x": 2010}, {"y": 0.0, "x": 2014}], "key": "yeah"}];
+
+    nv.addGraph(function() {
+        var chart = nv.models.multiBarChart();
+
+        chart.margin({top: 30, right: 60, bottom: 20, left: 60});
+
+        var datum = data_nb_article_by_category_year;
+
+
+
+
+            chart.yAxis
+                .tickFormat(d3.format(',.2f'));
+
+                    chart.tooltipContent(function(key, y, e, graph) {
+                        var x = String(graph.point.x);
+                        var y = String(graph.point.y);
+                                            if(key == 'Article'){
+                        var y =  String(graph.point.y)  + ' posts';
+                    }
+                    if(key == 'Critique'){
+                        var y =  String(graph.point.y)  + ' posts';
+                    }
+                    if(key == 'Info'){
+                        var y =  String(graph.point.y)  + ' posts';
+                    }
+                    if(key == 'yeah'){
+                        var y =  String(graph.point.y)  + ' posts';
+                    }
+
+                        tooltip_str = '<center><b>'+key+'</b></center>' + y + ' at ' + x;
+                        return tooltip_str;
+                    });
+
+      chart.showLegend(true);
+
+
+
+        
+
+
+        d3.select('#nb_article_by_category_year svg')
+            .datum(datum)
+            .transition().duration(500)
+            .attr('width', 700)
+            .attr('height', 300)
+            .call(chart);
+
+
+    });
+
+
+
+
+
+</script>
+
+<h1>nb_article_by_month</h1>
+
+<div id="nb_article_by_month">
+    <svg style="width:700px;height:300px;"></svg>
+</div>
+
+
+<script>
+
+
+
+            data_nb_article_by_month=[{"yAxis": "1", "values": [{"y": 1.0, "x": 1188518400000.0}, {"y": 0.0, "x": 1191110400000.0}, {"y": 0.0, "x": 1193788800000.0}, {"y": 0.0, "x": 1196380800000.0}, {"y": 0.0, "x": 1199059200000.0}, {"y": 1.0, "x": 1201737600000.0}, {"y": 0.0, "x": 1204243200000.0}, {"y": 1.0, "x": 1206921600000.0}, {"y": 0.0, "x": 1209513600000.0}, {"y": 0.0, "x": 1212192000000.0}, {"y": 0.0, "x": 1214784000000.0}, {"y": 0.0, "x": 1217462400000.0}, {"y": 0.0, "x": 1220140800000.0}, {"y": 0.0, "x": 1222732800000.0}, {"y": 0.0, "x": 1225411200000.0}, {"y": 0.0, "x": 1228003200000.0}, {"y": 0.0, "x": 1230681600000.0}, {"y": 0.0, "x": 1233360000000.0}, {"y": 0.0, "x": 1235779200000.0}, {"y": 0.0, "x": 1238457600000.0}, {"y": 0.0, "x": 1241049600000.0}, {"y": 0.0, "x": 1243728000000.0}, {"y": 0.0, "x": 1246320000000.0}, {"y": 0.0, "x": 1248998400000.0}, {"y": 0.0, "x": 1251676800000.0}, {"y": 0.0, "x": 1254268800000.0}, {"y": 0.0, "x": 1256947200000.0}, {"y": 0.0, "x": 1259539200000.0}, {"y": 0.0, "x": 1262217600000.0}, {"y": 0.0, "x": 1264896000000.0}, {"y": 0.0, "x": 1267315200000.0}, {"y": 0.0, "x": 1269993600000.0}, {"y": 0.0, "x": 1272585600000.0}, {"y": 0.0, "x": 1275264000000.0}, {"y": 0.0, "x": 1277856000000.0}, {"y": 0.0, "x": 1280534400000.0}, {"y": 0.0, "x": 1283212800000.0}, {"y": 0.0, "x": 1285804800000.0}, {"y": 0.0, "x": 1288483200000.0}, {"y": 0.0, "x": 1291075200000.0}, {"y": 1.0, "x": 1293753600000.0}, {"y": 0.0, "x": 1296432000000.0}, {"y": 0.0, "x": 1298851200000.0}, {"y": 0.0, "x": 1301529600000.0}, {"y": 0.0, "x": 1304121600000.0}, {"y": 0.0, "x": 1306800000000.0}, {"y": 0.0, "x": 1309392000000.0}, {"y": 0.0, "x": 1312070400000.0}, {"y": 0.0, "x": 1314748800000.0}, {"y": 0.0, "x": 1317340800000.0}, {"y": 0.0, "x": 1320019200000.0}, {"y": 0.0, "x": 1322611200000.0}, {"y": 0.0, "x": 1325289600000.0}, {"y": 0.0, "x": 1327968000000.0}, {"y": 0.0, "x": 1330473600000.0}, {"y": 0.0, "x": 1333152000000.0}, {"y": 0.0, "x": 1335744000000.0}, {"y": 0.0, "x": 1338422400000.0}, {"y": 0.0, "x": 1341014400000.0}, {"y": 0.0, "x": 1343692800000.0}, {"y": 0.0, "x": 1346371200000.0}, {"y": 0.0, "x": 1348963200000.0}, {"y": 0.0, "x": 1351641600000.0}, {"y": 0.0, "x": 1354233600000.0}, {"y": 0.0, "x": 1356912000000.0}, {"y": 0.0, "x": 1359590400000.0}, {"y": 0.0, "x": 1362009600000.0}, {"y": 0.0, "x": 1364688000000.0}, {"y": 0.0, "x": 1367280000000.0}, {"y": 0.0, "x": 1369958400000.0}, {"y": 0.0, "x": 1372550400000.0}, {"y": 0.0, "x": 1375228800000.0}, {"y": 0.0, "x": 1377907200000.0}, {"y": 0.0, "x": 1380499200000.0}, {"y": 0.0, "x": 1383177600000.0}, {"y": 0.0, "x": 1385769600000.0}, {"y": 0.0, "x": 1388448000000.0}, {"y": 1.0, "x": 1391126400000.0}, {"y": 0.0, "x": 1393545600000.0}, {"y": 1.0, "x": 1396224000000.0}, {"y": 1.0, "x": 1398816000000.0}, {"y": 1.0, "x": 1401494400000.0}, {"y": 0.0, "x": 1404086400000.0}, {"y": 0.0, "x": 1406764800000.0}, {"y": 0.0, "x": 1409443200000.0}, {"y": 0.0, "x": 1412035200000.0}, {"y": 0.0, "x": 1414713600000.0}, {"y": 0.0, "x": 1417305600000.0}, {"y": 3.0, "x": 1419984000000.0}], "key": "posts"}];
+
+
+        nv.addGraph(function() {
+        var chart = nv.models.lineChart().useInteractiveGuideline(true);
+
+        chart.margin({top: 30, right: 60, bottom: 20, left: 60});
+
+        var datum = data_nb_article_by_month;
+
+
+
+                chart.yAxis
+                .tickFormat(d3.format(',.02f'));
+            chart.xAxis
+                .tickFormat(function(d) { return d3.time.format('%m-%Y')(new Date(parseInt(d))) }
+);
+
+
+
+          chart.showLegend(true);
+
+
+    
+
+        
+
+
+
+            d3.select('#nb_article_by_month svg')
+            .datum(datum)
+            .transition().duration(500)
+            .attr('width', 700)
+            .attr('height', 300)
+            .call(chart);
+
+
+        });
+
+
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+parsedatetime==2.1
+google-api-python-client==1.4.2
+oauth2client==1.5.1
+
