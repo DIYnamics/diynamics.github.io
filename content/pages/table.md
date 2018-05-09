@@ -1,6 +1,5 @@
-Title: Resources
-Slug: resources
-page-order: 2
+Title: Ordering, Building, and Operating the DIYnamics Table
+Slug: table
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zkVr4Vv3XRM" frameborder="0" allowfullscreen></iframe>
 
@@ -26,11 +25,6 @@ be found below.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rvF6UAO8vPA" frameborder="0" allowfullscreen></iframe>
 
 ## **Learning and teaching with the DIYnamics rotating table**
-
-# [Teaching guide PDF]({filename}../pdfs/diynamics_teaching_guide.pdf)
-
-This document provides an overview of several geophysical fluid
-dynamics (GFD) experiments than can be performed using the DIY
-Rotating Tank. The teaching guide includes background information
-detailing GFD concepts. Demonstrational videos can be found on our
-[YouTube channel](http://tinyurl.com/diynamicsvideos).
+Once you have your table assembled and operating, head over to the
+[teaching page](/teaching.html) to learn how to use the table as an
+effective teaching tool.

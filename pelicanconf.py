@@ -33,7 +33,8 @@ USE_FOLDER_AS_CATEGORY = True
 # tab.
 LINKS = [
     ['about', '/pages/about.html'],
-    ['resources', '/pages/resources.html'],
+    ['table', '/pages/table.html'],
+    ['teaching', '/pages/teaching.html'],
     ['events', '/pages/events.html'],
     ['blog', '/blog.html'],
     ['links', '/pages/links.html'],
@@ -56,7 +57,7 @@ PLUGINS = [
     'liquid_tags.img',
     'liquid_tags.video',
     'liquid_tags.youtube',
-           ]
+]
 
 DISQUS_SITENAME = "diynamics"
 TWITTER_USERNAME = "DIYnamicsTeam"
