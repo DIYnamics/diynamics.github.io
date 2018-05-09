@@ -7,5 +7,5 @@ If you are an educator or student that wants to use or learn more about the DIYn
 If you are a DIYnamics member or someone else interested in improving our website, then feel free to browse our source code and/or open an Issue with any questions or suggestions.  Thanks!
 
 <div align="center">
-  <img src="https://diynamics.github.io/assets/img/eyu2017_baroclinic.jpg"><br>
+  <img src="https://diynamics.github.io/images/eyu-2017/eyu2017_baroclinic.jpg"><br>
 </div>
