@@ -119,8 +119,7 @@ cf_upload: publish
 
 github: publish
 	ghp-import output
-	git push origin $(GITHUB_PAGES_BRANCH)
-        git push git@github.com:DIYnamics/diynamics.github.io.git gh-pages:master
+	git push git@github.com:DIYnamics/diynamics.github.io.git gh-pages:master
 
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
