@@ -1,7 +1,7 @@
 Title: Links
 Slug: links
 
-{% img {filename}../images/el-marino-2018/phytoplankton_bloom.jpg 800 A phytoplankton bloom highlighting the swirling, eddying nature of our oceans %}
+{% img {filename}../images/phytoplankton_bloom.jpg 800 A phytoplankton bloom highlighting the swirling, eddying nature of our oceans %}
 
 # Links to other cool resources
 
