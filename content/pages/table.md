@@ -26,5 +26,5 @@ be found below.
 
 ## **Learning and teaching with the DIYnamics rotating table**
 Once you have your table assembled and operating, head over to the
-[teaching page](/teaching.html) to learn how to use the table as an
+[teaching page](/pages/teaching.html) to learn how to use the table as an
 effective teaching tool.

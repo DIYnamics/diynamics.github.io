@@ -1,6 +1,8 @@
 Title: Teaching with the DIYnamics rotating table
 Slug: teaching
 
+{% img {filename}../images/la-tijera/alex-students.png 800 Teaching basics of rotating fluid at a middle school %}
+
 Here we provide materials for teachers that enable them to use the
 DIYnamics table to teach effectively.  No prior knowledge of fluid
 dynamics, etc. is required.
