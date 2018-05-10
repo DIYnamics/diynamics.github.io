@@ -15,8 +15,21 @@ DEFAULT_LANG = 'en'
 INDEX_SAVE_AS = '/pages/blog.html'
 
 PATH = 'content'
-ARTICLE_PATHS = ['posts']
+ARTICLE_PATHS = ['blog']
+PAGE_PATHS = ['pages', 'guides']
 STATIC_PATHS = ['images', 'pdfs']
+
+ARTICLE_URL = 'blog/{slug}.html'
+ARTICLE_SAVE_AS = 'blog/{slug}.html'
+DRAFT_URL = 'blog/drafts/{slug}.html'
+DRAFT_SAVE_AS = 'blog/drafts/{slug}.html'
+CATEGORY_URL = 'blog/category/{slug}.html'
+CATEGORY_SAVE_AS = 'blog/category/{slug}.html'
+TAG_URL = 'blog/tag/{slug}.html'
+TAG_SAVE_AS = 'blog/tag/{slug}.html'
+AUTHOR_URL = 'blog/author/{slug}.html'
+AUTHOR_SAVE_AS = 'blog/author/{slug}.html'
+
 
 ICONS = [
     ['github', 'https://github.com/DIYnamics/diynamics.github.io'],
@@ -48,6 +61,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+CACHE_CONTENT = True
+CACHE_PATH = 'cache'
+LOAD_CONTENT_CACHE = True
+
 DEFAULT_PAGINATION = False
 
 THEME = 'themes/pelican-alchemy/alchemy'
@@ -58,6 +75,7 @@ PLUGINS = [
     'liquid_tags.video',
     'liquid_tags.youtube',
 ]
+TYPOGRIFY = True
 
 DISQUS_SITENAME = "diynamics"
 TWITTER_USERNAME = "DIYnamicsTeam"

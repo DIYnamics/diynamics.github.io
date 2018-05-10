@@ -11,12 +11,15 @@ Rotating Tank.
   Motor to its receptor on the Battery Box (both segments highlighted
   below).
 
+{% img {filename}../images/schematic_earth_vs_tank.png 800 %}
 
 
 - To turn on the XL Motor, slide the orange switch on the Battery Box
   in either direction (one direction spins clockwise and the other
   direction spins counterclockwise).
 - Return switch to the middle to turn off the XL motor.
+
+{% img {filename}../images/schematic_earth_vs_tank.png 800 %}
 
 
 # Variable Motor Speed
@@ -26,6 +29,7 @@ Rotating Tank.
   Motor to either receptor on the IR Receiver (both segments
   highlighted in blue below).
 
+{% img {filename}../images/schematic_earth_vs_tank.png 800 %}
 
 - To use the IR Speed Remote Control and IR Receiver, make sure that
   the orange switch on both components is set to the same number

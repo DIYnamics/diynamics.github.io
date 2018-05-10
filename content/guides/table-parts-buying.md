@@ -15,7 +15,7 @@ following link. Purchase 1 turn table.
 From amazon.com -> $16.99 each http://a.co/16P3tM1
 
 ## LEGO® Power Functions Components
-| Picture | Part Name   | Link                            | Quantity | Price  |
+| Picture | Name        | Link                            | Quantity | Price  |
 |---------|-------------|---------------------------------|----------|--------|
 |         | XL-Motor    | https://tinyurl.com/legoxlmotor | 1        | $9.99  |
 |         | Battery Box | https://tinyurl.com/legobattery | 1        | $6.99  |
@@ -46,32 +46,16 @@ From amazon.com -> $16.99 each http://a.co/16P3tM1
 |---------|-----------------------------|-----------|----------|-----------------|
 |         |                             |           | Total:   |                 |
 
-
 Total LEGO Pick-a-Brick Cost: $5.18
 
 Required components total cost: $39.15
 
-# Optional components
+# Optional LEGO® Power Functions components that enable changing the rotation rate
 
-Optional components provide the ability to change speed of rotation.
+| Picture | Name              | Link                             | Price  |
+|         | IR Remote Control | https://tinyurl.com/legoremote   | $12.99 |
+|         | IR Receiver       | https://tinyurl.com/legoreceiver | $14.99 |
 
-LEGO® Power Functions Components Picture Part Name Link Quantity
-
-
-	LEGO® Power Functions IR Speed Remote Control
-	https://tinyurl.com/legoremote
-	1
-($12.99 each)
-
-
-	LEGO® Power Functions IR Receiver
-	https://tinyurl.com/legoreceiver
-
-
-	1
-($14.99 each)
-	LEGO Power Functions Cost
-	$27.98
-
+Optional components cost: $27.98
 
 Required + optional components total cost: $67.13
