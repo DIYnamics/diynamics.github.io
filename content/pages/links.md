@@ -1,9 +1,13 @@
-Title: Links
+Title: Links to other cool resources
 Slug: links
 
 {% img {filename}../images/phytoplankton_bloom.jpg 800 A phytoplankton bloom highlighting the swirling, eddying nature of our oceans %}
 
-# Links to other cool resources
+There are a ton of other great resources for geoscience education from
+the elementary through university education levels.  Here we gather
+together a few of our favorites, organized into categories.
+
+# Other rotating tank resources
 
 ## [UCLA SPINLab](http://spinlab.ess.ucla.edu/)
 
@@ -25,6 +29,11 @@ to the project can be found [here](https://youtu.be/uWdKVpQ94Ns).
 Mostly intended for instructors at the upper-division undergraduate or
 early graduate levels.
 
+## [Weather in a Tank's "Virtual Lab"](http://lab.rotating.co)
+
+Interactive online teaching module that combines animations, video,
+theory, and more for a truly unique educational experience.
+
 ## [Marshall and Plumb textbook](http://marshallplumb.mit.edu/)
 
 *Atmosphere, Ocean and Climate Dynamics* by Marshall and Plumb teaches
@@ -34,3 +43,9 @@ website provides further information about how to conduct the
 experiments and use them as teaching tools.  Mostly intended for
 students and professors at the upper-division undergraduate or early
 graduate levels.
+
+# Online games that teach atmosphere, ocean, and climate concepts
+
+## [UCAR Center for Science Education games portal](https://scied.ucar.edu/games)
+
+## [EarthGames](https://earthgames.org/)
