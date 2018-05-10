@@ -12,6 +12,8 @@ DESCRIPTION = ('DIYnamics: affordable, accessible Earth science demonstration '
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
 
+IGNORE_FILES = ['.#*', '__pycache__']
+
 INDEX_SAVE_AS = '/pages/blog.html'
 
 PATH = 'content'
