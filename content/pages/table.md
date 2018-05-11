@@ -17,12 +17,16 @@ in both online and PDF formats:
 ## [Parts list, web version](ordering-guide.html)
 ## [Parts list, PDF version]({filename}../pdfs/diynamics_table_parts_list.pdf)
 
+---
+
 # Assembling the device
 
 Download the PDF below for an illustrated, step-by-step guide on how
 the DIYnamics Rotating Tank can be assembled.
 
 ## [Complete assembly guide PDF]({filename}../pdfs/diynamics_table_assembly_instructions.pdf)
+
+<br>
 
 ## Assembly instructions video
 You can also follow along with the assembly instructional video below,
@@ -31,7 +35,9 @@ channel](http://tinyurl.com/diynamicsvideos).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rvF6UAO8vPA" frameborder="0" allowfullscreen></iframe>
 
-# Operatinge the device
+---
+
+# Operating the device
 
 The assembly guide above also provides instructions on how to operate
 the device.  We also provide web-based versions of the sections on
@@ -39,7 +45,12 @@ setting up the table and on how to use the LEGO Power Functions
 components:
 
 ## [Guide to setting up the DIYnamics table](table-operating-guide.html)
+
+<br>
+
 ## [Guide to operating LEGO Power Functions](power-functions-guide.html)
+
+---
 
 ## Learning and teaching with the DIYnamics rotating table
 Once you have your table assembled and operating, check out the video
