@@ -14,12 +14,16 @@ From amazon.com -> $16.99 each [http://a.co/16P3tM1](http://a.co/16P3tM1)
 
 {% img /images/guides/oxo/oxo_overhead_view.jpg 300 OXO turntable %}
 
+---
+
 ## LEGO® Power Functions Components
-| Picture                                                  | Name        | Link                            | Quantity | Price  |
-|----------------------------------------------------------|-------------|---------------------------------|----------|--------|
-| {% img /images/guides/lego-pieces/xl_motor.png 150 %}    | XL-Motor    | https://tinyurl.com/legoxlmotor | 1        | $9.99  |
-| {% img /images/guides/lego-pieces/battery_box.png 150 %} | Battery Box | https://tinyurl.com/legobattery | 1        | $6.99  |
-|                                                          |             |                                 | Total:   | $16.98 |
+| Picture                                                  | Name        | Link                                                               | Price  |
+|----------------------------------------------------------|-------------|--------------------------------------------------------------------|--------|
+| {% img /images/guides/lego-pieces/xl_motor.png 150 %}    | XL-Motor    | [https://tinyurl.com/legoxlmotor](https://tinyurl.com/legoxlmotor) | $9.99  |
+| {% img /images/guides/lego-pieces/battery_box.png 150 %} | Battery Box | [https://tinyurl.com/legobattery](https://tinyurl.com/legobattery) | $6.99  |
+|                                                          |             | Total:                                                             | $16.98 |
+
+---
 
 ## LEGO® Pick-a-Brick Components
 
@@ -44,14 +48,19 @@ From amazon.com -> $16.99 each [http://a.co/16P3tM1](http://a.co/16P3tM1)
 | {% img /images/guides/lego-pieces/tire.jpg 150 %}               | Tyre Normal Wide            | 92402     | 1        | $0.69       |
 |                                                                 |                             |           | Total:   | $5.18       |
 
-Required components total cost: $39.15
+## Required components total cost: $39.15
+
+---
 
 # Optional LEGO® Power Functions components that enable changing the rotation rate
 
-| Picture | Name              | Link                             | Price  |
-|         | IR Remote Control | https://tinyurl.com/legoremote   | $12.99 |
-|         | IR Receiver       | https://tinyurl.com/legoreceiver | $14.99 |
+| Picture                                                  | Name              | Link                                                                 | Price  |
+|----------------------------------------------------------|-------------------|----------------------------------------------------------------------|--------|
+| {% img /images/guides/lego-pieces/ir_remote.png 150 %}   | IR Remote Control | [https://tinyurl.com/legoremote](https://tinyurl.com/legoremote)     | $12.99 |
+| {% img /images/guides/lego-pieces/ir_receiver.jpg 150 %} | IR Receiver       | [https://tinyurl.com/legoreceiver](https://tinyurl.com/legoreceiver) | $14.99 |
+|                                                          |                   | Total:                                                               | $27.98 |
+|                                                          |                   |                                                                      |        |
 
-Optional components cost: $27.98
+---
 
-Required + optional components total cost: $67.13
+## Required + optional components total cost: $67.13
