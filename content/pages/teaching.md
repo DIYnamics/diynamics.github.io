@@ -9,13 +9,18 @@ dynamics, etc. is required.
 
 This assumes that you've already assembled your DIYnamics table and
 are familiar with its basic operation.  If not, check out [this
-page](/table.html) for ordering, assembling, and operating
+page](table.html) for ordering, assembling, and operating
 instructions.
 
-# [Teaching guide PDF]({filename}../pdfs/diynamics_teaching_guide.pdf)
+# Middle school teaching guide
+Our guide to teaching with the DIYnamics table at the middle school
+level provides an overview of several experiments than can be
+performed using the DIYnamics table, the physical concepts that each
+one is meant to demonstrate, images and links to videos showing their
+real-world analogs, and questions for the students to keep them
+thinking critically throughout.
 
-This document provides an overview of several geophysical fluid
-dynamics (GFD) experiments than can be performed using the DIY
-Rotating Tank. The teaching guide includes background information
-detailing GFD concepts. Demonstrational videos can be found on our
-[YouTube channel](http://tinyurl.com/diynamicsvideos).
+The guide is available both online and in a PDF format:
+
+## [Web version](teaching-guide.html)
+## [PDF version]({filename}../pdfs/diynamics_teaching_guide.pdf)

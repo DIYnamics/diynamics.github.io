@@ -1,6 +1,5 @@
 Title: Team
 Slug: people
-page-order: 5
 
 The DIYnamics team is composed of faculty, researchers, and students
 from the University of California, Los Angeles.

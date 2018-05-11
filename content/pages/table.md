@@ -1,30 +1,51 @@
 Title: Ordering, Building, and Operating the DIYnamics Table
 Slug: table
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zkVr4Vv3XRM" frameborder="0" allowfullscreen></iframe>
-
 Building and experimenting with your own DIYnamics rotating table is
-fun and easy! Take a look at the following documents to get started.
+fun and easy!
 
-## **Assembling the DIYnamics rotating table**
+Already have your table assembled and have it working?
+Head over to the [teaching page](/pages/teaching.html) to learn how to
+incorporate it into the classroom.
 
-# [Parts list PDF]({filename}../pdfs/diynamics_table_parts_list.pdf)
+# Ordering the parts
 
-This document lists all components necessary to build the table and
-links to buy the parts online, mostly from Amazon.  In total they cost
-only $39.15 ($67.13 with optional components; prices as of May 2017).
+All of the parts needed are available for purchase online, mostly from
+Amazon and the LEGO website.  Full ordering instructions are available
+in both online and PDF formats:
 
-# [Instructions PDF]({filename}../pdfs/diynamics_table_assembly_instructions.pdf)
+## [Parts list, web version](ordering-guide.html)
+## [Parts list, PDF version]({filename}../pdfs/diynamics_table_parts_list.pdf)
 
-This document contains an illustrated, step-by-step guide on how the
-DIY Rotating Tank and set up its LEGO Power Functions components. The
-instructions also include an overview on how to operate the design and
-general troubleshooting tips. A video version of the instructions can
-be found below.
+# Assembling the device
+
+Download the PDF below for an illustrated, step-by-step guide on how
+the DIYnamics Rotating Tank can be assembled.
+
+## [Complete assembly guide PDF]({filename}../pdfs/diynamics_table_assembly_instructions.pdf)
+
+## Assembly instructions video
+You can also follow along with the assembly instructional video below,
+or view it on our [YouTube
+channel](http://tinyurl.com/diynamicsvideos).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rvF6UAO8vPA" frameborder="0" allowfullscreen></iframe>
 
-## **Learning and teaching with the DIYnamics rotating table**
-Once you have your table assembled and operating, head over to the
-[teaching page](/pages/teaching.html) to learn how to use the table as an
-effective teaching tool.
+# Operatinge the device
+
+The assembly guide above also provides instructions on how to operate
+the device.  We also provide web-based versions of the sections on
+setting up the table and on how to use the LEGO Power Functions
+components:
+
+## [Guide to setting up the DIYnamics table](table-operating-guide.html)
+## [Guide to operating LEGO Power Functions](power-functions-guide.html)
+
+## Learning and teaching with the DIYnamics rotating table
+Once you have your table assembled and operating, check out the video
+below for ideas for some basic demonstrations, and then head over to
+our [teaching page](/pages/teaching.html) to learn how to use the
+table to perform some demonstrations and to incorporate them into an
+effective teaching module.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkVr4Vv3XRM" frameborder="0" allowfullscreen></iframe>

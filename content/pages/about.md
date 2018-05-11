@@ -1,7 +1,5 @@
 Title: What is DIYnamics?
 Slug: about
-page-order: 1
-
 
 {% img {filename}../images/schematic_earth_vs_tank.png 800 Schematic showing relationship between rotating Earth and rotating tank of water %}
 

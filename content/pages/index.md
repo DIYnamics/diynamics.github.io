@@ -1,6 +1,4 @@
 Title: DIYnamics: affordable, accessible Earth science demonstration and teaching materials
-page-order: 0
-status: hidden
 save_as: index.html
 
 DIYnamics develops inexpensive apparatuses for teaching fundamental

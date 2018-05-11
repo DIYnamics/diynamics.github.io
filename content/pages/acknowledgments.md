@@ -1,6 +1,5 @@
 Title: Acknowledgements
 Slug: acknowledgments
-page-order: 6
 
 The DIYnamics outreach project was made possible with support from the
 following institutions:
