@@ -46,6 +46,17 @@ graduate levels.
 
 # Online games that teach atmosphere, ocean, and climate concepts
 
+## [Interactive Earth](https://ian-r-rose.github.io/interactive_earth/index.html)
+
+Awesome interactive web-based demonstration of convection in Earth's
+mantle.
+
+## [Earth](https://earth.nullschool.net/)
+
+Amazing interactive visualizer of weather and oceanographic data, both
+as they are behaving right now and in the past, up to a few years
+before present.
+
 ## [UCAR Center for Science Education games portal](https://scied.ucar.edu/games)
 
 ## [EarthGames](https://earthgames.org/)
