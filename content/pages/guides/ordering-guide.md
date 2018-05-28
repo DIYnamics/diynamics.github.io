@@ -1,13 +1,23 @@
-Title: Obtaining the Parts for Your Own DIY Rotating Tank
+Title: Obtaining the parts for your own DIYnamics rotating tank
 Slug: ordering-guide
 
 The parts used to build the DIY Rotating Tank can all be purchased
 online.  Here we list all of the parts along with instructions on how
 to order them.
 
+There are three categories of components:
+
+1. Core: required for the table to function, with these specific
+   products highly recommended
+2. Peripheral: necessary or extremely helpful for most demonstrations,
+   but the specific products used could readily be swapped out for
+   alternatives
+3. Optional: provide additional functionality or ease of use but are
+   not required for all demonstrations
+
 (Prices last updated May 2018.)
 
-# Required components
+# Core components
 
 ## OXO Good Grips Lazy Susan Turntable, 16-Inch
 From amazon.com -> $16.99 each [http://a.co/16P3tM1](http://a.co/16P3tM1)
@@ -16,7 +26,7 @@ From amazon.com -> $16.99 each [http://a.co/16P3tM1](http://a.co/16P3tM1)
 
 ---
 
-## LEGO® Power Functions Components
+## LEGO® Power Functions
 | Picture                                                  | Name        | Link                                                               | Price  |
 |----------------------------------------------------------|-------------|--------------------------------------------------------------------|--------|
 | {% img /images/guides/lego-pieces/xl_motor.png 150 %}    | XL-Motor    | [https://tinyurl.com/legoxlmotor](https://tinyurl.com/legoxlmotor) | $9.99  |
@@ -25,7 +35,7 @@ From amazon.com -> $16.99 each [http://a.co/16P3tM1](http://a.co/16P3tM1)
 
 ---
 
-## LEGO® Pick-a-Brick Components
+## LEGO® Pick-a-Brick
 
 - Go to the Pick-a-Brick section of the https://shop.lego.com/
   website
@@ -48,11 +58,20 @@ From amazon.com -> $16.99 each [http://a.co/16P3tM1](http://a.co/16P3tM1)
 | {% img /images/guides/lego-pieces/tire.jpg 150 %}               | Tyre Normal Wide            | 92402     | 1        | $0.69       |
 |                                                                 |                             |           | Total:   | $5.18       |
 
-## Required components total cost: $39.15
+## Core components total cost: $39.15
 
 ---
 
-# Optional LEGO® Power Functions components that enable changing the rotation rate
+# Peripheral components
+
+| Picture                                                  | Name              | Link                                                                 | Price  |
+|----------------------------------------------------------|-------------------|----------------------------------------------------------------------|--------|
+| {% img /images/guides/lego-pieces/ir_remote.png 150 %}   | IR Remote Control | [https://tinyurl.com/legoremote](https://tinyurl.com/legoremote)     | $12.99 |
+
+
+# Optional components
+
+## LEGO® Power Functions components that enable changing the rotation rate
 
 | Picture                                                  | Name              | Link                                                                 | Price  |
 |----------------------------------------------------------|-------------------|----------------------------------------------------------------------|--------|

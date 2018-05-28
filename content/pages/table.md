@@ -4,17 +4,18 @@ Slug: table
 Building and experimenting with your own DIYnamics rotating table is
 fun and easy!
 
-Already have your table assembled and have it working?
-Head over to the [teaching page](/pages/teaching.html) to learn how to
-incorporate it into the classroom.
+Already have your table assembled and have it working?  Head over to
+the [teaching page](/pages/teaching.html) to learn how to incorporate
+it into the classroom.  Otherwise, this page provides everything you
+need to know to buy, build, and use one yourself.
 
 # Ordering the parts
 
 All of the parts needed are available for purchase online, mostly from
 Amazon and the LEGO website.  Full ordering instructions are available
-in both online and PDF formats:
+as a PDF:
 
-## [Parts list, web version](ordering-guide.html)
+<!-- ## [Parts list, web version](ordering-guide.html) -->
 ## [Parts list, PDF version]({filename}../pdfs/diynamics_table_parts_list.pdf)
 
 ---
