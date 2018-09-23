@@ -67,6 +67,15 @@ believes outreach is one of the most important aspects of being a
 scientist, and genuinely loves teaching. She is passionate about
 science and hope she can impart that passion onto others.
 
+{% img {filename}../images/people/chloe-whicker.jpg 200 Chloe Whicker %} **Chloe Whicker**
+
+**Chloe Whicker** (Undergraduate, UCLA Institute for the Environment
+and Sustainability)<br>Chloe is a UCLA undergraduate majoring in
+environmental science with a concentration in atmospheric and oceanic
+science.  She is interested in studying climate science and is
+passionate about increasing access to and retention in STEM fields
+through interactive and hands on experiences.
+
 {% img {filename}../images/people/Person.jpg 200 Ashna Aggarwal %} **Ashna Aggarwal**
 
 {% img {filename}../images/people/Person.jpg 200 Alex Arnold %} **Alex Arnold**
@@ -76,5 +85,3 @@ science and hope she can impart that passion onto others.
 {% img {filename}../images/people/Person.jpg 200 Helen Parish %} **Helen Parish**
 
 {% img {filename}../images/people/Person.jpg 200 Katie Tuite %} **Katie Tuite**
-
-{% img {filename}../images/people/Person.jpg 200 Chloe Whicker %} **Chloe Whicker**
