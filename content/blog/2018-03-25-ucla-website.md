@@ -6,7 +6,7 @@ Slug: ucla-website-story
 Authors: Spencer Hill
 Summary: The UCLA Division of Physical Sciences has a new article on DIYnamics on their main website and has added DIYnamics to its Outreach page.
 
-![ucla-physci-pic1]({filename}../images/ucla-phy-sci-site-snippet.png)
+![ucla-physci-pic1]({static}../images/ucla-phy-sci-site-snippet.png)
 
 _Snippet from the UCLA Physical Sciences website with the link to the
 story they commissioned about DIYnamics.  How cool is that?!_

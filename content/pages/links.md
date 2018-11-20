@@ -1,7 +1,7 @@
 Title: Links to other cool resources
 Slug: links
 
-{% img {filename}../images/phytoplankton_bloom.jpg 800 A phytoplankton bloom highlighting the swirling, eddying nature of our oceans %}
+{% img {static}../images/phytoplankton_bloom.jpg 800 A phytoplankton bloom highlighting the swirling, eddying nature of our oceans %}
 
 There are a ton of other great resources for geoscience education from
 the elementary through university education levels.  Here we gather

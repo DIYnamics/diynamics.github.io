@@ -15,22 +15,22 @@ rotating tanks can be used to illustrate aspects of GFD. Both the
 group experiments and individual DIY Rotating Tank experiments went
 great!
 
-![Lecture]({filename}../images/ralph-bunche/sean-slide-show.png)
+![Lecture]({static}../images/ralph-bunche/sean-slide-show.png)
 
 _Sean provides a lecture on GFD and the use of models in studying
 science. Lecture slides can be found
 [here](https://docs.google.com/presentation/d/1ClYEmFAEATzG2iHZ8uqD2pzgEYSqbrYZD0xDRfuADzk/edit?usp=sharing)._
 
-![LEGO Table]({filename}../images/ralph-bunche/katie-students.png)
-![Rotating Column]({filename}../images/ralph-bunche/small-table-solid-body.png)
+![LEGO Table]({static}../images/ralph-bunche/katie-students.png)
+![Rotating Column]({static}../images/ralph-bunche/small-table-solid-body.png)
 
 _Katie and other members of the DIY Rotating Tank team demonstrate how
 rotating tanks are a simple yet effective tool for studying GFD. Among
 other experiments, students created a vertical column and learned how
 it mirrors the interior of rotating planets._
 
-![White Whale 1]({filename}../images/ralph-bunche/white_whale_1.png)
-![White Whale 2]({filename}../images/ralph-bunche/white_whale_2.png)
+![White Whale 1]({static}../images/ralph-bunche/white_whale_1.png)
+![White Whale 2]({static}../images/ralph-bunche/white_whale_2.png)
 
 _Juan provides a demonstration of the mechanical creation of
 vortices, a.k.a. the swirling patterns in the dye. When students dip
@@ -38,7 +38,7 @@ their hands into the large rotating tank, the physical disturbance
 results in turbluence. Other sources of turbluence like the movement
 of heat can also generate vortices._
 
-![Square Table]({filename}../images/ralph-bunche/square-tank.png)
+![Square Table]({static}../images/ralph-bunche/square-tank.png)
 
 _Juan shows how an uneven temperature distribution can influence
 GFD. An ice bucket at the center of the tank and rotation result in

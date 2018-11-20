@@ -1,7 +1,7 @@
 Title: What is DIYnamics?
 Slug: about
 
-{% img {filename}../images/schematic_earth_vs_tank.png 800 Schematic showing relationship between rotating Earth and rotating tank of water %}
+{% img {static}../images/schematic_earth_vs_tank.png 800 Schematic showing relationship between rotating Earth and rotating tank of water %}
 
 ## Our mission: expand and improve teaching of *geophysical fluid dynamics* (GFD) at all age levels
 

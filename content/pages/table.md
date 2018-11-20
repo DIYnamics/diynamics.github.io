@@ -16,7 +16,7 @@ Amazon and the LEGO website.  Full ordering instructions are available
 as a PDF:
 
 <!-- ## [Parts list, web version](ordering-guide.html) -->
-## [Parts list, PDF version]({filename}../pdfs/diynamics_table_parts_list.pdf)
+## [Parts list, PDF version]({static}../pdfs/diynamics_table_parts_list.pdf)
 
 ---
 
@@ -25,7 +25,7 @@ as a PDF:
 Download the PDF below for an illustrated, step-by-step guide on how
 the DIYnamics Rotating Tank can be assembled.
 
-## [Complete assembly guide PDF]({filename}../pdfs/diynamics_table_assembly_instructions.pdf)
+## [Complete assembly guide PDF]({static}../pdfs/diynamics_table_assembly_instructions.pdf)
 
 <br>
 

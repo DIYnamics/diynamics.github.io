@@ -1,7 +1,7 @@
 Title: Outreach Events by the DIYnamics Team
 Slug: events
 
-{% img {filename}../images/el-marino-2018/el-marino-sean.jpg 800 A DIYnamics event at a middle school %}
+{% img {static}../images/el-marino-2018/el-marino-sean.jpg 800 A DIYnamics event at a middle school %}
 
 DIYnamics team members teach students at local schools and special
 events about geophysical fluid dynamics (GFD) and the use of

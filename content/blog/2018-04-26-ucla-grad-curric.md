@@ -6,7 +6,7 @@ Slug: ucla-epss-class
 Authors: Spencer Hill
 Summary: DIYnamics has now officially been implemented into undergraduate and graduate teaching, as part of a "lab day" in a UCLA course.
 
-{% img {filename}../images/jmitch-course-tables2018.jpg 600 DIYnamics tables after the demo, with students and Prof. Mitchell at the next station %}
+{% img {static}../images/jmitch-course-tables2018.jpg 600 DIYnamics tables after the demo, with students and Prof. Mitchell at the next station %}
 
 _Students in the background at one of Prof. Mitchell's demonstration
 stations.  They had just finished at the DIYnamics station, where we
@@ -55,7 +55,7 @@ have us back later in the quarter to help him teach "baroclinic
 instability"...they haven't gotten that far in the lectures yet.  But
 our expansion into the university level isn't stopping there!
 
-{% img {filename}../images/angel-video-bci-snapshot.png 600 Snapshot of a video taken by Angel Adames using his DIYnamics table %}
+{% img {static}../images/angel-video-bci-snapshot.png 600 Snapshot of a video taken by Angel Adames using his DIYnamics table %}
 
 _Snapshot from the video that Prof. Adames posted to his Facebook page
 using the DIYnamics table to (kind of) demonstrate baroclinic

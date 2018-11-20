@@ -6,7 +6,7 @@ following institutions:
 
 ## National Science Foundation (NSF)
 
-![NSF]({filename}../images/logos/nsf_logo.png)
+![NSF]({static}../images/logos/nsf_logo.png)
 
 NSF AGS-PRF #1524866
 
@@ -20,4 +20,4 @@ reflect the views of the National Science Foundation*
 
 ## University of California, Los Angeles
 
-![UCLA]({filename}../images/logos/ucla_logo.png)
+![UCLA]({static}../images/logos/ucla_logo.png)
