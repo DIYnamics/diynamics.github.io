@@ -8,16 +8,20 @@ Summary: We have posted new videos to our YouTube channel providing "how-to" ins
 ---
 
 At long last, we have figured out a cheap and easy way (a.k.a. the
-DIYnamics way) of capturing footage of demonstrations on the DIYnamics
-table from the rotating frame.  A simple tripod for phone cameras sits
-on the DIYnamics table, with its three legs surrounding the tank in
-the middle.  The phone can be fastened to the tripod in two ways.
+DIYnamics way!) of capturing footage of demonstrations on the
+DIYnamics table from the rotating frame.  A simple tripod for phone
+cameras sits on the DIYnamics table, with its three legs surrounding
+the tank in the middle.  The phone can be fastened to the tripod in
+two ways.
 
 1. Use the detachable clip that comes with the tripod to fasten the
    phone into place, and then orient it to point down towards the
    tabletop.  The footage won't be from directly overhead, but it
    still looks good.
-2. Use duct tape to fasten the camera into place between the three tripod legs.  This is more
+2. Use duct tape to fasten the camera into place between the three
+   tripod legs.  With enough tape, you can create a surprisingly
+   sturdy base that will keep your phone in place even at fast
+   rotation rates.
 
 In either case, be sure to get the camera into place **before**
 filling the tank!  That way, if you accidentally drop the phone while
@@ -29,14 +33,19 @@ directly) above a tank of water, so be careful throughout!  (Here's
 where our lawyers would have us put in a disclaimer about not being
 liable for damages blah blah...if we had lawyers.)
 
-Here's the "recipe" for baroclinic instability:
+We created new "recipe" videos to show several demonstrations using
+this new capabality.  Here's the one for baroclinic instability:
 
-{% img {filename}../images/el-marino-2018/el-marino-sean.jpg 600 Sean leading a demo %}
+{% youtube 2tIVOK9wjI4 %}oCg1tK4arNM
 
 And one for solid-body rotation:
 
-{% img {filename}../images/el-marino-2018/el-marino-ashna.jpg 600 Ashna leading a demo %}
+{% youtube oCg1tK4arNM %}
 
 And one for the behavior of non-rotating fluids:
 
-{% img {filename}../images/el-marino-2018/el-marino-ashna.jpg 600 Ashna leading a demo %}
+{% youtube 5wJvRpiA38Q %}
+
+And one for the "spinning dye curtain":
+
+{% youtube dn_bjnc2a80 %}
