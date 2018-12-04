@@ -49,10 +49,20 @@ Space Sciences)<br>Norris designed the DIY Rotating Tank and wrote its
 PDF instructions. He created the outreach project website and
 instructional videos with the help of Spencer Hill.
 
+{% img {static}../images/people/jonathan-mitchell.png 200 Jonathan Mitchell %}
+
+**Raul Reyes** (Associate Professor, UCLA Dept. of Earth, Planetary,
+and Space Sciences and Dept. of Atmospheric and Oceanic
+Sciences)<br>Jonathan has been using rotating tanks for years and
+helped Juan and Sean get started with them.  He also has incorporated
+the DIYnamics tables into multiple classes he has taught, both at the
+undergraduate and graduate levels.  [Link to
+Jonathan's webpage](http://www2.ess.ucla.edu/~mitch/Home.html)
+
 {% img {static}../images/people/Person.jpg 200 Raul Reyes %}
 
 **Raul Reyes** (Undergraduate, UCLA Dept. of Earth, Planetary, and
-Space Sciences) Raul created the [baroclinic
+Space Sciences)<br>Raul created the [baroclinic
 eddies](https://www.youtube.com/watch?v=2nACitkIqNs) video under
 Juan's guidance.
 

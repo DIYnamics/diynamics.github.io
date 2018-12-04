@@ -36,7 +36,7 @@ liable for damages blah blah...if we had lawyers.)
 We created new "recipe" videos to show several demonstrations using
 this new capabality.  Here's the one for baroclinic instability:
 
-{% youtube 2tIVOK9wjI4 %}oCg1tK4arNM
+{% youtube 2tIVOK9wjI4 %}
 
 And one for solid-body rotation:
 
