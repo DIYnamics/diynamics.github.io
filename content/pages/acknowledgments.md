@@ -21,3 +21,14 @@ reflect the views of the National Science Foundation*
 ## University of California, Los Angeles
 
 ![UCLA]({static}../images/logos/ucla_logo.png)
+
+## UCLA Department of Earth, Planetary, and Space Sciences
+
+{% img /images/logos/ucla_epss_logo.png 400 UCLA EPSS logo %}
+
+Special thanks to the EPSS Strauss Family Fund for Undergraduate
+Research for their support.
+
+## UCLA Department of Atmospheric and Oceanic Sciences
+
+![UCLA]({static}../images/logos/ucla_aos_logo.png)

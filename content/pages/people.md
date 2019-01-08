@@ -51,7 +51,7 @@ instructional videos with the help of Spencer Hill.
 
 {% img {static}../images/people/jonathan-mitchell.png 200 Jonathan Mitchell %}
 
-**Raul Reyes** (Associate Professor, UCLA Dept. of Earth, Planetary,
+**Jonathan Mitchell** (Associate Professor, UCLA Dept. of Earth, Planetary,
 and Space Sciences and Dept. of Atmospheric and Oceanic
 Sciences)<br>Jonathan has been using rotating tanks for years and
 helped Juan and Sean get started with them.  He also has incorporated
