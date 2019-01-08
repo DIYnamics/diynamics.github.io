@@ -6,7 +6,7 @@ following institutions:
 
 ## National Science Foundation (NSF)
 
-![NSF]({static}../images/logos/nsf_logo.png)
+{% img /images/logos/nsf_logo.png 300 NSF logo %}
 
 NSF AGS-PRF #1524866
 
@@ -20,15 +20,15 @@ reflect the views of the National Science Foundation*
 
 ## University of California, Los Angeles
 
-![UCLA]({static}../images/logos/ucla_logo.png)
+{% img /images/logos/ucla_logo.png 300 UCLA logo %}
 
 ## UCLA Department of Earth, Planetary, and Space Sciences
 
-{% img /images/logos/ucla_epss_logo.png 400 UCLA EPSS logo %}
+{% img /images/logos/ucla_epss_logo.png 600 UCLA EPSS logo %}
 
 Special thanks to the EPSS Strauss Family Fund for Undergraduate
 Research for their support.
 
 ## UCLA Department of Atmospheric and Oceanic Sciences
 
-![UCLA]({static}../images/logos/ucla_aos_logo.png)
+{% img /images/logos/ucla_aos_logo.png 400 UCLA AOS logo %}
