@@ -1,11 +1,19 @@
-Title: DIYnamics at the Children's Water Festival at UC Irvine
+Title: Field Report: DIYnamics at the Children's Water Festival at UC Irvine
 Date: 2019-05-20
-Category: events
-Tags: outreach, K-8, ocean, Pacific Garbage Patch
+Category: Field Reports
+Tags: field-reports, outreach, K-8, ocean, Pacific Garbage Patch
 Slug: water-fest-2019
 Authors: Alex Arnold
 Summary: UCLA Graduate student Alex Arnold explains how she and fellow students used DIYnamics to teach young students about the Great Pacific Garbage Patch
 ---
+
+_[Update 2019-08-05: Since this was originally posted, we have
+commissioned other DIYnamics users outside of our core team to write
+their own posts about how they are using our materials in their
+schools and communities.  We're calling the series [Field
+Reports]({category}Field Reports), and we're retroactively naming
+Alex's great post below the inaugural Field Report.  Thanks again
+Alex!  --Spencer]_
 
 {% img {static}../images/water-fest-2019/water-fest-1.jpg 600 %}
 
