@@ -1,6 +1,6 @@
 Title: Field Report: Teaching with DIYnamics at Iowa State University
 Date: 2019-08-27
-Category: events
+Category: Field Reports
 Tags: field-reports guest-author university teaching
 Slug: iowa-state-2019
 Authors: Alex Gonzalez
