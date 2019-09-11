@@ -1,7 +1,7 @@
 Title: Field Report: Teaching with DIYnamics at Iowa State University
 Date: 2019-08-27
 Category: Field Reports
-Tags: field-reports guest-author university teaching
+Tags: field-reports, guest-author, university-teaching
 Slug: iowa-state-2019
 Authors: Alex Gonzalez
 Summary: Professor Alex Gonzalez at Iowa State University shares how he has used DIYnamics in his classroom.
