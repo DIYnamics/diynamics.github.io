@@ -1,7 +1,7 @@
 Title: Vortices on our LEGO table and "The Whale2" table at Roscomare Elementary and David Geffen Academy
 Date: 2019-09-16
 Category: events
-Tags: K-8 polar-vortex whale2
+Tags: K-8, polar-vortex, whale2
 Slug: geffen-roscomare-2019
 Authors: Jon Aurnou
 Summary: Core DIYnamicist Jon Aurnou shares how he and his group members taught K-8 students about vortices, including the polar vortex, using the standard LEGO-based DIYnamics table and the large-and-in-charge Whale Table.
