@@ -15,7 +15,7 @@ tank develops in contrast to a tank that is not rotating._
 
 DIYnamics made a debut in a partnership with the Society of Women
 Geoscientists (SWG) and [Project
-Scientist](http://projectscientist.org/) on November 11th, 2019, at
+Scientist](https://projectscientist.org/) on November 11th, 2019, at
 UCLA. SWG is a group at UCLA formed to support women and other
 underrepresented genders in the geosciences.  Members and allies in
 the group come from the Atmospheric and Oceanic Sciences (AOS)
