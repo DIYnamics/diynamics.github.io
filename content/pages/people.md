@@ -2,16 +2,16 @@ Title: Team
 Slug: people
 
 The DIYnamics team is composed of students, professors, and
-scientists, originally at UCLA but now spanning numerous institutions
-across America.
+scientists, originally all at UCLA but now with the core team spanning
+numerous institutions across America and with users spanning across
+the world!
 
 ## Core Team
 
-{% img {static}../images/people/Spencer.png 200 Spencer Hill %}
+{% img {static}../images/people/spencer-hill.jpg 200 Spencer Hill %}
 
 **Spencer Hill** (Postdoc, Lamont-Doherty Earth Observatory, Columbia
-University)<br>Along with Juan Lora, Spencer is co-leading the overall
-DIYnamics project.  He loves using rotating tanks to teach core
+University)<br>Spencer loves using rotating tanks to teach core
 science concepts, and his dream is to put a DIYnamics rotating tank
 kit in every science classroom in the country. [Link to Spencer's
 webpage](http://www.ldeo.columbia.edu/~shill)
@@ -19,8 +19,7 @@ webpage](http://www.ldeo.columbia.edu/~shill)
 {% img {static}../images/people/Lora.jpg 200 Juan Lora %}
 
 **Juan Lora** (Assistant Professor, Yale University, Department of
-Geology and Geophysics)<br>Along with Spencer Hill, Juan is co-leading
-the overall DIYnamics project. He is interested in using science demos
+Geology and Geophysics)<br>Juan is interested in using science demos
 to illustrate abstract physical phenomena in tangible and exciting
 ways, and to bring the joy of science to non-scientists and students
 of all backgrounds (and maybe help inspire a few future
@@ -43,6 +42,30 @@ Space Sciences)<br>Norris designed the DIY Rotating Tank and wrote its
 PDF instructions. He created the outreach project website and
 instructional videos with the help of Spencer Hill.
 
+{% img {static}../images/people/alex-gonzalez.jpg 200 Alex Gonzalez %}
+
+Alex joined the DIYnamics project in September 2019. He loves using
+rotating tanks in the fluid dynamics classes he teaches at ISU. His
+goal is to transition to placing more focus on applications rather
+than theory in his classes. He is excited about using the DIYnamics’
+rotating tanks in outreach activities to inspire a new generation of
+scientists, especially those from underrepresented STEM groups. [Link
+to Alex’s ISU Research Group webpage](https://tad.ge-at.iastate.edu/)
+
+{% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
+
+Jordyn is a graduate student in the Atmospheric and Oceanic Sciences
+department studying oceanography and ocean dynamics. She is excited to
+be a part of the DIYnamics team and is working to bring DIYnamics into
+the curriculum in the AOS department. She is also a member of the
+Society of Women Geoscientsts and uses DIYnamics to give hands on
+experiences to women, girls, and people of other classically
+underrepresented genders in STEM.
+
+{% img {static}../images/people/henry-gonzalez.jpg 200 Henry Gonzalez %}
+
+Henry...
+
 {% img {static}../images/people/jonathan-mitchell.png 200 Jonathan Mitchell %}
 
 **Jonathan Mitchell** (Associate Professor, UCLA Dept. of Earth, Planetary,
@@ -52,36 +75,6 @@ helped Juan and Sean get started with them.  He also has incorporated
 the DIYnamics tables into multiple classes he has taught, both at the
 undergraduate and graduate levels.  [Link to
 Jonathan's webpage](http://www2.ess.ucla.edu/~mitch/Home.html)
-
-## Outreach Event Volunteers
-
-{% img {static}../images/people/Ashley.png 200 Ashley Shoenfeld %}
-
-**Ashley Shoenfeld** (Graduate student, UCLA Dept. of Earth, Planetary, and
-Space Sciences)<br>Ashley is currently studying the ice moons of
-Jupiter and Saturn, and is a volunteer for the DIYnamics project. She
-believes outreach is one of the most important aspects of being a
-scientist, and genuinely loves teaching. She is passionate about
-science and hope she can impart that passion onto others.
-
-{% img {static}../images/people/chloe-whicker.jpg 200 Chloe Whicker %} **Chloe Whicker**
-
-**Chloe Whicker** (Undergraduate, UCLA Institute for the Environment
-and Sustainability)<br>Chloe is a UCLA undergraduate majoring in
-environmental science with a concentration in atmospheric and oceanic
-science.  She is interested in studying climate science and is
-passionate about increasing access to and retention in STEM fields
-through interactive and hands on experiences.
-
-{% img {static}../images/people/Person.jpg 200 Ashna Aggarwal %} **Ashna Aggarwal**
-
-{% img {static}../images/people/Person.jpg 200 Alex Arnold %} **Alex Arnold**
-
-{% img {static}../images/people/Person.jpg 200 Ellen Hoppe %} **Ellen Hoppe**
-
-{% img {static}../images/people/Person.jpg 200 Helen Parish %} **Helen Parish**
-
-{% img {static}../images/people/Person.jpg 200 Katie Tuite %} **Katie Tuite**
 
 ## Alumni
 
@@ -97,25 +90,45 @@ planetary atmospheres!  After finishing his Ph.D. in 2018, Dr. Faulk
 made the leap from outer space to human bodies, as he is now pursuing
 his M.D. as a medical student at the UCLA Medical School.
 
-{% img {static}../images/people/Person.jpg 200 Raul Reyes %}
-
 **Raul Reyes** (Undergraduate, UCLA Dept. of Earth, Planetary, and
 Space Sciences)<br>Raul created the [baroclinic
 eddies](https://www.youtube.com/watch?v=2nACitkIqNs) video under
 Juan's guidance.
 
+
+## Event Volunteers and DIYnamics users
+
+Ultimately, the core team members are just the tip of the DIYnamics
+iceburg!  What matters most is how much the DIYnamics materials get
+used "in the wild" by teachers, students, and science communicators,
+in classrooms, exhibits, public events, and on and on.
+
+Check out our [blog](/pages/blog.html) for posts on various events
+that the Core Team and other groups have put on using the DIYnamics
+materials.  Those posts provide shout outs to the main people involved
+and supporting cast for each one.
+
+Are you using DIYnamics in your class or science outreach event?  We
+would love for you to guest-author a Field Report post on it!  It can
+be as short as a couple paragraphs or as long as you wish.  The more
+pictures the better, and we can even include videos by uploading them
+to our YouTube page and embedding them within the post.  Just shoot us
+a message at [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com)
+and we'll work with you to get it posted!
+
+
 ## Origin story
 
 The idea for DIYnamics came from Jon Aurnou's Simulated Planetary
-INteriors Lab (a.k.a. Spinlab), in the UCLA Department of Earth,
-Planetary, and Space Sciences.  Spinlab has been conducting outreach
+INteriors Lab (a.k.a. SPINLab), in the UCLA Department of Earth,
+Planetary, and Space Sciences.  SPINLab has been conducting outreach
 using rotating tanks for years, but Jon was yearning for a cheap,
 portable version of the equipment that people without the equipment
 (and budget) of his highly specialized lab could easily attain.  There
 was (and still is) MIT's excellent Weather in a Tank platform, but
 that costs several thousand dollars and requires custom assemply.
 
-Work began in earnest in 2016 within Spinlab, and late in that year
+Work began in earnest in 2016 within SPINLab, and late in that year
 Spencer, Juan, and Sean joined the fold.  But it really took off in
 early 2017 when, due to a scheduling snafu, Norris got stuck observing
 one of our meetings and --- essentially on the spot --- came up with
