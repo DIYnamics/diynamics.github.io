@@ -21,7 +21,7 @@ already.  But better late than never!
 
 ## Alex Gonzalez
 
-{% img {static}../images/people/alex-gonzalez.jpg 200 Alex Gonzalez %}
+{% img {static}../images/people/alex-gonzalez.jpg 300 Alex Gonzalez %}
 
 Alex joined the DIYnamics project in September 2019. He loves using
 rotating tanks in the fluid dynamics classes he teaches at ISU. His
@@ -33,7 +33,7 @@ to Alex’s ISU Research Group webpage](https://tad.ge-at.iastate.edu/)
 
 ## Jordyn Moscoso
 
-{% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
+{% img {static}../images/people/jordyn-moscoso.jpg 600 Jordyn Moscoso %}
 
 Jordyn is a graduate student in the Atmospheric and Oceanic Sciences
 department studying oceanography and ocean dynamics. She is excited to
@@ -45,6 +45,14 @@ underrepresented genders in STEM.
 
 ## Henry Gonzalez
 
-{% img {static}../images/people/henry-gonzalez.jpg 200 Henry Gonzalez %}
+{% img {static}../images/people/henry-gonzalez.jpg 500 Henry Gonzalez %}
 
-Henry...
+Henry Gonzalez is currently serving as the SPINLab Project Manager and
+Space Magnetism Lab Manager, developing/coordinating everything from
+spacecraft instruments to geophysical fluid dynamics experiments.  His
+extensive knowledge in prototyping has paved the way to new modeling
+systems for understanding the interiors and atmospheres of
+planets.  Furthermore, he is working on the Henry III (H3) Model which
+will be a portable geoshysical system that will be used for classroom
+teaching of advanced concepts as well as outreach at public events and
+interactive K-12 STEM demonstrations.

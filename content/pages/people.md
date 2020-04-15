@@ -44,27 +44,40 @@ instructional videos with the help of Spencer Hill.
 
 {% img {static}../images/people/alex-gonzalez.jpg 200 Alex Gonzalez %}
 
-Alex joined the DIYnamics project in September 2019. He loves using
-rotating tanks in the fluid dynamics classes he teaches at ISU. His
-goal is to transition to placing more focus on applications rather
-than theory in his classes. He is excited about using the DIYnamics’
-rotating tanks in outreach activities to inspire a new generation of
-scientists, especially those from underrepresented STEM groups. [Link
-to Alex’s ISU Research Group webpage](https://tad.ge-at.iastate.edu/)
+**Alex Gonzalez** (Assistant Professor, Dept. of Geological and
+Atmospheric Sciences, Iowa State University)<br> Alex joined the
+DIYnamics project in September 2019. He loves using rotating tanks in
+the fluid dynamics classes he teaches at ISU. His goal is to
+transition to placing more focus on applications rather than theory in
+his classes. He is excited about using the DIYnamics’ rotating tanks
+in outreach activities to inspire a new generation of scientists,
+especially those from underrepresented STEM groups. [Link to Alex’s
+ISU Research Group webpage](https://tad.ge-at.iastate.edu/)
 
 {% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
 
-Jordyn is a graduate student in the Atmospheric and Oceanic Sciences
-department studying oceanography and ocean dynamics. She is excited to
-be a part of the DIYnamics team and is working to bring DIYnamics into
-the curriculum in the AOS department. She is also a member of the
-Society of Women Geoscientsts and uses DIYnamics to give hands on
-experiences to women, girls, and people of other classically
-underrepresented genders in STEM.
+**Jordyn Moscoso** (Graduate student, UCLA Dept. of Atmospheric and
+Oceanic Sciences)<br>Jordyn is a graduate student in the Atmospheric
+and Oceanic Sciences department studying oceanography and ocean
+dynamics. She is excited to be a part of the DIYnamics team and is
+working to bring DIYnamics into the curriculum in the AOS
+department. She is also a member of the Society of Women Geoscientsts
+and uses DIYnamics to give hands on experiences to women, girls, and
+people of other classically underrepresented genders in STEM.
 
 {% img {static}../images/people/henry-gonzalez.jpg 200 Henry Gonzalez %}
 
-Henry...
+**Henry Gonzalez** (SPINLab Project Manager, UCLA Dept. of Earth,
+Planetary, and Space Sciences)<br>Henry Gonzalez is currently serving as
+the SPINLab Project Manager and Space Magnetism Lab Manager,
+developing/coordinating everything from spacecraft instruments to
+geophysical fluid dynamics experiments.  His extensive knowledge in
+prototyping has paved the way to new modeling systems for
+understanding the interiors and atmospheres of planets.  Furthermore,
+he is working on the Henry III (H3) Model which will be a portable
+geoshysical system that will be used for classroom teaching of
+advanced concepts as well as outreach at public events and interactive
+K-12 STEM demonstrations.
 
 {% img {static}../images/people/jonathan-mitchell.png 200 Jonathan Mitchell %}
 
@@ -80,21 +93,23 @@ Jonathan's webpage](http://www2.ess.ucla.edu/~mitch/Home.html)
 
 {% img {static}../images/people/Sean.png 200 Sean Faulk %}
 
-**Sean Faulk** (Student, UCLA Medical school)<br>Sean helped write the
-lab instructions and organize the first outreach trips for the
-DIYnamics project.  As a Ph.D. student in the UCLA Dept. of Earth,
-Planetary, and Space Sciences, he studied climates on other planets
-and moons, most of all Saturn's moon Titan.  And he loved going out to
-schools to play with rotating tanks and help students learn about
-planetary atmospheres!  After finishing his Ph.D. in 2018, Dr. Faulk
-made the leap from outer space to human bodies, as he is now pursuing
-his M.D. as a medical student at the UCLA Medical School.
+**Sean Faulk** (Student, David Geffen School of Medicine,
+UCLA)<br>Sean helped write the lab instructions and organize the first
+outreach trips for the DIYnamics project.  As a Ph.D. student in the
+UCLA Dept. of Earth, Planetary, and Space Sciences, he studied
+climates on other planets and moons, most of all Saturn's moon Titan.
+And he loved going out to schools to play with rotating tanks and help
+students learn about planetary atmospheres!  After finishing his
+Ph.D. in 2018, Dr. Faulk made the leap from outer space to human
+bodies, as he is now pursuing his M.D. as a medical student at the
+UCLA Medical School.
 
 **Raul Reyes** (Undergraduate, UCLA Dept. of Earth, Planetary, and
 Space Sciences)<br>Raul created the [baroclinic
 eddies](https://www.youtube.com/watch?v=2nACitkIqNs) video under
 Juan's guidance.
 
+---
 
 ## Event Volunteers and DIYnamics users
 
@@ -116,6 +131,7 @@ to our YouTube page and embedding them within the post.  Just shoot us
 a message at [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com)
 and we'll work with you to get it posted!
 
+---
 
 ## Origin story
 
