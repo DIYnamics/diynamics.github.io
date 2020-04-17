@@ -38,9 +38,12 @@ webpage](http://epss.ucla.edu/people/faculty/543/)
 {% img {static}../images/people/Norris.jpeg 200 Norris Khoo %}
 
 **Norris Khoo** (Undergraduate, UCLA Dept. of Earth, Planetary, and
-Space Sciences)<br>Norris designed the DIY Rotating Tank and wrote its
-PDF instructions. He created the outreach project website and
-instructional videos with the help of Spencer Hill.
+Space Sciences)<br>As part of his undergraduate research at UCLA,
+Norris Khoo developed the LEGO-based rotating table for the DIYnamics
+Project. His research was supported in part by the Straus Family Fund
+for Undergraduate Opportunity. Norris is currently studying Computer
+Science at the University of Southern California.  Email:
+[norriskhoo@gmail.com](mailto:norriskhoo@gmail.com)
 
 {% img {static}../images/people/alex-gonzalez.jpg 200 Alex Gonzalez %}
 
