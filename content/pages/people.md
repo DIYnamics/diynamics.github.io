@@ -6,7 +6,7 @@ scientists, originally all at UCLA but now with the core team spanning
 numerous institutions across America and with users spanning across
 the world!
 
-## Core Team
+## Team Members
 
 {% img {static}../images/people/spencer-hill.jpg 200 Spencer Hill %}
 
@@ -15,6 +15,7 @@ University)<br>Spencer loves using rotating tanks to teach core
 science concepts, and his dream is to put a DIYnamics rotating tank
 kit in every science classroom in the country. [Link to Spencer's
 webpage](http://www.ldeo.columbia.edu/~shill)
+
 
 {% img {static}../images/people/Lora.jpg 200 Juan Lora %}
 
@@ -26,6 +27,7 @@ of all backgrounds (and maybe help inspire a few future
 scientists). [Link to Juan's
 webpage](https://earth.yale.edu/people/juan-lora)
 
+
 {% img {static}../images/people/Aurnou.jpg 200 Jonathan Aurnou %}
 
 **Jonathan Aurnou** (Professor, UCLA Dept. of Earth, Planetary, and
@@ -34,6 +36,7 @@ developing inexpensive, portable rotating tables for teaching core
 geoscience topics.  Thus, he is so pleased to be a part of the
 DIYnamics project. [Link to Jon's
 webpage](http://epss.ucla.edu/people/faculty/543/)
+
 
 {% img {static}../images/people/Norris.jpeg 200 Norris Khoo %}
 
@@ -44,6 +47,7 @@ Project. His research was supported in part by the Straus Family Fund
 for Undergraduate Opportunity. Norris is currently studying Computer
 Science at the University of Southern California.  Email:
 [norriskhoo@gmail.com](mailto:norriskhoo@gmail.com)
+
 
 {% img {static}../images/people/alex-gonzalez.jpg 200 Alex Gonzalez %}
 
@@ -57,6 +61,7 @@ in outreach activities to inspire a new generation of scientists,
 especially those from underrepresented STEM groups. [Link to Alex’s
 ISU Research Group webpage](https://tad.ge-at.iastate.edu/)
 
+
 {% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
 
 **Jordyn Moscoso** (Graduate student, UCLA Dept. of Atmospheric and
@@ -67,6 +72,7 @@ working to bring DIYnamics into the curriculum in the AOS
 department. She is also a member of the Society of Women Geoscientsts
 and uses DIYnamics to give hands on experiences to women, girls, and
 people of other classically underrepresented genders in STEM.
+
 
 {% img {static}../images/people/henry-gonzalez.jpg 200 Henry Gonzalez %}
 
@@ -82,15 +88,42 @@ geoshysical system that will be used for classroom teaching of
 advanced concepts as well as outreach at public events and interactive
 K-12 STEM demonstrations.
 
-{% img {static}../images/people/jonathan-mitchell.png 200 Jonathan Mitchell %}
 
-**Jonathan Mitchell** (Associate Professor, UCLA Dept. of Earth, Planetary,
-and Space Sciences and Dept. of Atmospheric and Oceanic
-Sciences)<br>Jonathan has been using rotating tanks for years and
-helped Juan and Sean get started with them.  He also has incorporated
-the DIYnamics tables into multiple classes he has taught, both at the
-undergraduate and graduate levels.  [Link to
-Jonathan's webpage](http://www2.ess.ucla.edu/~mitch/Home.html)
+{% img {static}../images/people/taylor-lonner.jpg 200 Taylor Lonner %}
+
+**Taylor Lonner** (UCLA Geophysics-Astrophysics dual B.Sci. 2020) <br>
+Taylor specializes in the design and production of many of the
+rotating tank systems used by the DIYnamics team.  Working with the
+engineers at MiniTec (www.minitecframing.com), she designs systems
+that can be ordered in sets and assembled by universities and
+institutions without requiring additional machining or power tools.
+This work is essential to the DIYnamics project’s main goal of making
+fluid dynamics experiments accessible and affordable in classrooms and
+lecture halls around the world.
+
+
+{% img {static}../images/people/david-james.jpg 200 DJ James %}
+
+**David (DJ) James** (PhD student, UCLA Department of Earth,
+Planetary, and Space Sciences) <br> DJ has reanimated the DigiPyRo
+Python script to work in Python 3.  This script digitally rotates a
+movie around a selected axis point.  This allows students to
+experiment with the Coriolis acceleration by selecting their own
+digitally rotating reference frame, and is proving to be an excellent
+tool for a number of different DIYnamics exercises.  As a side
+project, he is starting his PhD work with Prof. Lars Stixrude at UCLA
+in the fall of 2020.
+
+
+{% img {static}../images/people/sam-may.jpg 200 Sam May %}
+
+**Samuel May** (UC Irvine) <br> Sam developed the V1 DigiPyRo software
+in Python 2.7. This digital rotation software helps students gain
+intuition for the Coriolis force through digitally transformed
+rotating reference frames.  [Digipyro
+site](https://github.com/DIYnamics/digipyro).
+
+---
 
 ## Alumni
 
@@ -106,6 +139,18 @@ students learn about planetary atmospheres!  After finishing his
 Ph.D. in 2018, Dr. Faulk made the leap from outer space to human
 bodies, as he is now pursuing his M.D. as a medical student at the
 UCLA Medical School.
+
+
+{% img {static}../images/people/jonathan-mitchell.png 200 Jonathan Mitchell %}
+
+**Jonathan Mitchell** (Associate Professor, UCLA Dept. of Earth, Planetary,
+and Space Sciences and Dept. of Atmospheric and Oceanic
+Sciences)<br>Jonathan has been using rotating tanks for years and
+helped Juan and Sean get started with them.  He also has incorporated
+the DIYnamics tables into multiple classes he has taught, both at the
+undergraduate and graduate levels.  [Link to
+Jonathan's webpage](http://www2.ess.ucla.edu/~mitch/Home.html)
+
 
 **Raul Reyes** (Undergraduate, UCLA Dept. of Earth, Planetary, and
 Space Sciences)<br>Raul created the [baroclinic
