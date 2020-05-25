@@ -1,6 +1,6 @@
 Title: High schoolers teaching fluid dynamics to middle schoolers using DIYnamics
 Date: 2020-05-25
-Category: Field Report
+Category: Field Reports
 Tags: guest post, middle school, high school, LEGO
 Slug: isu-middle-school-2020
 Authors:
