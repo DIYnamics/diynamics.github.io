@@ -115,13 +115,25 @@ project, he is starting his PhD work with Prof. Lars Stixrude at UCLA
 in the fall of 2020.
 
 
-{% img {static}../images/people/sam-may.jpg 200 Sam May %}
+{% img {static}../images/people/marianna-linz.jpg 200 Marianna Linz %}
 
-**Samuel May** (UC Irvine) <br> Sam developed the V1 DigiPyRo software
-in Python 2.7. This digital rotation software helps students gain
-intuition for the Coriolis force through digitally transformed
-rotating reference frames.  [Digipyro
-site](https://github.com/DIYnamics/digipyro).
+**Marianna Linz** (Assistant Professor in the Department of Earth and
+Planetary Sciences and the School of Engineering and Applied Sciences,
+Harvard University) <br> Marianna is an atmospheric dynamicist and
+physical oceanographer. Her research focuses on large-scale
+geophysical fluid dynamics and transport. Current work in her group
+includes quantifying the stratospheric circulation from satellite
+data, explaining the detailed shape of midlatitude temperature
+distributions, and most recently, environmental effects on
+transmission of SARS-CoV-2. Marianna got her PhD from the
+Massachusetts Institute of Technology-Woods Hole Oceanographic
+Institution Joint Program in Physical Oceanography and was a
+postdoctoral research fellow at UCLA in Atmospheric and Oceanic
+Sciences. She is passionate about
+[teaching](https://www.seas.harvard.edu/news/2019/12/studying-storm)
+and [outreach](https://www.scienceclubforgirls.org/), and wrote a
+[children's picture book about climate
+change](https://cbaillustration-lovelylittlethings.com/products/cool-for-you-picture-book).
 
 ---
 
@@ -152,8 +164,17 @@ undergraduate and graduate levels.  [Link to
 Jonathan's webpage](http://www2.ess.ucla.edu/~mitch/Home.html)
 
 
+{% img {static}../images/people/sam-may.jpg 200 Sam May %}
+
+**Samuel May** (University of California, San Diego) <br> Sam
+developed the V1 `DigiPyRo` (now `DIYrotate`) software.  This digital
+rotation software helps students gain intuition for the Coriolis force
+through digitally transformed rotating reference frames.  [DIYrotate
+site](https://github.com/DIYnamics/diyrotate).
+
+
 **Raul Reyes** (Undergraduate, UCLA Dept. of Earth, Planetary, and
-Space Sciences)<br>Raul created the [baroclinic
+Space Sciences)<br>Raul created the original [baroclinic
 eddies](https://www.youtube.com/watch?v=2nACitkIqNs) video under
 Juan's guidance.
 
