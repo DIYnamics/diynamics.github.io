@@ -6,7 +6,7 @@ scientists, originally all at UCLA but now with the core team spanning
 numerous institutions across America and with users spanning across
 the world!
 
-## Team Members
+## Co-directors
 
 {% img {static}../images/people/spencer-hill.jpg 200 Spencer Hill %}
 
@@ -15,18 +15,6 @@ University)<br>Spencer loves using rotating tanks to teach core
 science concepts, and his dream is to put a DIYnamics rotating tank
 kit in every science classroom in the country. [Link to Spencer's
 webpage](http://www.ldeo.columbia.edu/~shill)
-
-
-{% img {static}../images/people/Lora.jpg 200 Juan Lora %}
-
-**Juan Lora** (Assistant Professor, Yale University, Department of
-Geology and Geophysics)<br>Juan is interested in using science demos
-to illustrate abstract physical phenomena in tangible and exciting
-ways, and to bring the joy of science to non-scientists and students
-of all backgrounds (and maybe help inspire a few future
-scientists). [Link to Juan's
-webpage](https://earth.yale.edu/people/juan-lora)
-
 
 {% img {static}../images/people/Aurnou.jpg 200 Jonathan Aurnou %}
 
@@ -38,16 +26,22 @@ DIYnamics project. [Link to Jon's
 webpage](http://epss.ucla.edu/people/faculty/543/)
 
 
-{% img {static}../images/people/Norris.jpeg 200 Norris Khoo %}
+## Team members (in alphabetical order)
 
-**Norris Khoo** (Undergraduate, UCLA Dept. of Earth, Planetary, and
-Space Sciences)<br>As part of his undergraduate research at UCLA,
-Norris Khoo developed the LEGO-based rotating table for the DIYnamics
-Project. His research was supported in part by the Straus Family Fund
-for Undergraduate Opportunity. Norris is currently studying Computer
-Science at the University of Southern California.  Email:
-[norriskhoo@gmail.com](mailto:norriskhoo@gmail.com)
+{% img {static}../images/people/mirjam-glessmer.jpg 200 Mirjam Glessmer %}
 
+**Mirjam Glessmer** (oceanographer and science communicator)<br>
+Mirjam introduced #KitchenOceanography in her oceanography classes
+back in 2011 as a way to give students the opportunity to see
+phenomena right in front of them instead of only describing them
+mathematically, and to help them practice observational, discussion
+and lab skills, using only materials that are available in most
+kitchens. Discovering the DIYnamics rotating tables meant that
+students could now even manipulate and observe the influence of
+rotation on large-scale ocean circulation, which Mirjam has introduced
+in Dynamics of the Atmosphere and Ocean classes in both Kiel (Germany)
+and Bergen (Norway).  [Link to Mirjam's
+website](https://mirjamglessmer.com/)
 
 {% img {static}../images/people/alex-gonzalez.jpg 200 Alex Gonzalez %}
 
@@ -60,18 +54,6 @@ his classes. He is excited about using the DIYnamics’ rotating tanks
 in outreach activities to inspire a new generation of scientists,
 especially those from underrepresented STEM groups. [Link to Alex’s
 ISU Research Group webpage](https://tad.ge-at.iastate.edu/)
-
-
-{% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
-
-**Jordyn Moscoso** (Graduate student, UCLA Dept. of Atmospheric and
-Oceanic Sciences)<br>Jordyn is a graduate student in the Atmospheric
-and Oceanic Sciences department studying oceanography and ocean
-dynamics. She is excited to be a part of the DIYnamics team and is
-working to bring DIYnamics into the curriculum in the AOS
-department. She is also a member of the Society of Women Geoscientsts
-and uses DIYnamics to give hands on experiences to women, girls, and
-people of other classically underrepresented genders in STEM.
 
 
 {% img {static}../images/people/henry-gonzalez.jpg 200 Henry Gonzalez %}
@@ -88,32 +70,15 @@ geoshysical system that will be used for classroom teaching of
 advanced concepts as well as outreach at public events and interactive
 K-12 STEM demonstrations.
 
+{% img {static}../images/people/Norris.jpeg 200 Norris Khoo %}
 
-{% img {static}../images/people/taylor-lonner.jpg 200 Taylor Lonner %}
-
-**Taylor Lonner** (UCLA Geophysics-Astrophysics dual B.Sci. 2020) <br>
-Taylor specializes in the design and production of many of the
-rotating tank systems used by the DIYnamics team.  Working with the
-engineers at MiniTec (www.minitecframing.com), she designs systems
-that can be ordered in sets and assembled by universities and
-institutions without requiring additional machining or power tools.
-This work is essential to the DIYnamics project’s main goal of making
-fluid dynamics experiments accessible and affordable in classrooms and
-lecture halls around the world.
-
-
-{% img {static}../images/people/david-james.jpg 200 DJ James %}
-
-**David (DJ) James** (PhD student, UCLA Department of Earth,
-Planetary, and Space Sciences) <br> DJ has reanimated the DigiPyRo
-Python script to work in Python 3.  This script digitally rotates a
-movie around a selected axis point.  This allows students to
-experiment with the Coriolis acceleration by selecting their own
-digitally rotating reference frame, and is proving to be an excellent
-tool for a number of different DIYnamics exercises.  As a side
-project, he is starting his PhD work with Prof. Lars Stixrude at UCLA
-in the fall of 2020.
-
+**Norris Khoo** (Undergraduate, UCLA Dept. of Earth, Planetary, and
+Space Sciences)<br>As part of his undergraduate research at UCLA,
+Norris Khoo developed the LEGO-based rotating table for the DIYnamics
+Project. His research was supported in part by the Straus Family Fund
+for Undergraduate Opportunity. Norris is currently studying Computer
+Science at the University of Southern California.  Email:
+[norriskhoo@gmail.com](mailto:norriskhoo@gmail.com)
 
 {% img {static}../images/people/marianna-linz.jpg 200 Marianna Linz %}
 
@@ -134,6 +99,57 @@ Sciences. She is passionate about
 and [outreach](https://www.scienceclubforgirls.org/), and wrote a
 [children's picture book about climate
 change](https://cbaillustration-lovelylittlethings.com/products/cool-for-you-picture-book).
+
+{% img {static}../images/people/taylor-lonner.jpg 200 Taylor Lonner %}
+
+**Taylor Lonner** (UCLA Geophysics-Astrophysics dual B.Sci. 2020) <br>
+Taylor specializes in the design and production of many of the
+rotating tank systems used by the DIYnamics team.  Working with the
+engineers at MiniTec (www.minitecframing.com), she designs systems
+that can be ordered in sets and assembled by universities and
+institutions without requiring additional machining or power tools.
+This work is essential to the DIYnamics project’s main goal of making
+fluid dynamics experiments accessible and affordable in classrooms and
+lecture halls around the world.
+
+{% img {static}../images/people/Lora.jpg 200 Juan Lora %}
+
+**Juan Lora** (Assistant Professor, Yale University, Department of
+Geology and Geophysics)<br>Juan is interested in using science demos
+to illustrate abstract physical phenomena in tangible and exciting
+ways, and to bring the joy of science to non-scientists and students
+of all backgrounds (and maybe help inspire a few future
+scientists). [Link to Juan's
+webpage](https://earth.yale.edu/people/juan-lora)
+
+{% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
+
+**Jordyn Moscoso** (Graduate student, UCLA Dept. of Atmospheric and
+Oceanic Sciences)<br>Jordyn is a graduate student in the Atmospheric
+and Oceanic Sciences department studying oceanography and ocean
+dynamics. She is excited to be a part of the DIYnamics team and is
+working to bring DIYnamics into the curriculum in the AOS
+department. She is also a member of the Society of Women Geoscientsts
+and uses DIYnamics to give hands on experiences to women, girls, and
+people of other classically underrepresented genders in STEM.
+
+
+---
+
+## DIYrotate
+
+{% img {static}../images/people/david-james.jpg 200 DJ James %}
+
+**David (DJ) James** (PhD student, UCLA Department of Earth,
+Planetary, and Space Sciences) <br> DJ has reanimated the DigiPyRo
+(now `diyrotate`) Python script to work in Python 3.  This script
+digitally rotates a movie around a selected axis point.  This allows
+students to experiment with the Coriolis acceleration by selecting
+their own digitally rotating reference frame, and is proving to be an
+excellent tool for a number of different DIYnamics exercises.  He is
+starting his PhD work with Prof. Lars Stixrude at UCLA in the fall of
+2020.
+
 
 ---
 
