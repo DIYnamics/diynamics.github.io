@@ -50,7 +50,7 @@ USE_FOLDER_AS_CATEGORY = True
 # tab.
 LINKS = [
     ['about', '/pages/about.html'],
-    ['table', '/pages/table.html'],
+    ['kits', '/pages/kits.html'],
     ['teaching', '/pages/teaching.html'],
     ['events', '/pages/events.html'],
     ['blog', '/pages/blog.html'],
@@ -75,6 +75,7 @@ THEME = 'themes/pelican-alchemy/alchemy'
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = [
+    'liquid_tags',
     'liquid_tags.img',
     'liquid_tags.video',
     'liquid_tags.youtube',
