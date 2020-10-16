@@ -3,7 +3,6 @@ save_as: index.html
 
 {% img /images/eyu-2017/eyu2017_baroclinic.jpg 800 Baroclinic instability in a DIYnamics rotating table %}
 
-
 DIYnamics develops inexpensive apparatuses for teaching fundamental
 concepts in Earth sciences, with an emphasis on geophysical fluid
 dynamics (GFD), in classrooms from the elementary school to university
