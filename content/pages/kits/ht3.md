@@ -26,7 +26,7 @@ This PDF details the construction of the THC including the required tools. In ad
 
 ### [Instructions PDF]({static}../../pdfs/ht3/THC_Manual.pdf)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cgMOzSUqogA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rX2iKzStRTI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Recommended Parts
 
@@ -44,7 +44,7 @@ Note that these are just recommended sources, these items can be found through a
 ​
 Here is a video detailing how to use the HT3 Table.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3bqnAr16yYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-RKnzAz3yw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
