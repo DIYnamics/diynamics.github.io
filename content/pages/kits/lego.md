@@ -9,7 +9,7 @@ Already have your table assembled and working? Head over to the [Teaching](/page
 
 ## What are the LEGO-Based Tables?
 
-{% img {static}../../images/kits/lego/technics_table_label.PNG 400 Technics Table complete setup with labels %}
+{% img {static}../../images/kits/lego/technics_table_label.png 400 Technics Table complete setup with labels %}
 
 *The LEGO-Based Tables are robust and affordable platforms for you to perform rotating tank experiments yourself!*
 
@@ -19,13 +19,13 @@ The tables are composed of the 1) LEGO assembly, 2) OXO lazy susan and 3) clear 
 
 The LEGO-Based Tables consist of 2 variants, the **LEGO Table** and the **Technics Table**, characterized by their LEGO assembly designs.
 
-{% img {static}../../images/kits/lego/lego_assembly_lego.PNG 400 LEGO Table LEGO assembly %}
+{% img {static}../../images/kits/lego/lego_assembly_lego.png 400 LEGO Table LEGO assembly %}
 
 *The LEGO Table features a minimalist LEGO assembly.*
 
 Developed in 2017, the first generation **LEGO Table** can be purchased in its entirety (LEGO assembly, lazy susan and tank) for **$55**. The LEGO Table was developed to fulfill our goals of providing a rotating tank platform accessible to as many classrooms as possible. Its LEGO assembly is composed of LEGO pieces to create a minimalist design.
 
-{% img {static}../../images/kits/lego/lego_assembly_technics.PNG 400 Technics Table LEGO assembly %}
+{% img {static}../../images/kits/lego/lego_assembly_technics.png 400 Technics Table LEGO assembly %}
 
 *The Technics Table features a fortified LEGO assembly.*
 
@@ -85,7 +85,7 @@ This PDF describes how to place the modules (LEGO assembly, lazy susan and tank)
 
 ## Customization Opportunities
 
-The fun of LEGOs is that they provide endless opportunities for customization! Inspired by LEGOs, we approach the LEGO-Based Tables as modular designs open to improvements. Here are optional add-ons that build upon the core setup and improve its capabilities for performing experiments and capturing data. These add-ons were developed by the DIYnamics community and if you are interested in sharing your designs, please feel free to contact us via email at diynamicsteam@gmail.com or Twitter at @DIYnamicsTeam.
+The fun of LEGOs is that they provide endless opportunities for customization! Inspired by LEGOs, we approach the LEGO-Based Tables as modular designs open to improvements. Here are optional add-ons that build upon the core setup and improve its capabilities for performing experiments and capturing data. These add-ons were developed by the DIYnamics community and if you are interested in sharing your designs, please feel free to contact us via email at [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com) or Twitter at [@DIYnamicsTeam](https://twitter.com/diynamicsteam).
 
 ---
 

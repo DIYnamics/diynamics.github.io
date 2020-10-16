@@ -74,7 +74,7 @@ K-12 STEM demonstrations.
 
 **Norris Khoo** (Undergraduate, UCLA Dept. of Earth, Planetary, and
 Space Sciences)<br>As part of his undergraduate research at UCLA,
-Norris Khoo developed the LEGO-based rotating table for the DIYnamics
+Norris Khoo developed the LEGO-Based Table for the DIYnamics
 Project. His research was supported in part by the Straus Family Fund
 for Undergraduate Opportunity. Norris is currently studying Computer
 Science at the University of Southern California.  Email:
@@ -215,25 +215,3 @@ pictures the better, and we can even include videos by uploading them
 to our YouTube page and embedding them within the post.  Just shoot us
 a message at [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com)
 and we'll work with you to get it posted!
-
----
-
-## Origin story
-
-The idea for DIYnamics came from Jon Aurnou's Simulated Planetary
-INteriors Lab (a.k.a. SPINLab), in the UCLA Department of Earth,
-Planetary, and Space Sciences.  SPINLab has been conducting outreach
-using rotating tanks for years, but Jon was yearning for a cheap,
-portable version of the equipment that people without the equipment
-(and budget) of his highly specialized lab could easily attain.  There
-was (and still is) MIT's excellent Weather in a Tank platform, but
-that costs several thousand dollars and requires custom assemply.
-
-Work began in earnest in 2016 within SPINLab, and late in that year
-Spencer, Juan, and Sean joined the fold.  But it really took off in
-early 2017 when, due to a scheduling snafu, Norris got stuck observing
-one of our meetings and --- essentially on the spot --- came up with
-the LEGO-based design that was far superior to the wood-based
-prototype we were working on up to then.  Within days we had a working
-prototype that is, with only a few modest tweaks, the DIYnamics
-LEGO-based table.

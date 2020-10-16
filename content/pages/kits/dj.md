@@ -9,7 +9,7 @@ Already have your table assembled and working? Head over to the [teaching](/page
 
 ## What is the DJ Table?
 
-{% img {static}../../images/kits/dj/dj_table.PNG 400 DJ Table complete setup %}
+{% img {static}../../images/kits/dj/dj_table.png 400 DJ Table complete setup %}
 
 The DJ Table is a record player based system for demonstrating geophysical fluid dynamics. The system's tanks come with transparent lids that make them ideal for visualization via phone or camera, and its minimal footprint makes for easy storage and transportation.
 
@@ -19,9 +19,9 @@ The DJ Table is a record player based system for demonstrating geophysical fluid
 ​
 Here we describe the steps to buying components for and assembling the DJ Table.
 ​
+### [Order Sheet PDF]({static}../../pdfs/dj/DJ_Order_Sheet.pdf)
 This PDF contains all the required parts to assemble the DJ Table. Please make note of the variety of record players suggested in the document. This system does not require the newest record player and we **highly** encourage scouring Ebay for older models. If you search 'high torque turntable' on Ebay, you will likely find a compatible device. Additionally, due to high shipping costs associated with acrylic, we have provided the CAD drawings for the tanks should you wish to order them from a local acrylics shop.
 
-### [Order Sheet PDF]({static}../../pdfs/dj/DJ_Order_Sheet.pdf)
 The following instructional video demonstrates how to put together the DJ Table.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SoTafsJMSK4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

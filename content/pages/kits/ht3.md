@@ -9,7 +9,7 @@ Already have your table assembled and working? Head over to the [teaching](/page
 
 ## What is the HT3 Table?
 
-{% img {static}../../images/kits/ht3/ht3_table.PNG 400 HT3 Table complete setup %}
+{% img {static}../../images/kits/ht3/ht3_table.png 400 HT3 Table complete setup %}
 
 The HT3 Table is a specially designed system including a large rotating tank, lightweight frame, and multi-functional cart that is meant to optimize geophysical fluid dynamics demonstrations while remaining accessible and portable. This high-end device is ideal for demonstrating simple to advanced geophysical fluid processes, and can be easily stored and moved between locations. The custom tank is designed to maximize its diameter while still fitting through a standard door frame. The heart of the HT3 Table is the THC (Taylor-Henry Cart), a rolling cart designed to be low to the ground such that young children can easily watch demonstrations, and transportable between classrooms and buildings. Featuring large locking casters and an adjustable handlebar, the cart is comfortable to push along a variety of terrain, and when the wheels are locked, the handlebar stows under the table to allow for 360 degrees of view.
 
@@ -19,12 +19,12 @@ The HT3 Table is a specially designed system including a large rotating tank, li
 ​
 Here we describe the steps to buying components for and assembling the HT3 Table.
 ​
-This PDF contains all the required parts to assemble the HT3 Table. Both the cart and the frame are machined from MiniTec such that they do not require any power tools to assemble. Since the tank is sizeable and costly to ship, its schematics are provided so that you can reach out to local acrylics shops for fabrication if desired.
-
 ### [Order Sheet PDF]({static}../../pdfs/ht3/HT3_Order_Sheet.pdf)
+This PDF contains all the required parts to assemble the HT3 Table. Both the cart and the frame are machined from MiniTec such that they do not require any power tools to assemble. Since the tank is sizeable and costly to ship, its schematics are provided so that you can reach out to local acrylics shops for fabrication if desired.
+### [HT3 Frame Instructions PDF]({static}../../pdfs/ht3/HT3_Frame_Manual.pdf)
+This PDF details the construction of the HT3 Frame including the required tools.
+### [THC Instructions PDF]({static}../../pdfs/ht3/THC_Manual.pdf)
 This PDF details the construction of the THC including the required tools. In addition, an instruction video is available below walking you through the steps outlined in the manual.
-
-### [Instructions PDF]({static}../../pdfs/ht3/THC_Manual.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rX2iKzStRTI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
