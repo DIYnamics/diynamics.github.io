@@ -17,9 +17,9 @@ Issue with any questions or suggestions.  Thanks!
 write access to the repo.  Contact Spencer to request write
 permission.)
 
-Our builds use [Pelican]()https://docs.getpelican.com/en/stable/ and
-the [ghp-import](https://github.com/c-w/ghp-import), both of which you
-can install via pip or conda.
+Our builds use [Pelican](https://docs.getpelican.com/en/stable/) and
+the [ghp-import](https://github.com/c-w/ghp-import) utility, both of
+which you can install via pip or conda.
 
 To build the site, from the repo top-level directory:
 
