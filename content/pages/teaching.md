@@ -7,8 +7,8 @@ Here we provide materials for teachers that enable them to use the
 DIYnamics Kits to teach effectively.
 
 This assumes that you've already assembled your table and
-are familiar with its basic operation. If not, check out [this
-page](table.html) for ordering, assembling, and operating
+are familiar with its basic operation. If not, check out this 
+[page](kits.html) for ordering, assembling, and operating
 instructions.
 
 ## Check out our [Middle School Teaching Guide PDF]({static}../pdfs/diynamics_teaching_guide.pdf)
