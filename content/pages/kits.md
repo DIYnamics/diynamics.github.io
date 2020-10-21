@@ -11,7 +11,10 @@ The DIYnamics Kits provide rotating tank platforms at various price points, size
 
 ## LEGO-Based Tables - $55 to $80
 
-{% img {static}../images/kits/lego/technics_table.png 400 Technics Table complete setup %}
+<p float="left">
+  <img src="{static}../images/kits/lego/technics_table.png" height="250" />
+  <img src="{static}../images/kits/lego/technics_table.gif" height="250" /> 
+</p>
 
 The LEGO-Based Tables are built using LEGOs, a 16"-diameter lazy susan, and other household items. They are perfect for teaching the basics, portable, and safe for audiences of all ages. Despite their low cost, they are robust enough for a wide range of experiments. Add-ons are available that enable capturing rotating frame footage and changing the rotation rate.
 
@@ -21,7 +24,10 @@ The LEGO-Based Tables are built using LEGOs, a 16"-diameter lazy susan, and othe
 
 ## DJ Table - $600 to $1,500
 
-{% img {static}../images/kits/dj/dj_table.png 400 DJ Table complete setup %}
+<p float="left">
+  <img src="{static}../images/kits/dj/dj_table.png" height="250" />
+  <img src="{static}../images/kits/dj/dj_table.gif" height="250" /> 
+</p>
 
 The DJ Table is a record player based system for demonstrating geophysical fluid dynamics. The system’s tanks come with transparent lids that make them ideal for visualization via phone or camera, and its minimal footprint makes for easy storage and transportation.
 
@@ -33,7 +39,10 @@ Compared to the LEGO-Based tables, the DJ Table provides much finer control over
 
 ## HT3 Table - $3,800 to $4,800
 
-{% img {static}../images/kits/ht3/ht3_table.png 400 HT3 Table complete setup %}
+<p float="left">
+  <img src="{static}../images/kits/ht3/ht3_table.png" height="250" />
+  <img src="{static}../images/kits/ht3/ht3_table.gif" height="250" /> 
+</p>
 
 Our biggest table is the HT3. The HT3 is an extremely high quality system, nearly research grade, that includes a nearly 3-foot diameter rotating tank on a powerful, reliable motor. At the same time, its lightweight frame, multi-functional cart, and 100% battery power make it fully portable. This high-end device is ideal for demonstrating simple to advanced geophysical fluid processes, and its sheer size make it an ideal eye-catcher for public outreach events.
 
