@@ -138,7 +138,7 @@ people of other classically underrepresented genders in STEM.
 
 ## DIYrotate
 
-{% img {static}../images/people/alex.jpg 200 Alex Chen %}
+{% img {static}../images/people/alex-chen.jpg 200 Alex Chen %}
 
 **Alex Chen** (Undergraduate, UCLA Deptartment of Computer Science) <br>
 Alex developed the third generation of `DigiPyRo`, with emphasis on speed and
