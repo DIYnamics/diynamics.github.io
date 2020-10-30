@@ -1,7 +1,7 @@
 Title: DIYnamics: affordable, accessible Earth science demonstration and teaching materials
 save_as: index.html
 
-{% img /images/eyu-2017/eyu2017_baroclinic.jpg 800 Baroclinic instability in a DIYnamics rotating table %}
+{% img {static}../images/kits/ht3/ht3_table_bci.gif 600 Baroclinic instability in the HT3 Table %}
 
 DIYnamics develops inexpensive apparatuses for teaching fundamental
 concepts in Earth sciences, with an emphasis on geophysical fluid
