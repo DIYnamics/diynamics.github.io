@@ -76,7 +76,10 @@ Using the DIYnamics Kits involves filling and draining water from tanks. Be prep
 
 ### Capturing Rotating Frame Footage
 
-{% img {static}../images/kits/rotating_frame.png 400 What is the rotating frame? %}
+<p float="left">
+  <img src="{static}../images/kits/rotating_frame.png" height="220" />
+  <img src="{static}../images/kits/rotating_frame.gif" height="220" /> 
+</p>
 
 When the tank on any of the DIYnamics Kits are rapidly rotating, it can be hard to see the more subtle behaviors going on inside the tank. To get around this, it's really helpful to have a camera looking at the tank from above and spinning with the tank. Each DIYnamics Kit features options for doing this -- what we call capturing footage in the rotating frame. Zoom can be used to livestream rotating frame footage for real-time analysis of fluid motions.
 

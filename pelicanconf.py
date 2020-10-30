@@ -36,8 +36,9 @@ AUTHOR_SAVE_AS = 'blog/author/{slug}.html'
 
 
 ICONS = [
-    ['github', 'https://github.com/DIYnamics/diynamics.github.io'],
     ['twitter', 'https://twitter.com/DIYnamicsTeam'],
+    ['youtube', 'https://www.youtube.com/channel/UCnUHxOSVY4G4OFbF8XL1qUg'],
+    ['github', 'https://github.com/DIYnamics/diynamics.github.io']
 ]
 
 DISPLAY_PAGES_ON_MENU = False
@@ -51,7 +52,7 @@ USE_FOLDER_AS_CATEGORY = True
 LINKS = [
     ['about', '/pages/about.html'],
     ['kits', '/pages/kits.html'],
-    ['youtube', 'https://www.youtube.com/channel/UCnUHxOSVY4G4OFbF8XL1qUg'],
+    ['videos', 'https://www.youtube.com/channel/UCnUHxOSVY4G4OFbF8XL1qUg'],
     ['teaching', '/pages/teaching.html'],
     ['events', '/pages/events.html'],
     ['blog', '/pages/blog.html'],
