@@ -138,6 +138,14 @@ people of other classically underrepresented genders in STEM.
 
 ## DIYrotate
 
+{% img {static}../images/people/alex-chen.jpg 200 Alex Chen %}
+
+**Alex Chen** (Undergraduate, UCLA Deptartment of Computer Science) <br>
+Alex developed the third generation of `DigiPyRo`, with emphasis on speed and
+accessibility. His work allows students to play with rotating reference frames
+and gain intuition for the Coriolis force by simply visiting a website.
+
+
 {% img {static}../images/people/david-james.jpg 200 DJ James %}
 
 **David (DJ) James** (PhD student, UCLA Department of Earth,
