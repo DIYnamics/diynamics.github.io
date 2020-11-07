@@ -28,6 +28,18 @@ webpage](http://epss.ucla.edu/people/faculty/543/)
 
 ## Team members (in alphabetical order)
 
+{% img {static}../images/people/ankit-barik.jpg 200 Ankit Barik %}
+
+**Ankit Barik** (Postdoc, Johns Hopkins University)<br>
+
+Ankit is a postdoc at Johns Hopkins University and works on
+simulations of planetary interiors and magnetic fields.  He got
+interested in DIYnamics because of a live demo of the Lego kit by Jon
+Aurnou and Noris Khoo at the AGU Fall Meeting in 2018.  He loved the
+fact that even a theoretician like himself could now perform small
+scale fluid dynamics experiments at home without the need for
+expensive equipment.
+
 {% img {static}../images/people/mirjam-glessmer.jpg 200 Mirjam Glessmer %}
 
 **Mirjam Glessmer** (oceanographer and science communicator)<br>
