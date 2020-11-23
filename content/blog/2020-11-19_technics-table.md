@@ -35,7 +35,9 @@ _The Lamont-Doherty Earth Observatory, home to Earth Sciences research at Columb
 
 {% img {static}../images/technics-table-2020/mechanically-generated-vortices.jpg 600 Mechanically generated vortices %}
 
-_Technics Table experimental results. Turbulence and rotation interact to form circular structures known as eddies -- fluid motions in the tank are analogous to storm systems such as Jupiter's Great Red Spot._
+_(U) Technics Table experimental results and (D) NASA Juno [satellite image](https://www.nasa.gov/image-feature/jpl/churning-texture-in-jupiter-s-atmosphere) of Jupiter's atmosphere. Turbulence and rotation interact to form circular structures known as eddies -- fluid motions in the tank are analogous to storm systems such as Jupiter's Great Red Spot._
+
+{% img {static}../images/technics-table-2020/juno-jupiter.jpg 600 Storms systems on Jupiter. Image credit: NASA Juno %}
 
 In addition to the Technics Table, new developments include DIYnamics community driven add-ons that expand the utility of the LEGO-Based Tables! Visit the LEGO-Based Tables page [here](/pages/lego.html) and our YouTube channel [here](https://tinyurl.com/diynamicsvideos) for PDF and video guides on how to purchase, build and operate the Technics Table and add-ons.
 
@@ -44,7 +46,7 @@ In addition to the Technics Table, new developments include DIYnamics community 
 
 _(L) The rotating frame camera mount provides the ability to mount a camera in the rotating frame -- the perspective of an observer rotating in sync with the system. Capturing rotating frame footage is beneficial because it enables viewing fluid motions sans the visual effects of rotation. The rotating frame camera mount can be coupled with solutions like Zoom to livestream footage for real-time analysis. The design was developed by Marianna Linz._
 
-_(R) The external power supply provides the ability to power the LEGO-Based Tables with wall power instead of battery power. The adjustable voltage power adapter enables fine control over rotating rate -- perfect for experiments like Taylor columns! The design was developed by Alex Gonzalez_
+_(R) The external power supply provides the ability to power the LEGO-Based Tables with wall power instead of battery power. The adjustable voltage power adapter enables fine control over rotating rate -- perfect for experiments like Taylor columns! The design was developed by Alex Gonzalez._
 
 {% img {static}../images/technics-table-2020/sidewall-tank.png 400 Sidewall tank %}
 
