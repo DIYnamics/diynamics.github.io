@@ -1,7 +1,7 @@
 Title: Field Report: A high schooler teaching fluid dynamics to middle schoolers using DIYnamics
 Date: 2020-05-25
 Category: Field Reports
-Tags: guest post, middle school, high school, LEGO
+Tags: field-report,guest-post, middle-school, high-school, LEGO
 Slug: isu-middle-school-2020
 Authors:
 Summary: Natalie Kongable, a high school student working with DIYnamics team member Alex Gonzalez at Iowa State University, describes how she taught middle schoolers about extratropical cyclones using the DIYnamics LEGO table.
@@ -10,8 +10,8 @@ Summary: Natalie Kongable, a high school student working with DIYnamics team mem
 _[Note from Spencer: This post is part of our ongoing [Field
 Reports]({category}Field Reports) series, where DIYnamics users across
 the country --- share how they've used the DIYnamics kit and materials
-in their local communities.  Also, for this post we do not include
-any photos of the actual event, because minors appear and we did not
+in their local communities.  Also, for this post we do not include any
+photos of the actual event, because minors appear and we did not
 attain release forms from parents permitting their photos to be used
 in this way.  Keep that in mind for your own futurue K-12-facing
 events!]_
@@ -28,7 +28,12 @@ aged students (6th through 8th grade).
 {% img {static}../images/isu-middle-school-2020/isu-middle-school-2020_01.png 600 %}
 {% img {static}../images/isu-middle-school-2020/isu-middle-school-2020_02.png 600 %}
 
-_Side views of the extratropical cyclones experiment taken just after the blue dye and then red dye was injected.  [Note from Spencer: for those familiar with thermal wind, notice how this baroclinic eddies simulation actually looks a lot like thermal wind in these shots.  That's because these are taken during the initial spin-up phase before the baroclinic eddies have kicked in.  Timescale matters!]_
+_Side views of the extratropical cyclones experiment taken just after
+the blue dye and then red dye was injected.  [Note from Spencer: for
+those familiar with thermal wind, notice how this baroclinic eddies
+simulation actually looks a lot like thermal wind in these shots.
+That's because these are taken during the initial spin-up phase before
+the baroclinic eddies have kicked in.  Timescale matters!]_
 
 The experiments proved to be successful in students understanding of
 how cyclones were formed and maintained.  The students I worked with
