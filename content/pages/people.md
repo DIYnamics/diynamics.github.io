@@ -128,14 +128,14 @@ lecture halls around the world.
 {% img {static}../images/people/Lora.jpg 200 Juan Lora %}
 
 **Juan Lora** (Assistant Professor, Yale University, Department of
-Geology and Geophysics)<br>Juan co-founded DIYnamics along with Jon
-Aurnou and Spencer Hill, served as DIYnamics co-directer for multiple
-years, and remains actively involved in DIYnamics today.  Juan is
-interested in using science demos to illustrate abstract physical
-phenomena in tangible and exciting ways, and to bring the joy of
-science to non-scientists and students of all backgrounds (and maybe
-help inspire a few future scientists). [Link to Juan's
-webpage](https://earth.yale.edu/people/juan-lora)
+Earth & Planetary Sciences)<br>Juan co-founded DIYnamics along with
+Jon Aurnou and Spencer Hill, served as DIYnamics co-directer for
+multiple years, and remains actively involved in DIYnamics today.
+Juan is interested in using science demos to illustrate abstract
+physical phenomena in tangible and exciting ways, and to bring the joy
+of science to non-scientists and students of all backgrounds (and
+maybe help inspire a few future scientists). [Link to Juan's
+webpage](https://people.earth.yale.edu/profile/juan-lora/about)
 
 {% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
 
