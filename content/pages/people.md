@@ -11,18 +11,20 @@ the world!
 {% img {static}../images/people/spencer-hill.jpg 200 Spencer Hill %}
 
 **Spencer Hill** (Postdoc, Lamont-Doherty Earth Observatory, Columbia
-University)<br>Spencer loves using rotating tanks to teach core
-science concepts, and his dream is to put a DIYnamics rotating tank
-kit in every science classroom in the country. [Link to Spencer's
-webpage](http://www.ldeo.columbia.edu/~shill)
+University)<br>Along with Juan Lora and Jon Aurnou, Spencer co-founded
+DIYnamics and is a co-director.  Spencer loves using rotating tanks to
+teach core science concepts, and his dream is to put a DIYnamics
+rotating tank kit in every science classroom in the country. [Link to
+Spencer's webpage](http://www.ldeo.columbia.edu/~shill)
 
 {% img {static}../images/people/Aurnou.jpg 200 Jonathan Aurnou %}
 
 **Jonathan Aurnou** (Professor, UCLA Dept. of Earth, Planetary, and
-Space Sciences)<br>Jonathan considers few things as satisfying as
-developing inexpensive, portable rotating tables for teaching core
-geoscience topics.  Thus, he is so pleased to be a part of the
-DIYnamics project. [Link to Jon's
+Space Sciences)<br>Along with Juan Lora and Spencer Hill, Jon co-founded
+DIYnamics and is currently a co-director.  He considers few things as
+satisfying as developing inexpensive, portable rotating tables for
+teaching core geoscience topics.  Thus, he is so pleased to be a part
+of the DIYnamics project. [Link to Jon's
 webpage](http://epss.ucla.edu/people/faculty/543/)
 
 
@@ -126,12 +128,14 @@ lecture halls around the world.
 {% img {static}../images/people/Lora.jpg 200 Juan Lora %}
 
 **Juan Lora** (Assistant Professor, Yale University, Department of
-Geology and Geophysics)<br>Juan is interested in using science demos
-to illustrate abstract physical phenomena in tangible and exciting
-ways, and to bring the joy of science to non-scientists and students
-of all backgrounds (and maybe help inspire a few future
-scientists). [Link to Juan's
-webpage](https://earth.yale.edu/people/juan-lora)
+Earth & Planetary Sciences)<br>Juan co-founded DIYnamics along with
+Jon Aurnou and Spencer Hill, served as DIYnamics co-directer for
+multiple years, and remains actively involved in DIYnamics today.
+Juan is interested in using science demos to illustrate abstract
+physical phenomena in tangible and exciting ways, and to bring the joy
+of science to non-scientists and students of all backgrounds (and
+maybe help inspire a few future scientists). [Link to Juan's
+webpage](https://people.earth.yale.edu/profile/juan-lora/about)
 
 {% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
 
