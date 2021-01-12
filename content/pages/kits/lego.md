@@ -81,7 +81,7 @@ This PDF describes how to control the motor powering the Technics Tables.
 ### [Guide to Operating the Technics Table PDF]({static}../../pdfs/technics/Operating_the_DIYnamics_Technics_Table.pdf)
 This PDF describes how to place the modules (LEGO assembly, lazy susan and tank) of the Technics Table together and get the table up and running for experiments!
 
-Tip: Over time, rubber may begin to shred off from the LEGO assembly's tire. This will disrupt the contact between the wheel and the lazy susan leading to an inconsistent rotation rate. Replace the LEGO assembly's tire once significant shredding occurs.
+Over time, rubber may begin to shred off from the LEGO assembly's tire. This will disrupt the contact between the wheel and the lazy susan leading to an inconsistent rotation rate. Replace the LEGO assembly's tire once significant shredding occurs.
 
 ---
 
