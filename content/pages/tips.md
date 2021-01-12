@@ -103,7 +103,7 @@ The DIYnamics Kits generally require several minutes to establish a state of sol
 {% img {static}../images/guides/surfactant/surfactant.gif 400 Surfactant %}
 {% img {static}../images/guides/surfactant/no-surfactant.gif 400 No surfactant %}
 
-_Water with (L) and without (R) surfactant added. Surfactant breaks the water's surface tension by reducing attraction between its molecules. Notice how food coloring dropped into the water with surfactant remains tight -- the food coloring is free to move through the water's surface. Meanwhile, when food coloring is dropped into the water without surfactant, it disperses -- the food coloring encounters resistance at the water's surface and spreads out before moving through._
+_Water with (L) and without (R) surfactant added. Surfactant breaks the water's surface tension by reducing attraction between its molecules. Notice how food coloring dropped into the water with surfactant remains tight -- the food coloring is free to move through the water's surface. Meanwhile, when food coloring is dropped into the water without surfactant, it disperses -- the food coloring encounters resistance at the water's surface and spreads out before moving through. Note that &Omega; indicates the rotation direction._
 
 Surface tension refers to the integrity of a liquid's surface caused by attraction between molecules. The property of liquids results in the liquid's surface acting as a sheet rather than dissipating. Water is characterized by a high surface tension. As a result, when adding food coloring to water, the water's surface resists the food coloring.
 
