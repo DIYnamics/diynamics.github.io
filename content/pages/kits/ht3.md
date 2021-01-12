@@ -28,6 +28,10 @@ This PDF details the construction of the THC including the required tools. In ad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rX2iKzStRTI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+In order to safely operate the HT3, it is recommended that you detach the turntable controls from beneath the turntable.  The instruction video below details how to install the servo extension cable to allow you to operate the HT3 without crouching beneath the tank.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OWv1a1OJDyk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Recommended Parts
 
 In addition to the required components outlined in the order sheet, we also recommend the following items:
@@ -45,6 +49,14 @@ Note that these are just recommended sources, these items can be found through a
 Here is a video detailing how to use the HT3 Table.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-RKnzAz3yw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Helpful Tips
+
+Here are helpful tips when using any of the DIYnamics Kits. We greatly value feedback and contributions from the DIYnamics community to help refine our devices and experiments. If you have any suggestions, please feel free to share with us via email at [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com) or Twitter at [@DIYnamicsTeam](https://twitter.com/diynamicsteam).
+
+### [Check out helpful tips here](/pages/tips.html)
 
 ---
 
