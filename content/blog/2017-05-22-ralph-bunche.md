@@ -1,6 +1,6 @@
 Title: Ralph Bunche Middle School Event
 Date: 2017-05-22 16:16:01 -0600
-Category: event
+Category: events
 Tags: outreach, K-8
 Slug: ralph-bunche-event
 Authors: Norris Khoo

@@ -46,6 +46,14 @@ Once you have your DJ Table constructed, please see the following video for how 
 
 ---
 
+## Helpful Tips
+
+Here are helpful tips when using any of the DIYnamics Kits. We greatly value feedback and contributions from the DIYnamics community to help refine our devices and experiments. If you have any suggestions, please feel free to share with us via email at [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com) or Twitter at [@DIYnamicsTeam](https://twitter.com/diynamicsteam).
+
+### [Check out helpful tips here](/pages/tips.html)
+
+---
+
 ## Learning and Teaching with the DJ Table
 Once you have your table assembled and operating, and head over to our [teaching](/pages/teaching.html) page to learn how to use the table to perform some demonstrations and to incorporate them into an effective teaching module.
 

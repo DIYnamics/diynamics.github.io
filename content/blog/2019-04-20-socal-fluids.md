@@ -31,9 +31,9 @@ continues and results in the formation of large circular structures or eddies. B
 instability defines much of the large scale behavior of Earth's atmosphere in the northern
 hemisphere.
 
-{% img {static}../images/socal-fluids-2019/norris-beach.png 600 %}
+{% img {static}../images/socal-fluids-2019/beach.png 600 %}
 
-_Norris visiting the beach after the symposium_
+_A visit to the beach after the symposium_
 
 Thank you to the SoCal Fluids 2019 organizers for providing the opportunity to share our project!
 And thank you to other participants for their interesting presentations and valuable insight

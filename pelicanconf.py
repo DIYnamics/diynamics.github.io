@@ -52,6 +52,7 @@ USE_FOLDER_AS_CATEGORY = True
 LINKS = [
     ['about', '/pages/about.html'],
     ['kits', '/pages/kits.html'],
+    ['diyrotate', '/pages/diyrotate.html'],
     ['videos', 'https://www.youtube.com/channel/UCnUHxOSVY4G4OFbF8XL1qUg'],
     ['teaching', '/pages/teaching.html'],
     ['events', '/pages/events.html'],
