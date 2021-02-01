@@ -88,8 +88,7 @@ K-12 STEM demonstrations.
 Space Sciences)<br>As part of his undergraduate research at UCLA,
 Norris developed the LEGO-Based Tables for the DIYnamics
 Project. His research was supported in part by the Straus Family Fund
-for Undergraduate Opportunity. Norris is currently studying Computer
-Science at the University of Southern California.
+for Undergraduate Opportunity.
 
 {% img {static}../images/people/marianna-linz.jpg 200 Marianna Linz %}
 
