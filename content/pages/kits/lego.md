@@ -121,7 +121,24 @@ The LEGO-Based Table couples LEGOs and a lazy susan to create a rotating platfor
 
 To this end, the standard 8" diameter x 4" height tank can be replaced with a wider and taller option. However, finding a tank that is clear and larger whilst remaining affordable is challenging. To this end, if one is available, an option is to affix an acrylic cylinder to the lazy susan to create an integrated rotating tank platform -- the Sidewall Tank. Note that acrylic cylinders can be costly -- the DIYnamics Team is searching for affordable options. The video utilizes an acrylic cylinder custom ordered from [Reynolds Polymer](https://www.reynoldspolymer.com/) and provides a general overview for installing a Sidewall Tank.
 
+**Disclaimer: Do not lift the Sidewall Tank to drain.** Moving the Sidewall Tank whilst carrying water can warp the lazy susan. Consequently, the silicone may peel off thus detaching the acrylic cylinder from the lazy susan. A safe way to empty the Sidewall Tank is to 1) use a cup to remove most of the water then 2) use sponges or towels to soak remaining water.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sN1ahWml17w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Building a DIY Sidewall Tank
+
+{% img {static}../../images/kits/lego/diy_sidewall_tank.png 400 DIY Sidewall Tank %}
+
+_The DIY Sidewall Tank offers a wider and taller tank greatly enhancing the experimental results possible!_
+
+The DIY Sidewall Tank is an affordable yet effective alternative to the Sidewall Tank. In lieu of the Sidewall Tank's purpose-built acrylic cylinder, the DIY Sidewall Tank utilizes a homemade acrylic cylinder offering similar diameter and height. The acrylic cylinder is created by bending an acrylic sheet then attaching the ends together. The acrylic cylinder is mounted on the lazy susan to form an integrated rotating tank platform. The DIY Sidewall Tank is a fraction of the cost of the Sidewall Tank -- $40 for core components. Meanwhile, the design is perfect for experiments involving large fluid bodies (e.g. baroclinic instability)! Note that the DIY Sidewall Tank features a thin sidewall thus precluding mounting cameras in the rotating frame. Nevertheless, using tools like [DIYrotate](https://diyrot.epss.ucla.edu/), capturing stunning results is very doable!
+
+**Disclaimer: Do not lift the DIY Sidewall Tank to drain.** Moving the DIY Sidewall Tank whilst carrying water can warp the lazy susan. Consequently, the silicone may peel off thus detaching the acrylic cylinder from the lazy susan. A safe way to empty the DIY Sidewall Tank is to 1) use a cup to remove most of the water then 2) use sponges or towels to soak remaining water.
+
+### [Guide to Building the DIY Sidewall Tank PDF]({static}../../pdfs/technics/DIY_Sidewall_Tank_Guide.pdf)
+This PDF describes how to build the DIY Sidewall Tank. View the Technics Table Parts List PDF for a list of required components.
 
 ---
 

@@ -26,7 +26,7 @@ reflect the views of the National Science Foundation*
 
 {% img /images/logos/ucla_epss_logo.png 600 UCLA EPSS logo %}
 
-Special thanks to the EPSS Strauss Family Fund for Undergraduate
+Special thanks to the EPSS Straus Family Fund for Undergraduate
 Research for their support.
 
 ## UCLA Department of Atmospheric and Oceanic Sciences
