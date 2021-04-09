@@ -84,14 +84,11 @@ geoshysical system that will be used for classroom teaching of
 advanced concepts as well as outreach at public events and interactive
 K-12 STEM demonstrations.
 
-{% img {static}../images/people/Norris.jpeg 200 Norris Khoo %}
-
 **Norris Khoo** (Undergraduate, UCLA Dept. of Earth, Planetary, and
 Space Sciences)<br>As part of his undergraduate research at UCLA,
-Norris Khoo developed the LEGO-Based Tables for the DIYnamics
+Norris developed the LEGO-Based Tables for the DIYnamics
 Project. His research was supported in part by the Straus Family Fund
-for Undergraduate Opportunity. Norris is currently studying Computer
-Science at the University of Southern California.
+for Undergraduate Opportunity.
 
 {% img {static}../images/people/marianna-linz.jpg 200 Marianna Linz %}
 

@@ -81,6 +81,8 @@ This PDF describes how to control the motor powering the Technics Tables.
 ### [Guide to Operating the Technics Table PDF]({static}../../pdfs/technics/Operating_the_DIYnamics_Technics_Table.pdf)
 This PDF describes how to place the modules (LEGO assembly, lazy susan and tank) of the Technics Table together and get the table up and running for experiments!
 
+Over time, rubber may begin to shred off from the LEGO assembly's tire. This will disrupt the contact between the wheel and the lazy susan leading to an inconsistent rotation rate. Replace the LEGO assembly's tire once significant shredding occurs.
+
 ---
 
 ## Customization Opportunities
@@ -113,12 +115,47 @@ This PDF describes how to livestream footage from a phone in the rotating frame 
 
 ---
 
+## Installing a Sidewall Tank
+
+The LEGO-Based Table couples LEGOs and a lazy susan to create a rotating platform. A tank is mounted atop the rotating platform and filled with water to model planetary fluid bodies. The tank's dimensions are significant because a fluid body's diameter and height are key parameters influencing its behavior. In general, a larger tank expands the breadth and quality of experiments possible with the LEGO-Based Table.
+
+To this end, the standard 8" diameter x 4" height tank can be replaced with a wider and taller option. However, finding a tank that is clear and larger whilst remaining affordable is challenging. To this end, if one is available, an option is to affix an acrylic cylinder to the lazy susan to create an integrated rotating tank platform -- the Sidewall Tank. Note that acrylic cylinders can be costly -- the DIYnamics Team is searching for affordable options. The video utilizes an acrylic cylinder custom ordered from [Reynolds Polymer](https://www.reynoldspolymer.com/) and provides a general overview for installing a Sidewall Tank.
+
+**Disclaimer: Do not lift the Sidewall Tank to drain.** Moving the Sidewall Tank whilst carrying water can warp the lazy susan. Consequently, the silicone may peel off thus detaching the acrylic cylinder from the lazy susan. A safe way to empty the Sidewall Tank is to 1) use a cup to remove most of the water then 2) use sponges or towels to soak remaining water.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sN1ahWml17w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Building a DIY Sidewall Tank
+
+{% img {static}../../images/kits/lego/diy_sidewall_tank.png 400 DIY Sidewall Tank %}
+
+_The DIY Sidewall Tank offers a wider and taller tank greatly enhancing the experimental results possible!_
+
+The DIY Sidewall Tank is an affordable yet effective alternative to the Sidewall Tank. In lieu of the Sidewall Tank's purpose-built acrylic cylinder, the DIY Sidewall Tank utilizes a homemade acrylic cylinder offering similar diameter and height. The acrylic cylinder is created by bending an acrylic sheet then attaching the ends together. The acrylic cylinder is mounted on the lazy susan to form an integrated rotating tank platform. The DIY Sidewall Tank is a fraction of the cost of the Sidewall Tank -- $40 for core components. Meanwhile, the design is perfect for experiments involving large fluid bodies (e.g. baroclinic instability)! Note that the DIY Sidewall Tank features a thin sidewall thus precluding mounting cameras in the rotating frame. Nevertheless, using tools like [DIYrotate](https://diyrot.epss.ucla.edu/), capturing stunning results is very doable!
+
+**Disclaimer: Do not lift the DIY Sidewall Tank to drain.** Moving the DIY Sidewall Tank whilst carrying water can warp the lazy susan. Consequently, the silicone may peel off thus detaching the acrylic cylinder from the lazy susan. A safe way to empty the DIY Sidewall Tank is to 1) use a cup to remove most of the water then 2) use sponges or towels to soak remaining water.
+
+### [Guide to Building the DIY Sidewall Tank PDF]({static}../../pdfs/technics/DIY_Sidewall_Tank_Guide.pdf)
+This PDF describes how to build the DIY Sidewall Tank. View the Technics Table Parts List PDF for a list of required components.
+
+---
+
 ## Switching Wheels
 
 The LEGO-Based Tables offer the flexibility to switch wheels driving the lazy susan. Analogous to a higher gear ratio, using a larger wheel will increase rotation rate and vice versa. The Technics Table, designed to provide a more stable platform compared to its predecessor, features an adjustable arm that can be calibrated to different wheels.
 
 ### [Guide to Using Different Wheels PDF]({static}../../pdfs/technics/Adjustable_Arm_Guide.pdf)
 This PDF describes how to switch wheels driving the Technics Table.
+
+---
+
+## Helpful Tips
+
+Here are helpful tips when using any of the DIYnamics Kits. We greatly value feedback and contributions from the DIYnamics community to help refine our devices and experiments. If you have any suggestions, please feel free to share with us via email at [diynamicsteam@gmail.com](mailto:diynamicsteam@gmail.com) or Twitter at [@DIYnamicsTeam](https://twitter.com/diynamicsteam).
+
+### [Check out helpful tips here](/pages/tips.html)
 
 ---
 
