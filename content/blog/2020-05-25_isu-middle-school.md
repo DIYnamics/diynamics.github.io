@@ -3,7 +3,7 @@ Date: 2020-05-25
 Category: Field Reports
 Tags: field-report,guest-post, middle-school, high-school, LEGO
 Slug: isu-middle-school-2020
-Authors:
+Authors: Natalie Kongable
 Summary: Natalie Kongable, a high school student working with DIYnamics team member Alex Gonzalez at Iowa State University, describes how she taught middle schoolers about extratropical cyclones using the DIYnamics LEGO table.
 ---
 
