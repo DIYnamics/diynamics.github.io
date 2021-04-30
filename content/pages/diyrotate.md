@@ -100,7 +100,7 @@ frame footage yet with fewer setup constraints to consider.
 ## How to use DIYrotate
 
 DIYrotate can be accessed at
-[https://diyrot.epss.ucla.edu/](https://diyrot.epss.ucla.edu/). The web app
+**[https://diyrot.epss.ucla.edu/](https://diyrot.epss.ucla.edu/)**. The web app
 features instructions guiding users through de-rotation step by step.
 Screenshots of the app and a fully textual guide follow below.  
 
@@ -128,7 +128,7 @@ For best results from the app, ensure that:
 ### Step 1: Upload stationary frame footage to DIYrotate
 
 {% img {static}../images/diyrotate/s1.png 400 Shortly after step 1%}
-_a view of the webpage as it just completes uploading your video to the server._
+_a view of the webpage just as it completes uploading your video to the server._
 
 In the following order:  
 1. Specify the rotations per minute (RPM) of the rotating surface. Positive and
@@ -136,8 +136,8 @@ In the following order:
    system rotation respectively. Non-integer values are allowed!  
 2. (Optional) if you wish to see the original and derotated frame side by side,
    check the check box. Note: when using this mode, the rough preview will only
-   have the derotated frame. The fully processed video will show both frames.
-2. Pick the video file you wish to upload. The program will automatically start
+   have the derotated frame. The fully processed video will show both frames.  
+3. Pick the video file you wish to upload. The program will automatically start
    uploading your video.  
 
 _note: when using Safari, very large files (>100MB) may cause the web page to
@@ -149,7 +149,7 @@ significant memory." If this occurs, we recommend users try Firefox or Chrome._
 {% img {static}../images/diyrotate/s20.png 400 Shortly after step 2%}
 _the webpage asking the user to inspect a generated preview._
 
-- The app should now generate a preview of what the first five seconds of
+- The app should now generate a preview of what the first ten seconds of
     derotated video should look like.
 - Inspect this clip; if it is unsatisfactory, click 'Adjust' to manually set the
     derotation circle (see Step 2.1), and then click 'Regenerate Preview' to
