@@ -144,6 +144,35 @@ _note: when using Safari, very large files (>100MB) may cause the web page to
 reload, with an error near the top of the page saying "This webpage is using
 significant memory." If this occurs, we recommend users try Firefox or Chrome._
 
+
+#### Notes for high-speed cameras (slow motion video) {#slow-mo}
+
+If you captured your video using a high-speed camera or the "slow motion"
+feature on your smartphone, some extra work is required to use DIYrotate. You
+should find the __recording fps__ and the __output fps__ of your video, and
+convert your input RPM as such:  
+inputRPM = tableRPM * (output_fps / recording_fps)  
+__Recording fps__ can often be found in your camera settings. Here are mine on
+iPhone, which I found by going to Settings > Camera > Record Slo-mo:  
+
+
+{% img {static}../images/diyrotate/iphone_fps.jpg 400%}  
+
+__Output fps__ is usually 30. To double check, open the slow motion video in VLC
+and look for "Media Information" under "Window" or "Tools" in the menu bar.
+Click the "Codec" tab, and round whatever frame rate is displayed to the closest
+integer.  
+
+
+{% img {static}../images/diyrotate/vlc_fps.png 400%}  
+
+This is necessary because DIYrotate has no conception of time beyond frames per
+second of the video. If a video reports it has 30 fps (which is what __output
+fps__ is), DIYrotate will treat each frame as 1/30th of a second. Slow motion
+cameras record at higher frame rates such as 120 fps and export the video at 30
+fps, effectively slowing motion by 0.25x. DIYrotate has no way of telling
+between the two, so manual intervention is required.
+
 ### Step 2: Review Generated Preview
 
 {% img {static}../images/diyrotate/s20.png 400 Shortly after step 2%}
