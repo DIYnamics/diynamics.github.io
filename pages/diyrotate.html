@@ -187,6 +187,25 @@ example video we used. The <span class="caps">RPM</span> of this video is&nbsp;1
 <p><em>note: when using Safari, very large files (&gt;<span class="caps">100MB</span>) may cause the web page to
 reload, with an error near the top of the page saying &#8220;This webpage is using
 significant memory.&#8221; If this occurs, we recommend users try Firefox or&nbsp;Chrome.</em></p>
+<h4 id="slow-mo">Notes for high-speed cameras (slow motion&nbsp;video)</h4>
+<p>If you captured your video using a high-speed camera or the &#8220;slow motion&#8221;
+feature on your smartphone, some extra work is required to use DIYrotate. You
+should find the <strong>recording fps</strong> and the <strong>output fps</strong> of your video, and
+convert your input <span class="caps">RPM</span> as such:<br>
+inputRPM = tableRPM * (output_fps / recording_fps)<br>
+<strong>Recording fps</strong> can often be found in your camera settings. Here are mine on
+iPhone, which I found by going to Settings &gt; Camera &gt; Record&nbsp;Slo-mo:  </p>
+<p><img src="/images/diyrotate/iphone_fps.jpg" width="400">  </p>
+<p><strong>Output fps</strong> is usually 30. To double check, open the slow motion video in <span class="caps">VLC</span>
+and look for &#8220;Media Information&#8221; under &#8220;Window&#8221; or &#8220;Tools&#8221; in the menu bar.
+Click the &#8220;Codec&#8221; tab, and round whatever frame rate is displayed to the closest&nbsp;integer.  </p>
+<p><img src="/images/diyrotate/vlc_fps.png" width="400">  </p>
+<p>This is necessary because DIYrotate has no conception of time beyond frames per
+second of the video. If a video reports it has 30 fps (which is what <strong>output
+fps</strong> is), DIYrotate will treat each frame as 1/30th of a second. Slow motion
+cameras record at higher frame rates such as 120 fps and export the video at 30
+fps, effectively slowing motion by 0.25x. DIYrotate has no way of telling
+between the two, so manual intervention is&nbsp;required.</p>
 <h3>Step 2: Review Generated&nbsp;Preview</h3>
 <p><img src="/images/diyrotate/s20.png" width="400" title="Shortly after step 2" alt="Shortly after step 2">
 <em>the webpage asking the user to inspect a generated&nbsp;preview.</em></p>
