@@ -14,7 +14,7 @@ The DIYnamics Kits provide rotating tank platforms at various price points, size
 {% img {static}../images/kits/lego/technics_table.png 333 Technics Table PNG %}
 {% img {static}../images/kits/lego/technics_table.gif 355 Technics Table GIF %}
 
-The LEGO-Based Tables are built using LEGOs, a 16"-diameter lazy susan, and other household items. They are perfect for teaching the basics, portable, and safe for audiences of all ages. Despite their low cost, they are robust enough for a wide range of experiments. Add-ons are available that enable capturing rotating frame footage, changing the rotation rate and fixing larger tanks.
+The LEGO-Based Tables are built using LEGOs, a 16"-diameter kitchen turntable, and other household items. They are perfect for teaching the basics, portable, and safe for audiences of all ages. Despite their low cost, they are robust enough for a wide range of experiments. Add-ons are available that enable capturing rotating frame footage, changing the rotation rate and fixing larger tanks.
 
 ### [Learn more about the LEGO-Based Tables here](/pages/lego.html)
 

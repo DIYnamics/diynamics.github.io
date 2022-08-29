@@ -15,7 +15,7 @@ Already have your table assembled and working? Head over to the [Teaching](/page
 
 The LEGO-Based Tables are rotating tank platforms created using LEGOs and other household items for $80 or less. The tables provide a robust and affordable solution for performing rotating tank experiments that model geophysical fluid dynamics!
 
-The tables are composed of the 1) LEGO assembly, 2) OXO lazy susan and 3) clear cylindrical tank. The tank is placed at the center of the lazy susan and filled with water. The LEGO assembly supports a horizontal drive wheel that contacts and rotates the lazy susan via a battery powered LEGO Power Functions motor.
+The tables are composed of the 1) LEGO assembly, 2) OXO kitchen turntable and 3) clear cylindrical tank. The tank is placed at the center of the turntable and filled with water. The LEGO assembly supports a horizontal drive wheel that contacts and rotates the turntable via a battery powered LEGO Power Functions motor.
 
 The LEGO-Based Tables consist of 2 variants, the **LEGO Table** and the **Technics Table**, characterized by their LEGO assembly designs.
 
@@ -23,13 +23,13 @@ The LEGO-Based Tables consist of 2 variants, the **LEGO Table** and the **Techni
 
 *The LEGO Table features a minimalist LEGO assembly.*
 
-Developed in 2017, the first generation **LEGO Table** can be purchased in its entirety (LEGO assembly, lazy susan and tank) for **$55**. The LEGO Table was developed to fulfill our goals of providing a rotating tank platform accessible to as many classrooms as possible. Its LEGO assembly is composed of LEGO pieces to create a minimalist design.
+Developed in 2017, the first generation **LEGO Table** can be purchased in its entirety (LEGO assembly, turntable and tank) for **$55**. The LEGO Table was developed to fulfill our goals of providing a rotating tank platform accessible to as many classrooms as possible. Its LEGO assembly is composed of LEGO pieces to create a minimalist design.
 
 {% img {static}../../images/kits/lego/lego_assembly_technics.png 400 Technics Table LEGO assembly %}
 
 *The Technics Table features a fortified LEGO assembly.*
 
-Developed in 2020, the second generation **Technics Table** can be purchased in its entirety (LEGO assembly, lazy susan and tank) for **$80**. The Technics Table was developed incorporating feedback from the DIYnamics community's experiences with the LEGO Table. Its LEGO assembly utilizes Technics, a variety of LEGO, pieces to maintain stronger connections and a larger baseplate to improve stability. These improvements result in a design that is more complex but much more permanent than its predecessor.
+Developed in 2020, the second generation **Technics Table** can be purchased in its entirety (LEGO assembly, turntable and tank) for **$80**. The Technics Table was developed incorporating feedback from the DIYnamics community's experiences with the LEGO Table. Its LEGO assembly utilizes Technics, a variety of LEGO, pieces to maintain stronger connections and a larger baseplate to improve stability. These improvements result in a design that is more complex but much more permanent than its predecessor.
 
 Both the LEGO Table and Technics Table enable you to perform rotating tank experiments modeling fluid dynamics! Choose either design to perform your experiments. The LEGO Table remains a great option as our most inexpensive and easiest to build platform. However, especially for repeated or prolonged demonstrations, we've learned from users all over the world that it can sometimes be inconsistent. The Technics Table has greater upfront costs but its much improved rigidity results in a better overall experience -- the platform is more stable and less prone to losing contact or breaking during demonstrations. The DIYnamics community has developed add-ons that increase the functionality of both designs for stunning results!
 
@@ -79,9 +79,9 @@ This PDF describes how to control the motor powering the LEGO Table and place it
 ### [Guide to Using LEGO Power Functions for the Technics Table PDF]({static}../../pdfs/technics/Power_Functions_Guide.pdf)
 This PDF describes how to control the motor powering the Technics Tables.
 ### [Guide to Operating the Technics Table PDF]({static}../../pdfs/technics/Operating_the_DIYnamics_Technics_Table.pdf)
-This PDF describes how to place the modules (LEGO assembly, lazy susan and tank) of the Technics Table together and get the table up and running for experiments!
+This PDF describes how to place the modules (LEGO assembly, turntable and tank) of the Technics Table together and get the table up and running for experiments!
 
-Over time, rubber may begin to shred off from the LEGO assembly's tire. This will disrupt the contact between the wheel and the lazy susan leading to an inconsistent rotation rate. Replace the LEGO assembly's tire once significant shredding occurs.
+Over time, rubber may begin to shred off from the LEGO assembly's tire. This will disrupt the contact between the wheel and the turntable leading to an inconsistent rotation rate. Replace the LEGO assembly's tire once significant shredding occurs.
 
 ---
 
@@ -117,11 +117,11 @@ This PDF describes how to livestream footage from a phone in the rotating frame 
 
 ## Installing a Sidewall Tank
 
-The LEGO-Based Table couples LEGOs and a lazy susan to create a rotating platform. A tank is mounted atop the rotating platform and filled with water to model planetary fluid bodies. The tank's dimensions are significant because a fluid body's diameter and height are key parameters influencing its behavior. In general, a larger tank expands the breadth and quality of experiments possible with the LEGO-Based Table.
+The LEGO-Based Table couples LEGOs and a turntable to create a rotating platform. A tank is mounted atop the rotating platform and filled with water to model planetary fluid bodies. The tank's dimensions are significant because a fluid body's diameter and height are key parameters influencing its behavior. In general, a larger tank expands the breadth and quality of experiments possible with the LEGO-Based Table.
 
-To this end, the standard 8" diameter x 4" height tank can be replaced with a wider and taller option. However, finding a tank that is clear and larger whilst remaining affordable is challenging. To this end, if one is available, an option is to affix an acrylic cylinder to the lazy susan to create an integrated rotating tank platform -- the Sidewall Tank. Note that acrylic cylinders can be costly -- the DIYnamics Team is searching for affordable options. The video utilizes an acrylic cylinder custom ordered from [Reynolds Polymer](https://www.reynoldspolymer.com/) and provides a general overview for installing a Sidewall Tank.
+To this end, the standard 8" diameter x 4" height tank can be replaced with a wider and taller option. However, finding a tank that is clear and larger whilst remaining affordable is challenging. To this end, if one is available, an option is to affix an acrylic cylinder to the turntable to create an integrated rotating tank platform -- the Sidewall Tank. Note that acrylic cylinders can be costly -- the DIYnamics Team is searching for affordable options. The video utilizes an acrylic cylinder custom ordered from [Reynolds Polymer](https://www.reynoldspolymer.com/) and provides a general overview for installing a Sidewall Tank.
 
-**Disclaimer: Do not lift the Sidewall Tank to drain.** Moving the Sidewall Tank whilst carrying water can warp the lazy susan. Consequently, the silicone may peel off thus detaching the acrylic cylinder from the lazy susan. A safe way to empty the Sidewall Tank is to 1) use a cup to remove most of the water then 2) use sponges or towels to soak remaining water.
+**Disclaimer: Do not lift the Sidewall Tank to drain.** Moving the Sidewall Tank whilst carrying water can warp the turntable. Consequently, the silicone may peel off thus detaching the acrylic cylinder from the turntable. A safe way to empty the Sidewall Tank is to 1) use a cup to remove most of the water then 2) use sponges or towels to soak remaining water.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sN1ahWml17w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -133,9 +133,9 @@ To this end, the standard 8" diameter x 4" height tank can be replaced with a wi
 
 _The DIY Sidewall Tank offers a wider and taller tank greatly enhancing the experimental results possible!_
 
-The DIY Sidewall Tank is an affordable yet effective alternative to the Sidewall Tank. In lieu of the Sidewall Tank's purpose-built acrylic cylinder, the DIY Sidewall Tank utilizes a homemade acrylic cylinder offering similar diameter and height. The acrylic cylinder is created by bending an acrylic sheet then attaching the ends together. The acrylic cylinder is mounted on the lazy susan to form an integrated rotating tank platform. The DIY Sidewall Tank is a fraction of the cost of the Sidewall Tank -- $40 for core components. Meanwhile, the design is perfect for experiments involving large fluid bodies (e.g. baroclinic instability)! Note that the DIY Sidewall Tank features a thin sidewall thus precluding mounting cameras in the rotating frame. Nevertheless, using tools like [DIYrotate](https://diyrot.epss.ucla.edu/), capturing stunning results is very doable!
+The DIY Sidewall Tank is an affordable yet effective alternative to the Sidewall Tank. In lieu of the Sidewall Tank's purpose-built acrylic cylinder, the DIY Sidewall Tank utilizes a homemade acrylic cylinder offering similar diameter and height. The acrylic cylinder is created by bending an acrylic sheet then attaching the ends together. The acrylic cylinder is mounted on the turntable to form an integrated rotating tank platform. The DIY Sidewall Tank is a fraction of the cost of the Sidewall Tank -- $40 for core components. Meanwhile, the design is perfect for experiments involving large fluid bodies (e.g. baroclinic instability)! Note that the DIY Sidewall Tank features a thin sidewall thus precluding mounting cameras in the rotating frame. Nevertheless, using tools like [DIYrotate](https://diyrot.epss.ucla.edu/), capturing stunning results is very doable!
 
-**Disclaimer: Do not lift the DIY Sidewall Tank to drain.** Moving the DIY Sidewall Tank whilst carrying water can warp the lazy susan. Consequently, the silicone may peel off thus detaching the acrylic cylinder from the lazy susan. A safe way to empty the DIY Sidewall Tank is to 1) use a cup to remove most of the water then 2) use sponges or towels to soak remaining water.
+**Disclaimer: Do not lift the DIY Sidewall Tank to drain.** Moving the DIY Sidewall Tank whilst carrying water can warp the turntable. Consequently, the silicone may peel off thus detaching the acrylic cylinder from the turntable. A safe way to empty the DIY Sidewall Tank is to 1) use a cup to remove most of the water then 2) use sponges or towels to soak remaining water.
 
 ### [Guide to Building the DIY Sidewall Tank PDF]({static}../../pdfs/technics/DIY_Sidewall_Tank_Guide.pdf)
 This PDF describes how to build the DIY Sidewall Tank. View the Technics Table Parts List PDF for a list of required components.
@@ -144,7 +144,7 @@ This PDF describes how to build the DIY Sidewall Tank. View the Technics Table P
 
 ## Switching Wheels
 
-The LEGO-Based Tables offer the flexibility to switch wheels driving the lazy susan. Analogous to a higher gear ratio, using a larger wheel will increase rotation rate and vice versa. The Technics Table, designed to provide a more stable platform compared to its predecessor, features an adjustable arm that can be calibrated to different wheels.
+The LEGO-Based Tables offer the flexibility to switch wheels driving the turntable. Analogous to a higher gear ratio, using a larger wheel will increase rotation rate and vice versa. The Technics Table, designed to provide a more stable platform compared to its predecessor, features an adjustable arm that can be calibrated to different wheels.
 
 ### [Guide to Using Different Wheels PDF]({static}../../pdfs/technics/Adjustable_Arm_Guide.pdf)
 This PDF describes how to switch wheels driving the Technics Table.

@@ -3,15 +3,15 @@ Slug: tips
 
 ## Table of Contents
 
-- [Maintaining a Safe Environment](#maintaining-a-safe-environment)  
-- [Leveling and Centering a Tank](#leveling-and-centering-a-tank)  
-- [Filling and Draining a Tank](#filling-and-draining-a-tank)  
-- [Establishing Solid Body Rotation](#establishing-solid-body-rotation)  
-- [Reducing Surface Tension](#reducing-surface-tension)  
-- [Visualizing Fluid Motions](#visualizing-fluid-motions)  
-- [Creating a Cold Source](#creating-a-cold-source)  
-- [Filming an Experiment](#filming-an-experiment)  
-- [Obtaining Rotating Frame Results](#obtaining-rotating-frame-results)  
+- [Maintaining a Safe Environment](#maintaining-a-safe-environment)
+- [Leveling and Centering a Tank](#leveling-and-centering-a-tank)
+- [Filling and Draining a Tank](#filling-and-draining-a-tank)
+- [Establishing Solid Body Rotation](#establishing-solid-body-rotation)
+- [Reducing Surface Tension](#reducing-surface-tension)
+- [Visualizing Fluid Motions](#visualizing-fluid-motions)
+- [Creating a Cold Source](#creating-a-cold-source)
+- [Filming an Experiment](#filming-an-experiment)
+- [Obtaining Rotating Frame Results](#obtaining-rotating-frame-results)
 
 ---
 
@@ -33,9 +33,9 @@ The DIYnamics Kits provide opportunities for audience members to play an active 
 
 **Disclaimer: Be careful to stay clear of moving parts.** The DJ Table and HT3 Table feature metal frames and robust motors. Caution tape can be used to set boundaries for audience members to safely observe and analyze results whilst out of the path of moving parts.
 
-**Recommended Parts**  
-- [GFCI Plug](https://www.amazon.com/dp/B000XVG72G)  
-- [Caution Tape](https://www.amazon.com/TopSoon-Barricade-2-8-Inch-Non-Adhesive-Construction/dp/B07316Q67T)  
+**Recommended Parts**
+- [GFCI Plug](https://www.amazon.com/dp/B000XVG72G)
+- [Caution Tape](https://www.amazon.com/TopSoon-Barricade-2-8-Inch-Non-Adhesive-Construction/dp/B07316Q67T)
 
 ---
 
@@ -55,9 +55,9 @@ When performing experiments with the DIYnamics Kits or any other rotating tank p
 
 A tank can be leveled by iteratively and incrementally using a level to examine a surface's incline and shims to adjust supports accordingly. The fluid layer of a leveled tank will be of uniform height. A tank can be centered by matching its middlepoint to the system's axis of rotation and fixing any deviations during rotation. The rim of a centered tank will follow a consistent track throughout an entire rotation cycle.
 
-**Recommended Parts**  
-- [Level](https://www.homedepot.com/p/Empire-9-in-Torpedo-Level-587-24/100653523)  
-- [Shims](https://www.amazon.com/Broadfix-Revolutionary-Flat-Shims-60/dp/B01M1I4409)  
+**Recommended Parts**
+- [Level](https://www.homedepot.com/p/Empire-9-in-Torpedo-Level-587-24/100653523)
+- [Shims](https://www.amazon.com/Broadfix-Revolutionary-Flat-Shims-60/dp/B01M1I4409)
 
 ### [Guide to Leveling a Tank](/pages/leveling-guide.html)
 
@@ -71,13 +71,13 @@ _The HT3 Table can hold approximately 30 gallons (113 liters) of water when fill
 
 The DIYnamics Kits utilize rotating tanks of water to model the fluid dynamics behind our (and other) planet's weather, ocean currents and more! Performing experiments necessitates filling and draining water from tanks -- be prepared to handle water logistics. To fill a tank, jugs can be used to carry water. To drain a tank, a manual option consists of using cups and a hand operated siphon drum pump to remove water. However, for larger tanks as found in the DJ Table or HT3 Table, using an electric powered utility pump is a convenient and quick automatic option. For both filling and draining a tank, having a water source and sink available nearby is ideal.
 
-**Recommended Parts**  
-- [Jug](https://www.amazon.com/Reusable-Container-Residential-Commercial-Emergency/dp/B08FQCHRVM)  
-- [Siphon Drum Pump](https://www.amazon.com/Liquid-Fuel-Transfer-Siphon-Pump/dp/B06XKHP8Q4) for manual draining  
-- [Utility Pump](https://www.amazon.com/dp/B08BLSVHFJ) and [Hose](https://www.amazon.com/Solution4Patio-Garden-Lead-Hose-Fittings-Dehumidifier/dp/B086MF736T) for automatic draining    
-- [Bucket](https://www.homedepot.com/p/The-Home-Depot-5-Gal-Homer-Bucket-05GLHD2/100087613)  
-- [Sponge](https://www.amazon.com/Scotch-Brite-Non-Scratch-Scrub-Sponge-6-Sponges/dp/B0043P0IAK)  
-- [Towel](https://www.amazon.com/AmazonBasics-Fade-Resistant-Towel-Set-6-Piece/dp/B00Q7JEEF0)  
+**Recommended Parts**
+- [Jug](https://www.amazon.com/Reusable-Container-Residential-Commercial-Emergency/dp/B08FQCHRVM)
+- [Siphon Drum Pump](https://www.amazon.com/Liquid-Fuel-Transfer-Siphon-Pump/dp/B06XKHP8Q4) for manual draining
+- [Utility Pump](https://www.amazon.com/dp/B08BLSVHFJ) and [Hose](https://www.amazon.com/Solution4Patio-Garden-Lead-Hose-Fittings-Dehumidifier/dp/B086MF736T) for automatic draining
+- [Bucket](https://www.homedepot.com/p/The-Home-Depot-5-Gal-Homer-Bucket-05GLHD2/100087613)
+- [Sponge](https://www.amazon.com/Scotch-Brite-Non-Scratch-Scrub-Sponge-6-Sponges/dp/B0043P0IAK)
+- [Towel](https://www.amazon.com/AmazonBasics-Fade-Resistant-Towel-Set-6-Piece/dp/B00Q7JEEF0)
 
 ### [Guide to Operating a Utility Pump](/pages/utility-pump-guide.html)
 
@@ -92,7 +92,7 @@ _Fluid layer in (L) and not in (R) a state of solid body rotation (colloquially 
 
 Rotating tank platforms model the real world by capturing the fundamental impact of a planet's rotation on its fluid bodies. Specifically, the planet's rotation establishes a state of solid body rotation in its fluid bodies. Thus, experiments are predicated on the rotating tank platform being similarly spun up.
 
-Solid body rotation refers to a fluid layer rotating at the same velocity as its system. This can include the Earth's oceans rotating in sync with the planet or a tank of water rotating in sync with its lazy susan. At rest, the fluid layer and the system feature a velocity of zero. Upon commencing rotation, the system quickly reaches its rate. However, the fluid layer initially does not match the velocity of the system. As the system continues to rotate, the fluid layer is pulled by friction to the same rate starting from the boundaries inwards. Eventually, the fluid layer reaches solid body rotation with the system. 
+Solid body rotation refers to a fluid layer rotating at the same velocity as its system. This can include the Earth's oceans rotating in sync with the planet or a tank of water rotating in sync with its turntable. At rest, the fluid layer and the system feature a velocity of zero. Upon commencing rotation, the system quickly reaches its rate. However, the fluid layer initially does not match the velocity of the system. As the system continues to rotate, the fluid layer is pulled by friction to the same rate starting from the boundaries inwards. Eventually, the fluid layer reaches solid body rotation with the system.
 
 The DIYnamics Kits generally require several minutes to establish a state of solid body rotation -- the length of time required increases with size of tank and decreases with rotation rate. You can test whether the fluid layer is spun up by adding a drop of food coloring. If the dye remains in place, the water is in a state of solid body rotation -- the fluid layer and the system feature the same velocity resulting in no movement. Meanwhile, if the dye expands contrary to the rotation direction, the water has not reached a state of solid body rotation -- the system is faster than the fluid layer resulting in the the prior dragging the latter along.
 
@@ -111,7 +111,7 @@ Surface tension is detrimental to many experiments because the resistance at the
 
 To reduce surface tension, we can add a surfactant or compound that reduces attraction between molecules to the water. Dish soap is an everyday example of a surfactant. Add a drop of dish soap into the water before starting your experiment. This will break the surface tension at the water's surface thus reducing resistance and allowing us to study the fluid dynamics of its body.
 
-**Recommended Parts**  
+**Recommended Parts**
 - [Dish Soap](https://www.amazon.com/Palmolive-Ultra-Liquid-Clear-Ounce/dp/B01NAPQCXB)
 
 ---
@@ -126,15 +126,15 @@ The DIYnamics Kits model the fluid dynamics of Earth's (and other planet's) atmo
 
 _Rotating column experiment with food coloring. Notice how the food coloring tracks each tendril of the fluid flows and provides a 3D view of structures._
 
-Food coloring is the go-to option for visualizing fluid motions. Observing the progression of dye through water provides an intuitive glimpse into fluid flows. Note that marked and unmarked fluid are both subject to the fluid dynamics of the system -- the dye merely allows us to track the fluid with our naked eye. A benefit of food coloring is that its semitransparent nature provides a 3D view of structures. Furthermore, using a variety of colors can help illustrate the interaction between different regions of the fluid layer. Tips for working with food coloring includes adding surfactant to the water and avoiding excess -- the dye works best when there is contrast. Food coloring is a precise and straightforward solution perfect for the majority of experiments! 
+Food coloring is the go-to option for visualizing fluid motions. Observing the progression of dye through water provides an intuitive glimpse into fluid flows. Note that marked and unmarked fluid are both subject to the fluid dynamics of the system -- the dye merely allows us to track the fluid with our naked eye. A benefit of food coloring is that its semitransparent nature provides a 3D view of structures. Furthermore, using a variety of colors can help illustrate the interaction between different regions of the fluid layer. Tips for working with food coloring includes adding surfactant to the water and avoiding excess -- the dye works best when there is contrast. Food coloring is a precise and straightforward solution perfect for the majority of experiments!
 
 ### Option 2: Barbasoloscope
 
 {% img {static}../images/guides/visualization/barbasoloscope-stir.gif 225 Barbasoloscope stirring %}
 {% img {static}../images/guides/visualization/barbasoloscope-convection.png 300 Barbasoloscope convection %}
 
-_(L) Stirring Barbasoloscope. The rheoscopic fluid is produced by mixing water and shaving cream. Stearic acid crystals in suspension mark fluid flows. Notice the bubbles at the surface -- an oily film rises atop the solution after agitation. Utilize a paper towel to skim off the oily and bubbly layer.  
-(R) Non-rotating convection experiment with Barbasoloscope. Cells of overturning hot and cold water can be observed in stunning detail. Barbasoloscope provides both a complete yet incomplete perspective in different respects -- all fluid motions are visible only for a 2D view of the surface.  
+_(L) Stirring Barbasoloscope. The rheoscopic fluid is produced by mixing water and shaving cream. Stearic acid crystals in suspension mark fluid flows. Notice the bubbles at the surface -- an oily film rises atop the solution after agitation. Utilize a paper towel to skim off the oily and bubbly layer.
+(R) Non-rotating convection experiment with Barbasoloscope. Cells of overturning hot and cold water can be observed in stunning detail. Barbasoloscope provides both a complete yet incomplete perspective in different respects -- all fluid motions are visible only for a 2D view of the surface.
 [Here](https://youtu.be/LMvHbU86akU) is a video of Barbasoloscope in action!_
 
 Rheoscopic fluid refers to a fluid containing microscopic reflective crystals in suspension. The crystals align themselves with fluid motions and reflect light thus highlighting fluid flows. The crystals are analogous to bioluminescent algae in the oceans. Rheoscopic fluid is ideal for experiments such as convection because it marks currents at fine scales. However, rheoscopic fluid is opaque and thus, structures are only visible from the surface -- a 2D view. Although commercially prepared rheoscopic fluids are available, a safe and fun Do-It-Yourself rheoscopic fluid can be made by mixing water and shaving cream as highlighted in [Rheoscopic fluids in a post-Kalliroscope world](https://doi.org/10.1063/1.5045053) by Borrero-Echeverry et al. (2018). Termed Barbasoloscope, the solution provides a stunning visualization of fluid motions!
@@ -148,16 +148,16 @@ An unwanted byproduct formed when making Barbasoloscope is an oily and bubbly fi
 {% img {static}../images/guides/visualization/foam-dot-material.png 300 Foam dots %}
 {% img {static}../images/guides/visualization/foam-dot-pacific-garbage-patch.png 400 Great Pacific garbage patch %}
 
-_(L) Hole punches of foam sheets serve as excellent floating particles. The foam dots summarize fluid flows at the surface of a fluid layer.  
-(R) Great Pacific garback patch experiment with foam dots. The hole punches of foam sheets represent plastic waste floating in the Pacific Ocean. Air blown from fans in the model represent currents in the real world that gather debris into large groups with significant detrimental effects for the biosphere.  
+_(L) Hole punches of foam sheets serve as excellent floating particles. The foam dots summarize fluid flows at the surface of a fluid layer.
+(R) Great Pacific garback patch experiment with foam dots. The hole punches of foam sheets represent plastic waste floating in the Pacific Ocean. Air blown from fans in the model represent currents in the real world that gather debris into large groups with significant detrimental effects for the biosphere.
 [Here](https://youtu.be/ojlbI9B0L9U) is a video of particles in action!_
 
 Food coloring and rheoscopic fluid highlight fluid flows by marking the fluid itself. This provides a detailed perspective on every twist and turn currents take. Particles highlight fluid flows by being carried along with the fluid. This provides a broad perspective on the dominant direction of currents. The particles are analogous to plastic waste in the oceans. A benefit of particles is that their paths summarize fluid motions in the system and provide discrete data points for analysis. Floating and sinking particles can be used to illustrate fluid motions at the surface and floor of a fluid layer respectively. Floating particles can be made by taking hole punches of foam sheets and sinking particles include chia seeds. Particles provide an intuitive and pertinent marker for fluid flows!
 
-**Recommended Parts**  
-- [Food Coloring](https://www.amazon.com/dp/B00GNHIBZU)  
-- [Barbasol](https://www.amazon.com/Barbasol-Shave-Cream-Original-10/dp/B00MUEG1UW)  
-- [Foam Sheets](https://www.amazon.com/Sheets-Assorted-Better-Office-Products/dp/B089DPDYKV)  
+**Recommended Parts**
+- [Food Coloring](https://www.amazon.com/dp/B00GNHIBZU)
+- [Barbasol](https://www.amazon.com/Barbasol-Shave-Cream-Original-10/dp/B00MUEG1UW)
+- [Foam Sheets](https://www.amazon.com/Sheets-Assorted-Better-Office-Products/dp/B089DPDYKV)
 - [Chia Seeds](https://www.amazon.com/BetterBody-Foods-Contains-Gluten-free-Smoothies/dp/B00MPQ5ZOS)
 
 ---
@@ -183,15 +183,15 @@ To this end, an alternative approach consists of fixing a container in the tank 
 {% img {static}../images/guides/cold-source/cold-source-5.png 300 Cold source step 5 %}
 {% img {static}../images/guides/cold-source/cold-source-6.png 300 Cold source step 6 %}
 
-Step 1: Gather materials -- empty can with lid removed, vaseline, weights (e.g. coins) and ice.  
-Step 2: Apply vaseline to the bottom of the can. The vaseline will create a temporary seal between the can and the tank.  
-Step 3: Push vaseline end down to fix the can to the center of the tank.  
-Step 4: Add the weights to the can and fill the can approximately one third full with water. The weights serve to prevent the can from floating once water is added to the tank. The water serves to help the ice added later couple with its surroundings for transfer of heat.  
-Step 5: Add water to the tank and begin spin up. Once the system is in a state of solid body rotation, fill the can with ice.  
+Step 1: Gather materials -- empty can with lid removed, vaseline, weights (e.g. coins) and ice.
+Step 2: Apply vaseline to the bottom of the can. The vaseline will create a temporary seal between the can and the tank.
+Step 3: Push vaseline end down to fix the can to the center of the tank.
+Step 4: Add the weights to the can and fill the can approximately one third full with water. The weights serve to prevent the can from floating once water is added to the tank. The water serves to help the ice added later couple with its surroundings for transfer of heat.
+Step 5: Add water to the tank and begin spin up. Once the system is in a state of solid body rotation, fill the can with ice.
 Step 6: Proceed with your experiment!
 
-**Recommended Parts**  
-- [Vaseline](https://www.amazon.com/Vaseline-Blueseal-Petroleum-Jelly-Original/dp/B019MXNCFU)  
+**Recommended Parts**
+- [Vaseline](https://www.amazon.com/Vaseline-Blueseal-Petroleum-Jelly-Original/dp/B019MXNCFU)
 - [Ice Cube Tray](https://www.amazon.com/DOQAUS-Easy-Release-Spill-Resistant-Removable-Certified/dp/B088CR8NMD)
 
 ---
@@ -208,7 +208,7 @@ _Smartphones are convenient and effective for capturing footage of experiments! 
 
 All you need to start filming is your smartphone! Action cameras like [GoPros](https://gopro.com/en/us/) pack significant capabilities in a small package whilst enthusiast cameras like DSLRs offer high quality. Nevertheless, the core functionality needed can be obtained with the device in your pocket. Choose the option best for you! The filming setup can most often be put together from household items or with affordable consumer grade gear. We recommend the gooseneck camera clamp for supporting your smartphone. Its long flexible arm enables tuning the smartphone's position until the shot is framed just right. Meanwhile, its thin yet sturdy frame make it compact enough to stay out of the way of experiments. Note that each DIYnamics Kits features an option for mounting a camera in the system. Other equipment to consider includes lighting. The choice depends on the filming environment and experimental requirements but the general goal is to illuminate the scene whilst avoiding common pitfalls described below. The choice of equipment is overall flexible -- adapt to your demonstration with materials at hand.
 
-**Recommended Parts**  
+**Recommended Parts**
 - [Gooseneck Camera Clamp](https://www.amazon.com/gp/product/B07S8GNV12)
 
 ### Framing a Shot
@@ -256,7 +256,7 @@ A highlight of the DIYnamics Kits is that audience members can play an active ro
 {% img {static}../images/guides/rotating-frame/rotating-frame-explanation.png 400 Rotating frame explanation %}
 {% img {static}../images/guides/rotating-frame/rotating-frame-result.gif 400 Rotating frame results %}
 
-_(L) Rotating versus stationary frame. The rotating frame is analogous to a person observing a planet from its poles -- the person is inside the system and rotating in sync. The stationary frame is analogous to a spacecraft observing a planet from afar -- the spacecraft is outside of the system and fixed.  
+_(L) Rotating versus stationary frame. The rotating frame is analogous to a person observing a planet from its poles -- the person is inside the system and rotating in sync. The stationary frame is analogous to a spacecraft observing a planet from afar -- the spacecraft is outside of the system and fixed.
 (R) Rotating frame results for baroclinic instability. The perspective enables observing fluid motions sans rotation! It is the go-to option for analysis._
 
 When the tank on any of the DIYnamics Kits is rapidly rotating, it can be hard to see the more subtle behaviors occurring inside. To get around this, it is really helpful to assume the view of an observer looking at the tank from above and spinning in sync -- what we call the rotating frame. There are two options for obtaining rotating frame results:

@@ -1,6 +1,6 @@
 Title: The HT3 Table
 Slug: ht3
-​
+
 Experimenting with your own HT3 Table is fun and easy!
 
 Already have your table assembled and working? Head over to the [teaching](/pages/teaching.html) page to learn how to incorporate it into the classroom. Otherwise, this page provides everything you need to know to order, build and operate one yourself.
@@ -16,10 +16,10 @@ The HT3 Table is a specially designed system including a large rotating tank, li
 ---
 
 ## How to Order and Build the HT3 Table
-​
+
 Here we describe the steps to buying components for and assembling the HT3 Table.
-​
-### [Order Sheet PDF]({static}../../pdfs/ht3/HT3_Order_Sheet.pdf)
+
+### [Order Sheet PDF]({static}../../pdfs/ht3/HT3-OrderSheetv2.pdf)
 This PDF contains all the required parts to assemble the HT3 Table. Both the cart and the frame are machined from MiniTec such that they do not require any power tools to assemble. Since the tank is sizeable and costly to ship, its schematics are provided so that you can reach out to local acrylics shops for fabrication if desired.
 ### [HT3 Frame Instructions PDF]({static}../../pdfs/ht3/HT3_Frame_Manual.PDF)
 This PDF details the construction of the HT3 Frame including the required tools.
@@ -45,7 +45,7 @@ Note that these are just recommended sources, these items can be found through a
 ---
 
 ## Operating the HT3 Table
-​
+
 Here is a video detailing how to use the HT3 Table.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-RKnzAz3yw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -62,5 +62,5 @@ Here are helpful tips when using any of the DIYnamics Kits. We greatly value fee
 
 ## Learning and Teaching with the HT3 Table
 Once you have your table assembled and operating, head over to our [teaching](/pages/teaching.html) page to learn how to use the table to perform some demonstrations and to incorporate them into an effective teaching module.
-​
+
 New videos of a variety of experiments and demonstrations being done with the HT3 are available on the [DIYnamics Team YouTube channel](https://www.youtube.com/channel/UCnUHxOSVY4G4OFbF8XL1qUg).
