@@ -15,7 +15,7 @@ On May 21 and 22, 2022, the DIYnamics Lego table was in action at the [New Jerse
 
 {% img {static}../images/nj-ocean-2022/nj-ocean4.jpg 600 NJ Ocean 4 %}
 
-_Spencer performing the classic rotating v. non-rotating fluids demo with Hiro's enthusiastic oversight._
+_Spencer performing the classic rotating v. non-rotating fluids demo with Yushi's enthusiastic oversight._
 
 These events for the public included many other booths with information about New Jersey's oceans and beaches.  Our table included the classic rotating vs. non-rotating demo using the DIYnamics lego kit, as well as the beloved tornado-in-a-bottle and a really nice demonstration of the effect of salinity on the rate of ice melt.
 
@@ -27,7 +27,7 @@ The DIYnamics lego kit shined in being so portable and easy to use.  In fact, ot
 
 {% img {static}../images/nj-ocean-2022/nj-ocean3.jpg 600 NJ Ocean 3 %}
 
-_Hiro made friends!_
+_Yushi made friends!_
 
 
 {% img {static}../images/nj-ocean-2022/nj-ocean5.jpg 600 NJ Ocean 5 %}
