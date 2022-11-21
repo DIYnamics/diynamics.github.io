@@ -134,16 +134,17 @@ of science to non-scientists and students of all backgrounds (and
 maybe help inspire a few future scientists). [Link to Juan's
 webpage](https://people.earth.yale.edu/profile/juan-lora/about)
 
-{% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
+{% img {static}../images/people/jmoscoso.jpg 200 Jordyn Moscoso %}
 
-**Jordyn Moscoso** (Graduate student, UCLA Dept. of Atmospheric and
-Oceanic Sciences)<br>Jordyn is a graduate student in the Atmospheric
-and Oceanic Sciences department studying oceanography and ocean
-dynamics. She is excited to be a part of the DIYnamics team and is
-working to bring DIYnamics into the curriculum in the AOS
-department. She is also a member of the Society of Women Geoscientsts
-and uses DIYnamics to give hands on experiences to women, girls, and
-people of other classically underrepresented genders in STEM.
+**Jordyn Moscoso** (NSF Postdoctoral Research Fellow, UC Santa Cruz, 
+Department of Ocean Sciences)<br> Jordyn is postdoc in the Ocean 
+Sciences department studying the impact of wildfires on 
+phytoplankton blooms in the Califonria Current System. Her main goal
+with DIYnamics is to develop teaching curriculum to bring the 
+essentials of climate and climate dynamics to classrooms ranging from
+K-12 to undergradute and graduate level. She has also created a 
+series of videos used to teach core concepts at the upper division 
+undergraduate level. [Link to Jordyn's Teaching Videos](https://www.youtube.com/channel/UC-yZfVJlsD8wz20YGTh9usw)
 
 
 ---
