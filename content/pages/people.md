@@ -8,16 +8,7 @@ the world!
 
 ## Co-directors
 
-{% img {static}../images/people/spencer-hill.jpg 200 Spencer Hill %}
-
-**Spencer Hill** (Postdoc, Lamont-Doherty Earth Observatory, Columbia
-University)<br>Along with Juan Lora and Jon Aurnou, Spencer co-founded
-DIYnamics and is a co-director.  Spencer loves using rotating tanks to
-teach core science concepts, and his dream is to put a DIYnamics
-rotating tank kit in every science classroom in the country. [Link to
-Spencer's webpage](http://www.ldeo.columbia.edu/~shill)
-
-{% img {static}../images/people/Aurnou.jpg 200 Jonathan Aurnou %}
+{% img {static}../images/people/jonathan-aurnou.jpeg 200 Jonathan Aurnou %}
 
 **Jonathan Aurnou** (Professor, UCLA Dept. of Earth, Planetary, and
 Space Sciences)<br>Along with Juan Lora and Spencer Hill, Jon co-founded
@@ -26,6 +17,43 @@ satisfying as developing inexpensive, portable rotating tables for
 teaching core geoscience topics.  Thus, he is so pleased to be a part
 of the DIYnamics project. [Link to Jon's
 webpage](http://epss.ucla.edu/people/faculty/543/)
+
+
+{% img {static}../images/people/jordyn-moscoso.jpg 200 Jordyn Moscoso %}
+
+**Jordyn Moscoso** (NSF Postdoctoral Research Fellow, UC Santa Cruz,
+Department of Ocean Sciences)<br> Jordyn Moscoso began her time with
+DIYnamics focused on incorporating hands-on demonstrations into
+undergraduate and graduate curriculum at UCLA. While much of her
+initial efforts were working directly with rotating tank
+demonstrations, she recently expanded beyond individual demos to
+incorporate active learning techniques across broader student-led
+learning. Her primary goal with DIYnamics is to make essential
+concepts in earth and climate science tangible through
+discovery-focused activities. Currently, Jordyn is an NSF Postdoctoral
+Research Scholar at UC Santa Cruz. Her research focuses on the impact
+of wildfires on phytoplankton blooms in the California Current System.
+[Link to Jordyn's Teaching
+Videos](https://www.youtube.com/channel/UC-yZfVJlsD8wz20YGTh9usw)
+
+
+{% img {static}../images/people/bill-church.png 200 Bill Church %}
+
+**Bill Church** (White Mountain Science Institute) Bill Church
+works at the intersection of creativity, education, and the STEAM
+fields (Science,Technology,Engineering,Arts,and Math). He is a
+lifelong maker and former public school physics teacher with academic
+training in science, engineering, and education. Bill has used
+computer science, engineering design challenges, inquiry, and
+technology toolsets in education settings for over twenty five years.
+Bill has presented his work on project based learning at many national
+and international conferences and co-authored a book of classroom
+activities entitled, Physics with Robotics.  In 2013, Bill founded
+White Mountain Science, a non-profit STEM outreach and curriculum
+development organization in Northern New Hampshire.  Currently, Bill
+is starting a new venture focused on connecting the public with
+research in Climate STEM topics. Bill and the WMSI team are regular
+collaborators with STEM education innovators near and far.
 
 
 ## Team members (in alphabetical order)
@@ -84,6 +112,18 @@ geoshysical system that will be used for classroom teaching of
 advanced concepts as well as outreach at public events and interactive
 K-12 STEM demonstrations.
 
+
+{% img {static}../images/people/spencer-hill.jpg 200 Spencer Hill %}
+
+**Spencer Hill** (Assistant Professor, Dept. of Earth and Atmospheric
+Sciences, City College of New York)<br>Along with Juan Lora and Jon
+Aurnou, Spencer co-founded DIYnamics and previously served as
+co-director.  Spencer loves using rotating tanks to teach core science
+concepts, and his dream is to put a DIYnamics rotating tank kit in
+every science classroom in the country. [Link to Spencer's
+webpage](http://www.ldeo.columbia.edu/~shill)
+
+
 **Norris Khoo** (Undergraduate, UCLA Dept. of Earth, Planetary, and
 Space Sciences)<br>As part of his undergraduate research at UCLA,
 Norris developed the LEGO-Based Tables for the DIYnamics
@@ -133,18 +173,6 @@ physical phenomena in tangible and exciting ways, and to bring the joy
 of science to non-scientists and students of all backgrounds (and
 maybe help inspire a few future scientists). [Link to Juan's
 webpage](https://people.earth.yale.edu/profile/juan-lora/about)
-
-{% img {static}../images/people/jmoscoso.jpg 200 Jordyn Moscoso %}
-
-**Jordyn Moscoso** (NSF Postdoctoral Research Fellow, UC Santa Cruz, 
-Department of Ocean Sciences)<br> Jordyn is postdoc in the Ocean 
-Sciences department studying the impact of wildfires on 
-phytoplankton blooms in the Califonria Current System. Her main goal
-with DIYnamics is to develop teaching curriculum to bring the 
-essentials of climate and climate dynamics to classrooms ranging from
-K-12 to undergradute and graduate level. She has also created a 
-series of videos used to teach core concepts at the upper division 
-undergraduate level. [Link to Jordyn's Teaching Videos](https://www.youtube.com/channel/UC-yZfVJlsD8wz20YGTh9usw)
 
 
 ---
