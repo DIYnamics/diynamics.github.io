@@ -19,7 +19,7 @@ The HT3 Table is a specially designed system including a large rotating tank, li
 
 Here we describe the steps to buying components for and assembling the HT3 Table.
 
-### [Order Sheet PDF]({static}../../pdfs/ht3/HT3-OrderSheetv2.pdf)
+### [Order Sheet PDF]({static}../../pdfs/ht3/HT3-OrderSheetv4.PDF) 
 This PDF contains all the required parts to assemble the HT3 Table. Both the cart and the frame are machined from MiniTec such that they do not require any power tools to assemble. Since the tank is sizeable and costly to ship, its schematics are provided so that you can reach out to local acrylics shops for fabrication if desired.
 ### [HT3 Frame Instructions PDF]({static}../../pdfs/ht3/HT3_Frame_Manual.PDF)
 This PDF details the construction of the HT3 Frame including the required tools.
