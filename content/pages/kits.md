@@ -11,6 +11,31 @@ The DIYnamics Kits provide rotating tank platforms at various price points, size
 
 ## LEGO-Based Tables - $55 to $80
 
+<div class="alert alert-warning" role="alert">
+
+<p><strong>NOTICE — we have a wonderful new design of the LEGO‑based table!</strong>  
+We are in the <em>slow</em> process of overhauling this website, including hosting the instructions and other materials for this new kit.  
+In the meantime, please consult the resources below.</p>
+
+<ul>
+  <li><strong>Instructions YouTube video:</strong> <a href="https://www.youtube.com/watch?v=JVKPCfq4ieQ">watch here</a></li>
+  <li><strong>Instructions PDF:</strong> <a href="https://drive.google.com/file/d/1hhUmNNpMVjZ8pZb-n00Uac2Da0n25hVN/view">Google Drive link</a></li>
+  <li><strong>Parts list:</strong> <a href="https://docs.google.com/spreadsheets/d/1humW6rjMDf6oExEyAj2l_a6tAPHrFmjnLQawJukC50g/edit?gid=0#gid=0">Google Sheet</a></li>
+  <li><strong>STL files for motor adapter:</strong> <a href="https://drive.google.com/file/d/1GoUSvxFy8-c0j3AwW9w6UQEbBrK_eSbJ/view">download</a></li>
+  <li><strong>Contact:</strong> Jon Aurnou — <a href="mailto:jona@epss.ucla.edu">jona@epss.ucla.edu</a> • <a href="https://epss.ucla.edu/jonathan-aurnou/">profile</a></li>
+</ul>
+
+</div>
+
+<!-- **NOTICE: we have a wonderful new design of the LEGO-based table!  We are in the (slow) process of overhauling this website, including hosting the instructions and other materials for this new kit.  In the meantime, please consult the following:** -->
+
+<!-- - Instructions Youtube video: [https://www.youtube.com/watch?v=JVKPCfq4ieQ](https://www.youtube.com/watch?v=JVKPCfq4ieQ) -->
+<!-- - Instructions PDF: [available here on Google Drive](https://drive.google.com/file/d/1hhUmNNpMVjZ8pZb-n00Uac2Da0n25hVN/view) -->
+<!-- - Parts list: [available here as a Google Doc](https://docs.google.com/spreadsheets/d/1humW6rjMDf6oExEyAj2l_a6tAPHrFmjnLQawJukC50g/edit?gid=0#gid=0) -->
+<!-- - STL files for motor adapter: [available here on Google Drive](https://drive.google.com/file/d/1GoUSvxFy8-c0j3AwW9w6UQEbBrK_eSbJ/view) -->
+<!-- - Contact: Jon Aurnou, [jona@epss.ucla.edu](mailto:jona@epss.ucla.edu); [https://epss.ucla.edu/jonathan-aurnou/](https://epss.ucla.edu/jonathan-aurnou/) -->
+
+
 {% img {static}../images/kits/lego/technics_table.png 333 Technics Table PNG %}
 {% img {static}../images/kits/lego/technics_table.gif 355 Technics Table GIF %}
 

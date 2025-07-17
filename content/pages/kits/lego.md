@@ -1,6 +1,22 @@
 Title: The LEGO-Based Tables
 Slug: lego
 
+<div class="alert alert-warning" role="alert">
+
+<p><strong>NOTICE — we have a wonderful new design of the LEGO‑based table!</strong>  
+We are in the <em>slow</em> process of overhauling this website, including hosting the instructions and other materials for this new kit.  
+In the meantime, please consult the resources below.</p>
+
+<ul>
+  <li><strong>Instructions YouTube video:</strong> <a href="https://www.youtube.com/watch?v=JVKPCfq4ieQ">watch here</a></li>
+  <li><strong>Instructions PDF:</strong> <a href="https://drive.google.com/file/d/1hhUmNNpMVjZ8pZb-n00Uac2Da0n25hVN/view">Google Drive link</a></li>
+  <li><strong>Parts list:</strong> <a href="https://docs.google.com/spreadsheets/d/1humW6rjMDf6oExEyAj2l_a6tAPHrFmjnLQawJukC50g/edit?gid=0#gid=0">Google Sheet</a></li>
+  <li><strong>STL files for motor adapter:</strong> <a href="https://drive.google.com/file/d/1GoUSvxFy8-c0j3AwW9w6UQEbBrK_eSbJ/view">download</a></li>
+  <li><strong>Contact:</strong> Jon Aurnou — <a href="mailto:jona@epss.ucla.edu">jona@epss.ucla.edu</a> • <a href="https://epss.ucla.edu/jonathan-aurnou/">profile</a></li>
+</ul>
+
+</div>
+
 Experimenting with your own LEGO-Based Table is fun and easy!
 
 Already have your table assembled and working? Head over to the [Teaching](/pages/teaching.html) page to learn how to incorporate it into the classroom. Otherwise, this page provides everything you need to know to order, build and operate one yourself.
