@@ -1,11 +1,17 @@
-# Source code for the DIYnamics website: https://diynamics.github.io/
+> [!IMPORTANT]
+> # DIYnamics has moved!
+> **Visit our updated website: [diynamics.ucla.edu](https://diynamics.ucla.edu/)**
+>
+> Find our updated kits, build instructions, and teaching resources there. This repository and its GitHub Pages site are retained as an archive.
+
+# DIYnamics legacy website
 
 This repository holds the source code for the website of the
 "DIYnamics" science education and outreach project.
 
 ## For students and educators
 Want to use or learn more about the DIYnamics materials?  Visit the
-page directly: https://diynamics.github.io/
+updated website: https://diynamics.ucla.edu/
 
 ## For DIYnamics team members (and others who want to chip in)
 If you are a DIYnamics member or someone else interested in improving
